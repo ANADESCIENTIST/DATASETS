@@ -1,0 +1,1449 @@
+TICKER,NAME,SECTOR,average Volume (10 Day),market cap,BETA,
+ITT,ITT Inc,Manufacturing/Construction,"1,000,170",$16B (Mid),1.37,NYS
+LRN,Stride Inc,Education,"1,000,630",$3B (Small),0.1,NYS
+GTN,Gray Media Inc,Entertainment,"1,000,860",$410M (Micro),0.9,NYS
+RJF,Raymond James Financial Inc,Finance,"1,001,160",$33B (Mid),1.02,NYS
+ALNY,Alnylam Pharmaceuticals Inc,Healthcare,"1,001,810",$53B (Large),0.35,NASDAQ
+HOPE,Hope Bancorp Inc,Finance,"1,001,830",$1B (Micro),0.85,NASDAQ
+FFIV,F5 Inc,Technology,"1,003,130",$16B (Mid),1,NASDAQ
+MSI,Motorola Solutions Inc,Technology,"1,005,620",$64B (Large),1,NYS
+ZIP,Ziprecruiter Inc,Technology,"1,007,400",$273M (Micro),1.1,NYS
+HXL,Hexcel Corp,Manufacturing/Construction,"1,007,860",$6B (Small),1.06,NYS
+LOGI,Logitech International SA,Technology,"1,009,010",$14B (Mid),1.11,NASDAQ
+KOD,Kodiak Sciences Inc,Healthcare,"1,015,150",$2B (Micro),2.64,NASDAQ
+PCVX,Vaxcyte Inc,Healthcare,"1,015,810",$6B (Small),1.32,NASDAQ
+SXC,SunCoke Energy Inc,Gold/Precious Metals/Materials,"1,016,200",$674M (Micro),0.97,NYS
+ANGO,AngioDynamics Inc,Healthcare,"1,017,770",$406M (Micro),0.5,NASDAQ
+PSA,Public Storage,Real Estate,"1,018,050",$49B (Large),1.03,NYS
+AEHR,Aehr Test Systems,Technology,"1,020,100",$790M (Micro),2.33,NASDAQ
+OC,Owens Corning,Manufacturing/Construction,"1,021,050",$10B (Mid),1.35,NYS
+TRGP,Targa Resources Corp,Energy/Utilities,"1,022,450",$38B (Mid),0.87,NYS
+VIRT,Virtu Financial Inc,Finance,"1,023,170",$5B (Small),0.6,NYS
+FUTU,Futu Holdings Ltd,Finance,"1,024,370",$17B (Mid),0.43,NASDAQ
+FVRR,Fiverr International Ltd,Technology,"1,026,520",$670M (Micro),1.31,NYS
+AISP,Airship AI Holdings Inc,Technology,"1,026,640",$106M (Micro),0.34,NASDAQ
+WSM,Williams-Sonoma Inc,Manufacturing/Construction,"1,027,720",$24B (Mid),1.64,NYS
+FBP,First BanCorp,Finance,"1,027,890",$3B (Small),0.87,NYS
+PRCT,Procept Biorobotics Corp,Healthcare,"1,028,380",$2B (Micro),0.99,NASDAQ
+AXSM,Axsome Therapeutics Inc,Healthcare,"1,028,460",$9B (Mid),0.39,NASDAQ
+CBRE,CBRE Group Inc,Real Estate,"1,030,520",$49B (Large),1.34,NYS
+OUT,OUTFRONT Media Inc,Real Estate,"1,031,680",$4B (Small),1.55,NYS
+MCW,Mister Car Wash Inc,Auto/Travel/Shipping,"1,032,180",$2B (Micro),1.47,NASDAQ
+PNW,Pinnacle West Capital Corp,Energy/Utilities,"1,034,310",$11B (Mid),0.53,NYS
+LTBR,Lightbridge Corp,Energy/Utilities,"1,034,680",$534M (Micro),1.97,NASDAQ
+XPO,XPO Inc,Industrials,"1,037,280",$17B (Mid),2.06,NYS
+PLTK,Playtika Holding Corp,Entertainment,"1,037,380",$1B (Micro),0.83,NASDAQ
+TEX,Terex Corp,Manufacturing/Construction,"1,037,780",$4B (Small),1.68,NYS
+SSL,Sasol Ltd,Energy/Utilities,"1,038,420",$4B (Small),0.44,NYS
+PLRX,Pliant Therapeutics Inc,Healthcare,"1,041,870",$81M (Micro),1.4,NASDAQ
+TGEN,Tecogen Inc,Manufacturing/Construction,"1,044,950",$142M (Micro),1.32,NYS
+CDXS,Codexis Inc,Healthcare,"1,045,770",$148M (Micro),2.47,NASDAQ
+GWRE,Guidewire Software Inc,Technology,"1,046,210",$16B (Mid),1.06,NYS
+FINV,FinVolution Group,Finance,"1,046,840",$1B (Micro),0.44,NYS
+SMTC,Semtech Corp,Technology,"1,048,420",$7B (Small),2.02,NASDAQ
+QRVO,Qorvo Inc,Technology,"1,048,800",$8B (Small),1.37,NASDAQ
+MAA,Mid-America Apartment Communities Inc,Real Estate,"1,049,370",$16B (Mid),0.78,NYS
+WIX,Wix.Com Ltd,Technology,"1,049,480",$5B (Small),1.42,NASDAQ
+VNO,Vornado Realty Trust,Real Estate,"1,050,250",$7B (Small),1.53,NYS
+CRDF,Cardiff Oncology Inc,Healthcare,"1,050,930",$207M (Micro),1.34,NASDAQ
+LCTX,Lineage Cell Therapeutics Inc,Healthcare,"1,051,000",$394M (Micro),1.81,NYS
+TKC,Turkcell Iletisim Hizmetleri AS,Communication Services,"1,052,460",$5B (Small),0.92,NYS
+TDC,Teradata Corp,Technology,"1,052,630",$3B (Small),0.61,NYS
+HTGC,Hercules Capital Inc,Finance,"1,052,650",$3B (Small),0.79,NYS
+AUPH,Aurinia Pharmaceuticals Inc,Healthcare,"1,053,120",$2B (Micro),1.51,NASDAQ
+CLNE,Clean Energy Fuels Corp,Energy/Utilities,"1,056,000",$467M (Micro),2.21,NASDAQ
+ESTC,Elastic NV,Technology,"1,056,510",$8B (Mid),0.94,NYS
+NOC,NORTHROP GRUMMAN CORP,Govt/Defense/Space,"1,057,630",$88B (Large),0.04,NYS
+TAC,TransAlta Corp,Energy/Utilities,"1,058,870",$4B (Small),0.77,NYS
+ABEO,Abeona Therapeutics Inc,Healthcare,"1,059,060",$281M (Micro),1.17,NASDAQ
+NN,NextNav Inc,Technology,"1,059,240",$2B (Micro),0.98,NASDAQ
+ARLO,Arlo Technologies Inc,Communication Services,"1,059,490",$1B (Micro),1.66,NYS
+RBA,RB Global Inc,Auto/Travel/Shipping,"1,059,750",$20B (Mid),0.54,NYS
+REG,Regency Centers Corp,Real Estate,"1,060,870",$13B (Mid),0.96,NASDAQ
+ORGO,Organogenesis Holdings Inc,Healthcare,"1,061,450",$534M (Micro),1.45,NASDAQ
+STLD,Steel Dynamics Inc,Gold/Precious Metals/Materials,"1,064,270",$25B (Mid),1.47,NASDAQ
+CHGG,Chegg Inc,Education,"1,064,430",$103M (Micro),1.99,NYS
+ECL,Ecolab Inc,Gold/Precious Metals/Materials,"1,064,540",$77B (Large),0.99,NYS
+CATX,Perspective Therapeutics Inc,Healthcare,"1,065,120",$211M (Micro),1.75,NYS
+ZYME,Zymeworks Inc,Healthcare,"1,065,190",$2B (Micro),1.24,NASDAQ
+ARCO,Arcos Dorados Holdings Inc,Food/Beverages/Shopping,"1,065,520",$2B (Micro),0.47,NYS
+CRSR,Corsair Gaming Inc,Technology,"1,068,020",$615M (Micro),1.54,NASDAQ
+ALEC,Alector Inc,Healthcare,"1,068,160",$203M (Micro),0.65,NASDAQ
+RPTX,Repare Therapeutics Inc,Healthcare,"1,069,100",$109M (Micro),0.99,NASDAQ
+YOU,Clear Secure Inc,Technology,"1,071,110",$5B (Small),1.22,NYS
+SLG,SL Green Realty Corp,Real Estate,"1,071,580",$4B (Small),1.63,NYS
+MBOT,Microbot Medical Inc,Healthcare,"1,071,630",$140M (Micro),1.29,NASDAQ
+OZK,Bank Ozk,Finance,"1,072,950",$5B (Small),0.94,NASDAQ
+DC,Dakota Gold Corp,Gold/Precious Metals/Materials,"1,073,190",$651M (Micro),1.08,NYS
+CCOI,Cogent Communications Holdings Inc,Communication Services,"1,074,310",$1B (Micro),0.79,NASDAQ
+DTE,DTE Energy Co,Energy/Utilities,"1,074,310",$27B (Mid),0.5,NYS
+LEU,Centrus Energy Corp,Energy/Utilities,"1,075,310",$6B (Small),1.23,NYS
+EVEX,Eve Holding Inc,Govt/Defense/Space,"1,077,640",$2B (Micro),0.84,NYS
+SPG,Simon Property Group Inc,Real Estate,"1,077,980",$60B (Large),1.42,NYS
+EYE,National Vision Holdings Inc,Food/Beverages/Shopping,"1,078,050",$2B (Micro),1.39,NASDAQ
+GXO,GXO Logistics Inc,Auto/Travel/Shipping,"1,079,850",$7B (Small),1.72,NYS
+SKT,Tanger Inc,Real Estate,"1,081,060",$4B (Small),1.16,NYS
+HOMB,Home BancShares Inc,Finance,"1,081,510",$6B (Small),0.79,NYS
+JELD,JELD-WEN Holding Inc,Manufacturing/Construction,"1,081,950",$235M (Micro),1.75,NYS
+EXPI,eXp World Holdings Inc,Real Estate,"1,082,060",$2B (Micro),2.12,NASDAQ
+AMBA,Ambarella Inc,Technology,"1,083,880",$3B (Small),1.96,NASDAQ
+RDY,Dr Reddy's Laboratories Ltd,Healthcare,"1,084,020",$11B (Mid),0.34,NYS
+FERG,Ferguson Enterprises Inc,Auto/Travel/Shipping,"1,085,440",$47B (Large),1.14,NYS
+NBP,NovaBridge Biosciences,Healthcare,"1,086,310",$427M (Micro),1.63,NASDAQ
+SA,Seabridge Gold Inc,Gold/Precious Metals/Materials,"1,088,500",$3B (Small),0.81,NYS
+DK,Delek US Holdings Inc,Energy/Utilities,"1,089,370",$2B (Micro),0.83,NYS
+ADNT,Adient PLC,Auto/Travel/Shipping,"1,089,770",$2B (Micro),1.61,NYS
+IQV,IQVIA Holdings Inc,Healthcare,"1,090,970",$41B (Mid),1.37,NYS
+GHRS,GH Research PLC,Healthcare,"1,091,590",$931M (Micro),1,NASDAQ
+VERA,Vera Therapeutics Inc,Healthcare,"1,092,740",$3B (Small),1.15,NASDAQ
+MNDY,monday.com Ltd,Technology,"1,092,870",$8B (Mid),1.25,NASDAQ
+PROK,Prokidney Corp,Healthcare,"1,095,050",$704M (Micro),1.82,NASDAQ
+VOR,Vor Biopharma Inc,Healthcare,"1,097,060",$484M (Micro),2.02,NASDAQ
+ARI,Apollo Commercial Real Estate Finance Inc,Real Estate,"1,098,340",$1B (Micro),1.59,NYS
+CPRX,Catalyst Pharmaceuticals Inc,Healthcare,"1,098,770",$3B (Small),0.73,NASDAQ
+TTWO,Take-Two Interactive Software Inc,Entertainment,"1,100,220",$46B (Large),0.92,NASDAQ
+G,Genpact Ltd,Technology,"1,102,100",$8B (Mid),0.74,NYS
+SUIG,SUI Group Holdings Ltd,Finance,"1,102,780",$157M (Micro),1.31,NASDAQ
+TDS,Telephone and Data Systems Inc,Communication Services,"1,107,280",$5B (Small),0.33,NYS
+BWIN,Baldwin Insurance Group Inc,Finance,"1,107,290",$4B (Small),1.34,NASDAQ
+RNW,Renew Energy Global PLC,Energy/Utilities,"1,107,960",$2B (Micro),0.91,NASDAQ
+AGIO,Agios Pharmaceuticals Inc,Healthcare,"1,108,750",$2B (Micro),0.91,NASDAQ
+MTN,Vail Resorts Inc,Auto/Travel/Shipping,"1,111,750",$5B (Small),0.81,NYS
+SGI,Somnigroup International Inc,Healthcare,"1,112,050",$20B (Mid),1.31,NYS
+TIGO,Millicom International Cellular SA,Communication Services,"1,117,240",$8B (Mid),0.92,NASDAQ
+SQM,Sociedad Quimica y Minera de Chile SA,Gold/Precious Metals/Materials,"1,117,910",$11B (Mid),1.03,NYS
+INSP,Inspire Medical Systems Inc,Healthcare,"1,118,300",$3B (Small),0.75,NYS
+ALKT,Alkami Technology Inc,Technology,"1,119,940",$2B (Small),0.53,NASDAQ
+CDLX,Cardlytics Inc,Technology,"1,120,020",$73M (Micro),1.06,NASDAQ
+HIG,Hartford Insurance Group Inc,Finance,"1,120,160",$38B (Mid),0.61,NYS
+AAON,Aaon Inc,Manufacturing/Construction,"1,121,040",$7B (Small),1.11,NASDAQ
+NBIX,Neurocrine Biosciences Inc,Healthcare,"1,121,330",$14B (Mid),0.31,NASDAQ
+XENE,Xenon Pharmaceuticals Inc,Healthcare,"1,121,980",$3B (Small),0.96,NASDAQ
+INOD,Innodata Inc,Technology,"1,122,330",$2B (Micro),2.43,NASDAQ
+NVCR,Novocure Ltd,Healthcare,"1,124,390",$2B (Micro),0.73,NASDAQ
+IHS,IHS Holding Ltd,Entertainment,"1,125,370",$3B (Small),0.86,NYS
+GDDY,GoDaddy Inc,Technology,"1,127,670",$15B (Mid),0.93,NYS
+RVLV,Revolve Group Inc,Food/Beverages/Shopping,"1,127,770",$2B (Small),1.8,NYS
+AOS,A O Smith Corp,Manufacturing/Construction,"1,129,180",$10B (Mid),1.35,NYS
+NPWR,NET Power Inc,Energy/Utilities,"1,130,780",$618M (Micro),0.84,NYS
+MGA,Magna International Inc,Auto/Travel/Shipping,"1,133,570",$16B (Mid),1.48,NYS
+ATI,ATI Inc,Gold/Precious Metals/Materials,"1,135,320",$17B (Mid),1.02,NYS
+CYH,Community Health Systems Inc,Healthcare,"1,136,060",$460M (Micro),2.11,NYS
+FLYW,Flywire Corp,Technology,"1,136,130",$2B (Micro),1.29,NASDAQ
+PLAB,Photronics Inc,Technology,"1,145,070",$2B (Micro),1.52,NASDAQ
+TNDM,Tandem Diabetes Care Inc,Healthcare,"1,146,330",$1B (Micro),1.69,NASDAQ
+VSH,Vishay Intertechnology Inc,Technology,"1,147,150",$2B (Small),1.15,NYS
+WPC,WP Carey Inc,Real Estate,"1,147,650",$15B (Mid),0.81,NYS
+HRB,H & R Block Inc,Finance,"1,148,840",$6B (Small),0.36,NYS
+VFF,Village Farms International Inc,Food/Beverages/Shopping,"1,150,750",$396M (Micro),1.3,NASDAQ
+GRND,Grindr Inc,Entertainment,"1,151,160",$2B (Small),0.23,NYS
+IMAX,Imax Corp,Entertainment,"1,152,390",$2B (Micro),0.37,NYS
+SUPV,Grupo Supervielle SA,Finance,"1,152,850",$1B (Micro),1.72,NYS
+CCCC,C4 Therapeutics Inc,Healthcare,"1,154,140",$207M (Micro),2.98,NASDAQ
+NVRI,Enviri Corp,Food/Beverages/Shopping,"1,155,590",$1B (Micro),1.77,NYS
+TSSI,TSS Inc,Technology,"1,155,980",$246M (Micro),2.08,NASDAQ
+DBI,Designer Brands Inc,Food/Beverages/Shopping,"1,155,990",$406M (Micro),1.09,NYS
+GANX,Gain Therapeutics Inc,Healthcare,"1,156,460",$89M (Micro),0.05,NASDAQ
+NSP,Insperity Inc,Education,"1,158,650",$2B (Micro),0.48,NYS
+VRSK,Verisk Analytics Inc,Communication Services,"1,161,340",$31B (Mid),0.79,NASDAQ
+ACAD,ACADIA Pharmaceuticals Inc,Healthcare,"1,161,800",$5B (Small),0.66,NASDAQ
+WYNN,Wynn Resorts Ltd,Auto/Travel/Shipping,"1,165,960",$12B (Mid),1.06,NASDAQ
+NNOX,Nano-X Imaging Ltd,Healthcare,"1,166,170",$206M (Micro),1.31,NASDAQ
+AVDL,Avadel Pharmaceuticals PLC,Healthcare,"1,166,890",$2B (Micro),1.31,NASDAQ
+ELV,Elevance Health Inc,Healthcare,"1,167,200",$83B (Large),0.51,NYS
+SAP,SAP SE,Technology,"1,169,070",$288B (Large),1.17,NYS
+UGP,Ultrapar Participacoes SA,Energy/Utilities,"1,169,210",$4B (Small),0.85,NYS
+OXSQ,Oxford Square Capital Corp,Finance,"1,169,310",$145M (Micro),0.53,NASDAQ
+PRKS,United Parks & Resorts Inc,Entertainment,"1,171,570",$2B (Micro),1.27,NYS
+HIW,Highwoods Properties Inc,Real Estate,"1,172,630",$3B (Small),1.09,NYS
+AROC,Archrock Inc,Energy/Utilities,"1,173,200",$5B (Small),0.92,NYS
+ZION,Zions Bancorporation NA,Finance,"1,173,530",$9B (Mid),0.84,NASDAQ
+PMT,PennyMac Mortgage Investment Trust,Finance,"1,174,650",$1B (Micro),1.26,NYS
+TWST,Twist Bioscience Corp,Healthcare,"1,174,810",$2B (Small),2.24,NASDAQ
+WHR,Whirlpool Corp,Consumer Products,"1,175,870",$5B (Small),1.23,NYS
+OLLI,Ollie's Bargain Outlet Holdings Inc,Food/Beverages/Shopping,"1,176,990",$7B (Small),0.52,NASDAQ
+VRTX,Vertex Pharmaceuticals Inc,Healthcare,"1,176,990",$118B (Large),0.31,NASDAQ
+VITL,Vital Farms Inc,Food/Beverages/Shopping,"1,177,870",$1B (Micro),1.1,NASDAQ
+PLYM,Plymouth Industrial REIT Inc,Real Estate,"1,177,970",$977M (Micro),1.25,NYS
+SITC,Site Centers Corp,Real Estate,"1,178,950",$333M (Micro),1.08,NYS
+CSTM,Constellium SE,Gold/Precious Metals/Materials,"1,179,000",$3B (Small),1.51,NYS
+REPL,Replimune Group Inc,Healthcare,"1,179,890",$630M (Micro),0.73,NASDAQ
+PSN,Parsons Corp,Govt/Defense/Space,"1,180,530",$7B (Small),0.67,NYS
+MUX,McEwen Inc,Gold/Precious Metals/Materials,"1,182,220",$1B (Micro),1.13,NYS
+EXR,Extra Space Storage Inc,Real Estate,"1,182,430",$30B (Mid),1.28,NYS
+EWTX,Edgewise Therapeutics Inc,Healthcare,"1,182,990",$3B (Small),0.27,NASDAQ
+JAZZ,Jazz Pharmaceuticals PLC,Healthcare,"1,184,730",$10B (Mid),0.26,NASDAQ
+HMC,Honda Motor Co Ltd,Auto/Travel/Shipping,"1,184,780",$40B (Mid),0.39,NYS
+FIVE,Five Below Inc,Consumer Products,"1,184,890",$11B (Mid),1.14,NASDAQ
+STAG,STAG Industrial Inc,Real Estate,"1,186,880",$7B (Small),1.06,NYS
+SONO,Sonos Inc,Consumer Products,"1,187,090",$2B (Micro),2.05,NASDAQ
+RH,RH,Food/Beverages/Shopping,"1,189,640",$4B (Small),2.13,NYS
+PARR,Par Pacific Holdings Inc,Energy/Utilities,"1,189,650",$2B (Micro),1.23,NYS
+PGNY,Progyny Inc,Healthcare,"1,192,220",$2B (Small),0.96,NASDAQ
+DLO,Dlocal Ltd,Finance,"1,193,790",$4B (Small),1.13,NASDAQ
+CRI,Carter's Inc,Food/Beverages/Shopping,"1,197,700",$1B (Micro),1.06,NYS
+WLK,Westlake Corp,Gold/Precious Metals/Materials,"1,198,130",$11B (Mid),0.91,NYS
+PFLT,PennantPark Floating Rate Capital Ltd,Finance,"1,199,140",$951M (Micro),0.76,NYS
+RSG,Republic Services Inc,Food/Beverages/Shopping,"1,202,380",$66B (Large),0.55,NYS
+HYLN,Hyliion Holdings Corp,Auto/Travel/Shipping,"1,202,550",$341M (Micro),2.58,NYS
+UTZ,UTZ Brands Inc,Food/Beverages/Shopping,"1,204,440",$1B (Micro),0.93,NYS
+DE,Deere & Co,Manufacturing/Construction,"1,205,050",$132B (Large),1.03,NYS
+ESRT,Empire State Realty Trust Inc,Real Estate,"1,209,240",$1B (Micro),1.37,NYS
+ADSK,Autodesk Inc,Technology,"1,210,660",$59B (Large),1.45,NASDAQ
+FNF,Fidelity National Financial Inc,Finance,"1,211,390",$15B (Mid),1.01,NYS
+MT,ArcelorMittal SA,Gold/Precious Metals/Materials,"1,212,140",$36B (Mid),1.5,NYS
+JSPR,Jasper Therapeutics Inc,Healthcare,"1,214,940",$42M (Micro),3.08,NASDAQ
+TW,Tradeweb Markets Inc,Finance,"1,215,640",$22B (Mid),0.83,NASDAQ
+SFL,SFL Corporation Ltd,Auto/Travel/Shipping,"1,220,800",$1B (Micro),0.5,NYS
+RYAN,Ryan Specialty Holdings Inc,Finance,"1,220,830",$13B (Mid),0.62,NYS
+ALL,Allstate Corp,Finance,"1,224,310",$56B (Large),0.23,NYS
+EXPE,Expedia Group Inc,Auto/Travel/Shipping,"1,225,470",$36B (Mid),1.42,NASDAQ
+TDAY,USA TODAY Co Inc,Entertainment,"1,226,190",$859M (Micro),1.59,NYS
+SPGI,S&P Global Inc,Finance,"1,228,120",$164B (Large),1.2,NYS
+KULR,KULR Technology Group Inc,Energy/Utilities,"1,228,470",$153M (Micro),2.04,NYS
+MRVI,Maravai LifeSciences Holdings Inc,Healthcare,"1,228,730",$1B (Micro),0.4,NASDAQ
+AWK,American Water Works Co Inc,Energy/Utilities,"1,229,220",$25B (Mid),0.76,NYS
+TV,Grupo Televisa SAB,Entertainment,"1,231,390",$2B (Micro),1.97,NYS
+CWK,Cushman & Wakefield Ltd,Real Estate,"1,231,420",$4B (Small),1.47,NYS
+CIVI,Civitas Resources Inc,Energy/Utilities,"1,234,130",$2B (Small),0.93,NYS
+ECVT,Ecovyst Inc,Gold/Precious Metals/Materials,"1,234,660",$1B (Micro),1.2,NYS
+CAKE,Cheesecake Factory Inc,Food/Beverages/Shopping,"1,239,550",$3B (Small),1.01,NASDAQ
+MAR,Marriott International Inc,Real Estate,"1,244,670",$88B (Large),1.14,NASDAQ
+EFX,Equifax Inc,Finance,"1,246,070",$28B (Mid),1.55,NYS
+FHB,First Hawaiian Inc,Finance,"1,246,420",$3B (Small),0.72,NASDAQ
+TEL,TE Connectivity PLC,Technology,"1,247,760",$68B (Large),1.24,NYS
+CROX,Crocs Inc,Consumer Products,"1,250,940",$4B (Small),1.56,NASDAQ
+EOLS,Evolus Inc,Healthcare,"1,253,250",$366M (Micro),1.11,NASDAQ
+ARHS,Arhaus Inc,Food/Beverages/Shopping,"1,255,530",$2B (Micro),2.51,NASDAQ
+ABUS,Arbutus Biopharma Corp,Healthcare,"1,257,680",$889M (Micro),0.71,NASDAQ
+CMC,Commercial Metals Co,Gold/Precious Metals/Materials,"1,258,970",$8B (Mid),1.49,NYS
+CXM,Sprinklr Inc,Technology,"1,259,720",$2B (Micro),0.77,NYS
+ALTO,Alto Ingredients Inc,Gold/Precious Metals/Materials,"1,261,350",$185M (Micro),0.58,NASDAQ
+SNDX,Syndax Pharmaceuticals Inc,Healthcare,"1,262,070",$2B (Micro),0.46,NASDAQ
+MAPS,WM Technology Inc,Technology,"1,263,350",$136M (Micro),1.23,NASDAQ
+HLMN,Hillman Solutions Corp,Manufacturing/Construction,"1,263,600",$2B (Micro),1.66,NASDAQ
+CODI,Compass Diversified Holdings,Finance,"1,263,850",$414M (Micro),1.08,NYS
+KBH,KB Home,Real Estate,"1,264,850",$4B (Small),1.49,NYS
+FWRG,First Watch Restaurant Group Inc,Food/Beverages/Shopping,"1,266,950",$950M (Micro),0.89,NASDAQ
+TPG,TPG Inc,Finance,"1,267,110",$25B (Mid),1.49,NASDAQ
+NRIX,Nurix Therapeutics Inc,Healthcare,"1,267,700",$2B (Micro),1.96,NASDAQ
+TS,Tenaris SA,Energy/Utilities,"1,267,950",$20B (Mid),0.92,NYS
+GBTG,Global Business Travel Group Inc,Auto/Travel/Shipping,"1,268,730",$4B (Small),0.74,NYS
+OLMA,Olema Pharmaceuticals Inc,Healthcare,"1,269,080",$2B (Small),1.91,NASDAQ
+CUZ,Cousins Properties Inc,Real Estate,"1,270,270",$4B (Small),1.2,NYS
+TRMB,Trimble Inc,Technology,"1,271,020",$19B (Mid),1.59,NASDAQ
+CDW,CDW Corp,Technology,"1,271,590",$17B (Mid),1.07,NASDAQ
+HPP,Hudson Pacific Properties Inc,Real Estate,"1,273,710",$527M (Micro),1.51,NYS
+TRV,Travelers Companies Inc,Finance,"1,273,730",$63B (Large),0.52,NYS
+ORIC,Oric Pharmaceuticals Inc,Healthcare,"1,273,850",$891M (Micro),1.34,NASDAQ
+AJG,Arthur J. Gallagher & Co.,Finance,"1,274,090",$68B (Large),0.66,NYS
+CDP,COPT Defense Properties,Real Estate,"1,274,690",$3B (Small),0.88,NYS
+CPT,Camden Property Trust,Real Estate,"1,277,060",$12B (Mid),0.83,NYS
+TALK,Talkspace Inc,Healthcare,"1,277,610",$666M (Micro),1.21,NASDAQ
+DRS,Leonardo DRS Inc,Govt/Defense/Space,"1,277,710",$11B (Mid),0.46,NASDAQ
+CTAS,Cintas Corp,Food/Beverages/Shopping,"1,279,640",$77B (Large),0.95,NASDAQ
+AL,Air Lease Corp,Auto/Travel/Shipping,"1,280,470",$7B (Small),1.14,NYS
+LHX,L3Harris Technologies Inc,Govt/Defense/Space,"1,281,280",$63B (Large),0.65,NYS
+AVAH,Aveanna Healthcare Holdings Inc,Healthcare,"1,281,740",$2B (Micro),2.06,NASDAQ
+VELO,Velo3D Inc,Manufacturing/Construction,"1,293,130",$493M (Micro),1.99,NASDAQ
+WCN,Waste Connections Inc,Govt/Defense/Space,"1,293,720",$43B (Large),0.61,NYS
+SGRY,Surgery Partners Inc,Healthcare,"1,293,950",$2B (Micro),1.98,NASDAQ
+RSI,Rush Street Interactive Inc,Entertainment,"1,294,390",$4B (Small),1.55,NYS
+NCNO,nCino Inc,Technology,"1,295,330",$3B (Small),0.56,NASDAQ
+JAMF,Jamf Holding Corp,Technology,"1,297,120",$2B (Micro),0.53,NASDAQ
+PRCH,Porch Group Inc,Technology,"1,297,900",$1B (Micro),3.07,NASDAQ
+PRU,Prudential Financial Inc,Finance,"1,300,230",$41B (Large),0.97,NYS
+HAYW,Hayward Holdings Inc,Manufacturing/Construction,"1,302,130",$4B (Small),1.13,NYS
+CB,Chubb Ltd,Finance,"1,305,980",$121B (Large),0.5,NYS
+NVS,Novartis AG,Healthcare,"1,307,120",$272B (Large),0.5,NYS
+ISRG,Intuitive Surgical Inc,Healthcare,"1,307,610",$208B (Large),1.66,NASDAQ
+LODE,Comstock Inc,Gold/Precious Metals/Materials,"1,307,990",$192M (Micro),1.66,NYS
+DHC,Diversified Healthcare Trust,Real Estate,"1,308,570",$1B (Micro),2.41,NASDAQ
+CI,Cigna Group,Healthcare,"1,310,230",$75B (Large),0.28,NYS
+OGE,OGE Energy Corp,Energy/Utilities,"1,313,690",$9B (Mid),0.61,NYS
+SVC,Service Properties Trust,Real Estate,"1,314,020",$361M (Micro),1.46,NASDAQ
+ITW,Illinois Tool Works Inc,Manufacturing/Construction,"1,314,590",$74B (Large),1.16,NYS
+BIIB,Biogen Inc,Healthcare,"1,315,280",$28B (Mid),0.16,NASDAQ
+PTCT,PTC Therapeutics Inc,Healthcare,"1,315,820",$6B (Small),0.48,NASDAQ
+BXP,BXP Inc,Real Estate,"1,316,620",$11B (Mid),1.03,NYS
+HESM,Hess Midstream LP,Energy/Utilities,"1,320,570",$7B (Small),0.59,NYS
+CNTA,Centessa Pharmaceuticals PLC,Healthcare,"1,322,020",$3B (Small),1.56,NASDAQ
+HP,Helmerich and Payne Inc,Energy/Utilities,"1,322,110",$3B (Small),0.57,NYS
+ADC,Agree Realty Corp,Real Estate,"1,322,360",$8B (Mid),0.54,NYS
+RGC,Regencell Bioscience Holdings Ltd,Healthcare,"1,323,820",$23B (Mid),2.08,NASDAQ
+PHAT,Phathom Pharmaceuticals Inc,Healthcare,"1,325,370",$1B (Micro),0.51,NASDAQ
+IEP,Icahn Enterprises LP,Finance,"1,329,860",$5B (Small),0.77,NASDAQ
+TALO,Talos Energy Inc,Energy/Utilities,"1,333,150",$2B (Micro),0.57,NYS
+CGNX,Cognex Corp,Technology,"1,333,530",$7B (Small),1.54,NASDAQ
+TENB,Tenable Holdings Inc,Technology,"1,337,790",$3B (Small),0.63,NASDAQ
+GD,General Dynamics Corp,Govt/Defense/Space,"1,340,530",$96B (Large),0.41,NYS
+AEE,Ameren Corp,Energy/Utilities,"1,342,110",$27B (Mid),0.58,NYS
+TRIN,Trinity Capital Inc,Finance,"1,345,440",$1B (Micro),0.59,NASDAQ
+OVID,Ovid Therapeutics Inc,Healthcare,"1,346,770",$217M (Micro),0.26,NASDAQ
+WTI,W&T Offshore Inc,Energy/Utilities,"1,347,150",$244M (Micro),0.34,NYS
+NNN,NNN REIT Inc,Real Estate,"1,352,240",$8B (Mid),0.85,NYS
+CCEP,Coca-Cola Europacific Partners PLC,Food/Beverages/Shopping,"1,353,740",$40B (Mid),0.52,NASDAQ
+DUOL,Duolingo Inc,Education,"1,354,610",$8B (Mid),0.86,NASDAQ
+MLCO,Melco Resorts & Entertainment Ltd,Entertainment,"1,357,560",$3B (Small),0.62,NASDAQ
+RPM,RPM International Inc,Gold/Precious Metals/Materials,"1,358,170",$14B (Mid),1.1,NYS
+LFMD,LifeMD Inc,Healthcare,"1,358,350",$186M (Micro),1.9,NASDAQ
+HLX,Helix Energy Solutions Group Inc,Energy/Utilities,"1,360,230",$1B (Micro),1.26,NYS
+SBLK,Star Bulk Carriers Corp,Auto/Travel/Shipping,"1,363,100",$2B (Small),0.8,NASDAQ
+YPF,YPF SA,Energy/Utilities,"1,363,270",$13B (Mid),1.42,NYS
+VEEV,Veeva Systems Inc,Healthcare,"1,364,890",$39B (Mid),1.08,NYS
+EGO,Eldorado Gold Corp,Gold/Precious Metals/Materials,"1,364,930",$8B (Mid),0.51,NYS
+AMRX,Amneal Pharmaceuticals Inc,Healthcare,"1,365,630",$4B (Small),1.36,NASDAQ
+ELS,Equity LifeStyle Properties Inc,Real Estate,"1,376,640",$12B (Mid),0.77,NYS
+CVBF,CVB Financial Corp,Finance,"1,377,450",$3B (Small),0.7,NASDAQ
+ZVIA,Zevia PBC,Food/Beverages/Shopping,"1,377,840",$140M (Micro),0.85,NYS
+ZS,Zscaler Inc,Technology,"1,378,450",$35B (Mid),1.02,NASDAQ
+TSEM,Tower Semiconductor Ltd,Technology,"1,381,020",$13B (Mid),0.89,NASDAQ
+CMA,Comerica Inc,Finance,"1,384,630",$12B (Mid),1.06,NYS
+JBI,Janus International Group Inc,Manufacturing/Construction,"1,384,960",$981M (Micro),1.49,NYS
+ST,Sensata Technologies Holding PLC,Technology,"1,386,570",$5B (Small),1.16,NYS
+APD,Air Products and Chemicals Inc,Gold/Precious Metals/Materials,"1,386,840",$59B (Large),0.88,NYS
+RMBS,Rambus Inc,Technology,"1,387,610",$10B (Mid),1.52,NASDAQ
+MDB,MongoDB Inc,Technology,"1,391,300",$33B (Mid),1.39,NASDAQ
+VGZ,Vista Gold Corp,Gold/Precious Metals/Materials,"1,392,140",$257M (Micro),1.12,NYS
+MPLX,MPLX LP,Energy/Utilities,"1,398,800",$54B (Large),0.55,NYS
+FATE,Fate Therapeutics Inc,Healthcare,"1,401,680",$121M (Micro),2.25,NASDAQ
+REI,Ring Energy Inc,Energy/Utilities,"1,403,680",$192M (Micro),1,NYS
+EMN,Eastman Chemical Co,Gold/Precious Metals/Materials,"1,403,890",$8B (Mid),1.25,NYS
+VRDN,Viridian Therapeutics Inc,Healthcare,"1,403,970",$3B (Small),0.96,NASDAQ
+BKSY,Blacksky Technology Inc,Technology,"1,404,530",$919M (Micro),2.44,NYS
+CAH,Cardinal Health Inc,Healthcare,"1,404,790",$48B (Large),0.65,NYS
+KURA,Kura Oncology Inc,Healthcare,"1,404,980",$819M (Micro),0.23,NASDAQ
+BEAM,Beam Therapeutics Inc,Healthcare,"1,408,790",$3B (Small),2.12,NASDAQ
+DNLI,Denali Therapeutics Inc,Healthcare,"1,416,810",$3B (Small),1.02,NASDAQ
+BXMT,Blackstone Mortgage Trust Inc,Real Estate,"1,420,950",$3B (Small),1.1,NYS
+TBLA,Taboola.com Ltd,Technology,"1,420,980",$1B (Micro),1.29,NASDAQ
+EA,Electronic Arts Inc,Entertainment,"1,421,580",$51B (Large),0.73,NASDAQ
+OHI,Omega Healthcare Investors Inc,Real Estate,"1,421,710",$13B (Mid),0.55,NYS
+NE,Noble Corporation PLC,Energy/Utilities,"1,423,050",$5B (Small),1.12,NYS
+FULT,Fulton Financial Corp,Finance,"1,424,790",$4B (Small),0.88,NASDAQ
+MTDR,Matador Resources Co,Energy/Utilities,"1,427,730",$5B (Small),1.13,NYS
+PNR,Pentair PLC,Manufacturing/Construction,"1,428,870",$17B (Mid),1.22,NYS
+BDX,Becton Dickinson and Co,Healthcare,"1,430,560",$58B (Large),0.25,NYS
+MOH,Molina Healthcare Inc,Healthcare,"1,434,920",$9B (Mid),0.5,NYS
+LC,LendingClub Corp,Finance,"1,437,560",$2B (Small),2.1,NYS
+NTST,Netstreit Corp,Real Estate,"1,439,140",$1B (Micro),0.88,NYS
+NYT,New York Times Co,Entertainment,"1,439,900",$12B (Mid),1.11,NYS
+ED,Consolidated Edison Inc,Energy/Utilities,"1,440,570",$36B (Mid),0.37,NYS
+MAC,Macerich Co,Real Estate,"1,441,180",$5B (Small),2.15,NYS
+IFF,International Flavors & Fragrances Inc,Gold/Precious Metals/Materials,"1,441,210",$18B (Mid),1.07,NYS
+LXRX,Lexicon Pharmaceuticals Inc,Healthcare,"1,442,130",$425M (Micro),0.99,NASDAQ
+CAPR,Capricor Therapeutics Inc,Healthcare,"1,443,360",$1B (Micro),0.37,NASDAQ
+LZ,LegalZoom.com Inc,Technology,"1,443,440",$2B (Micro),1.23,NASDAQ
+TRVI,Trevi Therapeutics Inc,Healthcare,"1,445,080",$1B (Micro),0.94,NASDAQ
+SJM,J M Smucker Co,Food/Beverages/Shopping,"1,446,790",$11B (Mid),0.22,NYS
+LNC,Lincoln National Corp,Finance,"1,451,540",$8B (Mid),1.3,NYS
+DAN,Dana Inc,Auto/Travel/Shipping,"1,459,370",$3B (Small),2.13,NYS
+LEG,Leggett & Platt Inc,Manufacturing/Construction,"1,460,980",$2B (Micro),0.75,NYS
+GEO,Geo Group Inc,Govt/Defense/Space,"1,465,630",$2B (Small),0.73,NYS
+ILMN,Illumina Inc,Healthcare,"1,466,100",$22B (Mid),1.46,NASDAQ
+HSY,Hershey Co,Food/Beverages/Shopping,"1,466,350",$38B (Mid),0.17,NYS
+ORI,Old Republic International Corp,Finance,"1,468,550",$11B (Mid),0.75,NYS
+NSA,National Storage Affiliates Trust,Real Estate,"1,471,960",$2B (Small),1.22,NYS
+BBVA,Banco Bilbao Vizcaya Argentaria SA,Finance,"1,472,140",$136B (Large),0.85,NYS
+CHRW,CH Robinson Worldwide Inc,Auto/Travel/Shipping,"1,473,100",$20B (Mid),0.9,NASDAQ
+PRTS,Carparts.Com Inc,Auto/Travel/Shipping,"1,475,160",$36M (Micro),0.94,NASDAQ
+BUD,Anheuser-Busch Inbev SA,Food/Beverages/Shopping,"1,477,560",$118B (Large),0.54,NYS
+SHW,Sherwin-Williams Co,Gold/Precious Metals/Materials,"1,479,860",$88B (Large),1.26,NYS
+NEO,Neogenomics Inc,Healthcare,"1,482,000",$2B (Micro),1.58,NASDAQ
+MFC,Manulife Financial Corp,Finance,"1,484,120",$63B (Large),0.83,NYS
+WTRG,Essential Utilities Inc,Energy/Utilities,"1,487,490",$11B (Mid),0.8,NYS
+TSE,Trinseo PLC,Gold/Precious Metals/Materials,"1,488,460",$28M (Micro),1.49,NYS
+ACGL,Arch Capital Group Ltd,Finance,"1,491,530",$35B (Mid),0.42,NASDAQ
+AVAV,AeroVironment Inc,Govt/Defense/Space,"1,492,600",$18B (Mid),1.25,NASDAQ
+DKS,DICK'S Sporting Goods Inc,Sports/Fitness,"1,493,400",$19B (Mid),1.24,NYS
+CMPS,Compass Pathways PLC,Healthcare,"1,494,030",$693M (Micro),1.93,NASDAQ
+WEAV,Weave Communications Inc,Technology,"1,495,310",$559M (Micro),1.69,NYS
+ATOS,Atossa Therapeutics Inc,Healthcare,"1,496,070",$83M (Micro),1.37,NASDAQ
+FLUT,Flutter Entertainment PLC,Entertainment,"1,498,850",$38B (Mid),1.15,NYS
+PROP,Prairie Operating Co,Energy/Utilities,"1,503,090",$108M (Micro),2.43,NASDAQ
+CHRS,Coherus Oncology Inc,Healthcare,"1,503,360",$204M (Micro),1,NASDAQ
+STGW,Stagwell Inc,Entertainment,"1,504,140",$1B (Micro),1.69,NASDAQ
+RANI,Rani Therapeutics Holdings Inc,Healthcare,"1,505,790",$170M (Micro),0.44,NASDAQ
+HTHT,H World Group Ltd,Real Estate,"1,512,040",$15B (Mid),0.15,NASDAQ
+ARES,Ares Management Corp,Finance,"1,512,930",$57B (Large),1.54,NYS
+CRVS,Corvus Pharmaceuticals Inc,Healthcare,"1,513,430",$507M (Micro),0.68,NASDAQ
+WM,Waste Management Inc,Govt/Defense/Space,"1,514,610",$89B (Large),0.58,NYS
+CVI,CVR Energy Inc,Energy/Utilities,"1,514,790",$2B (Small),1.15,NYS
+ACMR,ACM Research Inc,Technology,"1,516,200",$3B (Small),1.49,NASDAQ
+VIR,Vir Biotechnology Inc,Healthcare,"1,516,310",$814M (Micro),1.68,NASDAQ
+MTG,MGIC Investment Corp,Finance,"1,517,440",$6B (Small),0.83,NYS
+VYX,NCR Voyix Corp,Technology,"1,519,160",$2B (Micro),1.46,NYS
+ANF,Abercrombie & Fitch Co,Consumer Products,"1,521,020",$6B (Small),1.18,NYS
+SHO,Sunstone Hotel Investors Inc,Real Estate,"1,521,190",$2B (Micro),1.02,NYS
+NUE,Nucor Corp,Gold/Precious Metals/Materials,"1,522,660",$37B (Mid),1.86,NYS
+FBIN,Fortune Brands Innovations Inc,Manufacturing/Construction,"1,524,670",$7B (Small),1.41,NYS
+LSCC,Lattice Semiconductor Corp,Technology,"1,524,970",$12B (Mid),1.7,NASDAQ
+KBR,KBR Inc,Govt/Defense/Space,"1,526,050",$6B (Small),0.52,NYS
+BRSL,Brightstar Lottery PLC,Entertainment,"1,529,650",$3B (Small),1.06,NYS
+QFIN,Qfin Holdings Inc,Finance,"1,529,790",$2B (Small),0.57,NASDAQ
+DXC,DXC Technology Co,Technology,"1,530,970",$3B (Small),1.07,NYS
+NVT,nVent Electric PLC,Manufacturing/Construction,"1,532,690",$17B (Mid),1.32,NYS
+MFA,MFA Financial Inc,Real Estate,"1,532,740",$990M (Micro),1.66,NYS
+IRDM,Iridium Communications Inc,Govt/Defense/Space,"1,534,340",$2B (Micro),0.62,NASDAQ
+RCUS,Arcus Biosciences Inc,Healthcare,"1,537,190",$3B (Small),0.84,NYS
+BG,Bunge Global SA,Food/Beverages/Shopping,"1,537,430",$19B (Mid),0.77,NYS
+ZBH,Zimmer Biomet Holdings Inc,Healthcare,"1,539,920",$18B (Mid),0.63,NYS
+INTU,Intuit Inc,Technology,"1,540,880",$180B (Large),1.24,NASDAQ
+TTMI,TTM Technologies Inc,Technology,"1,542,570",$8B (Mid),1.74,NASDAQ
+GETY,Getty Images Holdings Inc,Entertainment,"1,546,550",$541M (Micro),2.08,NYS
+ASML,ASML Holding NV,Technology,"1,547,010",$494B (Large),1.89,NASDAQ
+RLJ,RLJ Lodging Trust,Real Estate,"1,550,510",$1B (Micro),1.13,NYS
+EBC,Eastern Bankshares Inc,Finance,"1,550,600",$5B (Small),0.81,NASDAQ
+TECH,Bio-Techne Corp,Healthcare,"1,552,580",$10B (Mid),1.48,NASDAQ
+CTRE,CareTrust REIT Inc,Real Estate,"1,554,560",$8B (Mid),0.78,NYS
+FIVN,Five9 Inc,Technology,"1,557,640",$2B (Micro),1.33,NASDAQ
+HAS,Hasbro Inc,Consumer Products,"1,557,800",$12B (Mid),0.55,NASDAQ
+HLT,Hilton Worldwide Holdings Inc,Real Estate,"1,558,100",$70B (Large),1.13,NYS
+CME,CME Group Inc,Finance,"1,559,050",$95B (Large),0.29,NASDAQ
+STIM,Neuronetics Inc,Healthcare,"1,559,170",$142M (Micro),0.81,NASDAQ
+BRZE,Braze Inc,Technology,"1,562,670",$3B (Small),1.07,NASDAQ
+BKKT,Bakkt Holdings Inc,Finance,"1,564,140",$391M (Micro),5.94,NYS
+INV,Innventure Inc,Finance,"1,570,360",$261M (Micro),0.09,NASDAQ
+PPG,PPG Industries Inc,Gold/Precious Metals/Materials,"1,570,560",$24B (Mid),1.16,NYS
+LFST,LifeStance Health Group Inc,Healthcare,"1,572,570",$3B (Small),1.12,NASDAQ
+SWK,Stanley Black & Decker Inc,Manufacturing/Construction,"1,573,490",$13B (Mid),1.21,NYS
+LX,Lexinfintech Holdings Ltd,Finance,"1,573,850",$506M (Micro),0.77,NASDAQ
+KT,KT Corp,Communication Services,"1,574,540",$9B (Mid),0.65,NYS
+QURE,Uniqure NV,Healthcare,"1,574,850",$2B (Micro),0.67,NASDAQ
+AVPT,AvePoint Inc,Technology,"1,574,990",$3B (Small),1.09,NASDAQ
+FROG,Jfrog Ltd,Technology,"1,575,090",$7B (Small),1.13,NASDAQ
+TT,Trane Technologies PLC,Manufacturing/Construction,"1,576,050",$85B (Large),1.21,NYS
+SCCO,Southern Copper Corp,Gold/Precious Metals/Materials,"1,578,200",$140B (Large),1.08,NYS
+PLNT,Planet Fitness Inc,Sports/Fitness,"1,578,290",$9B (Mid),1.26,NYS
+TTEK,Tetra Tech Inc,Manufacturing/Construction,"1,580,180",$9B (Mid),0.91,NASDAQ
+TRX,TRX Gold Corp,Gold/Precious Metals/Materials,"1,580,350",$257M (Micro),0.32,NYS
+CUK,Carnival PLC,Auto/Travel/Shipping,"1,580,950",$5B (Small),2.52,NYS
+SNPS,Synopsys Inc,Technology,"1,583,850",$100B (Large),1.12,NASDAQ
+BJ,BJ's Wholesale Club Holdings Inc,Food/Beverages/Shopping,"1,594,090",$12B (Mid),0.36,NYS
+BZAI,Blaize Holdings Inc,Technology,"1,601,060",$260M (Micro),0.35,NASDAQ
+AFL,Aflac Inc,Finance,"1,601,470",$57B (Large),0.67,NYS
+GORO,Gold Resource Corp,Gold/Precious Metals/Materials,"1,602,430",$157M (Micro),0.84,NYS
+OPCH,Option Care Health Inc,Healthcare,"1,604,590",$5B (Small),0.84,NASDAQ
+IMVT,Immunovant Inc,Healthcare,"1,606,010",$5B (Small),0.54,NASDAQ
+TXT,Textron Inc,Govt/Defense/Space,"1,606,550",$17B (Mid),0.99,NYS
+WPM,Wheaton Precious Metals Corp,Gold/Precious Metals/Materials,"1,607,290",$57B (Large),0.52,NYS
+CDNS,Cadence Design Systems Inc,Technology,"1,607,490",$89B (Large),1.01,NASDAQ
+HSBC,HSBC Holdings PLC,Finance,"1,609,930",$275B (Large),0.49,NYS
+CHTR,Charter Communications Inc,Technology,"1,610,970",$27B (Mid),1.05,NASDAQ
+CG,Carlyle Group Inc,Finance,"1,611,890",$24B (Mid),2.05,NASDAQ
+DENN,Denny's Corp,Food/Beverages/Shopping,"1,614,170",$321M (Micro),1.39,NASDAQ
+TROW,T Rowe Price Group Inc,Finance,"1,614,880",$23B (Mid),1.55,NASDAQ
+CALM,Cal-Maine Foods Inc,Food/Beverages/Shopping,"1,625,020",$4B (Small),0.24,NASDAQ
+AKR,Acadia Realty Trust,Real Estate,"1,625,520",$3B (Small),1.15,NYS
+VSAT,Viasat Inc,Technology,"1,632,850",$6B (Small),1.47,NASDAQ
+SYK,Stryker Corp,Healthcare,"1,633,980",$141B (Large),0.88,NYS
+GMAB,Genmab A/S,Healthcare,"1,637,160",$21B (Mid),0.91,NASDAQ
+AMX,America Movil SAB de CV,Communication Services,"1,640,830",$61B (Large),0.77,NYS
+GTES,Gates Industrial Corporation PLC,Auto/Travel/Shipping,"1,644,800",$6B (Small),1.27,NYS
+KRC,Kilroy Realty Corp,Real Estate,"1,644,860",$5B (Small),1.12,NYS
+ARQT,Arcutis Biotherapeutics Inc,Healthcare,"1,646,530",$3B (Small),1.71,NASDAQ
+MGY,Magnolia Oil & Gas Corp,Energy/Utilities,"1,648,760",$4B (Small),0.96,NYS
+FDX,FedEx Corp,Auto/Travel/Shipping,"1,650,460",$73B (Large),1.35,NYS
+ALKS,Alkermes Plc,Healthcare,"1,653,600",$5B (Small),0.44,NASDAQ
+CENN,Cenntro Inc (The Corporation),Auto/Travel/Shipping,"1,653,770",$14M (Micro),1.72,NASDAQ
+GDS,GDS Holdings Ltd,Technology,"1,654,990",$8B (Mid),0.37,NASDAQ
+ODFL,Old Dominion Freight Line Inc,Auto/Travel/Shipping,"1,656,910",$36B (Mid),1.28,NASDAQ
+YUM,Yum! Brands Inc,Food/Beverages/Shopping,"1,657,390",$43B (Large),0.66,NYS
+FCEL,Fuelcell Energy Inc,Manufacturing/Construction,"1,659,590",$362M (Micro),1.32,NASDAQ
+DRI,Darden Restaurants Inc,Food/Beverages/Shopping,"1,661,700",$23B (Mid),0.64,NYS
+RYN,Rayonier Inc,Real Estate,"1,664,290",$4B (Small),1,NYS
+APTV,Aptiv PLC,Auto/Travel/Shipping,"1,664,400",$19B (Mid),1.52,NYS
+ALGM,Allegro Microsystems Inc,Technology,"1,665,920",$6B (Small),1.63,NASDAQ
+LEVI,Levi Strauss & Co,Consumer Products,"1,666,090",$9B (Mid),1.33,NYS
+PAGP,Plains GP Holdings LP,Energy/Utilities,"1,670,660",$4B (Small),0.54,NASDAQ
+NRG,NRG Energy Inc,Energy/Utilities,"1,671,740",$29B (Mid),1.26,NYS
+GMED,Globus Medical Inc,Healthcare,"1,673,190",$13B (Mid),1.06,NYS
+SHAK,Shake Shack Inc,Food/Beverages/Shopping,"1,673,980",$4B (Small),1.76,NYS
+EVTL,Vertical Aerospace Ltd,Govt/Defense/Space,"1,675,550",$650M (Micro),1.24,NYS
+LNT,Alliant Energy Corp,Energy/Utilities,"1,677,340",$17B (Mid),0.66,NASDAQ
+RCL,Royal Caribbean Cruises Ltd,Auto/Travel/Shipping,"1,678,310",$85B (Large),1.92,NYS
+SVRA,Savara Inc,Healthcare,"1,678,590",$1B (Micro),0.33,NASDAQ
+LBTYA,Liberty Global Ltd,Communication Services,"1,684,980",$2B (Micro),1.11,NASDAQ
+IE,Ivanhoe Electric Inc,Gold/Precious Metals/Materials,"1,685,130",$2B (Small),0.98,NYS
+PYXS,Pyxis Oncology Inc,Healthcare,"1,687,230",$110M (Micro),1.49,NASDAQ
+LNG,Cheniere Energy Inc,Energy/Utilities,"1,687,840",$42B (Large),0.27,NYS
+IMUX,Immunic Inc,Healthcare,"1,688,050",$80M (Micro),1.6,NASDAQ
+JANX,Janux Therapeutics Inc,Healthcare,"1,688,500",$852M (Micro),2.87,NASDAQ
+HLF,Herbalife Ltd,Consumer Products,"1,688,870",$2B (Micro),0.85,NYS
+RES,RPC Inc,Energy/Utilities,"1,689,400",$1B (Micro),0.72,NYS
+BANC,Banc of California Inc,Finance,"1,692,410",$3B (Small),0.73,NYS
+CBRL,Cracker Barrel Old Country Store Inc,Food/Beverages/Shopping,"1,693,480",$670M (Micro),1.29,NASDAQ
+URBN,Urban Outfitters Inc,Sports/Fitness,"1,694,560",$7B (Small),1.25,NASDAQ
+CNM,Core & Main Inc,Manufacturing/Construction,"1,698,860",$11B (Mid),0.99,NYS
+PHM,Pultegroup Inc,Real Estate,"1,701,640",$26B (Mid),1.35,NYS
+NTAP,NetApp Inc,Technology,"1,701,650",$21B (Mid),1.38,NASDAQ
+ADP,Automatic Data Processing Inc,Technology,"1,704,710",$108B (Large),0.85,NASDAQ
+DOCN,DigitalOcean Holdings Inc,Technology,"1,705,200",$5B (Small),1.77,NYS
+SYM,Symbotic Inc,Manufacturing/Construction,"1,707,700",$43B (Large),2.15,NASDAQ
+BLDR,Builders FirstSource Inc,Manufacturing/Construction,"1,709,920",$14B (Mid),1.57,NYS
+SLAI,SOLAI Ltd,Technology,"1,710,950",$21M (Micro),3.39,NYS
+CRSP,CRISPR Therapeutics AG,Healthcare,"1,712,420",$5B (Small),1.72,NASDAQ
+VRNS,Varonis Systems Inc,Technology,"1,713,400",$4B (Small),0.59,NASDAQ
+CE,Celanese Corp,Gold/Precious Metals/Materials,"1,718,210",$5B (Small),1.12,NYS
+WEC,WEC Energy Group Inc,Energy/Utilities,"1,719,490",$34B (Mid),0.57,NYS
+CABA,Cabaletta Bio Inc,Healthcare,"1,726,780",$202M (Micro),3.26,NASDAQ
+SPOT,Spotify Technology SA,Entertainment,"1,727,200",$111B (Large),1.66,NYS
+SLM,SLM Corp,Finance,"1,727,700",$6B (Small),1.15,NASDAQ
+GSBD,Goldman Sachs BDC Inc,Finance,"1,731,700",$1B (Micro),0.66,NYS
+ASO,Academy Sports and Outdoors Inc,Sports/Fitness,"1,733,600",$4B (Small),1.26,NASDAQ
+INDV,Indivior PLC,Healthcare,"1,741,990",$4B (Small),1.14,NASDAQ
+MOD,Modine Manufacturing Co,Auto/Travel/Shipping,"1,744,000",$7B (Small),1.69,NYS
+BHC,Bausch Health Companies Inc,Healthcare,"1,744,210",$3B (Small),0.42,NYS
+XIFR,XPLR Infrastructure LP,Energy/Utilities,"1,747,790",$990M (Micro),0.97,NYS
+WWW,Wolverine World Wide Inc,Food/Beverages/Shopping,"1,750,260",$2B (Micro),1.93,NYS
+PUMP,ProPetro Holding Corp,Energy/Utilities,"1,755,550",$978M (Micro),0.77,NYS
+BAH,Booz Allen Hamilton Holding Corp,Govt/Defense/Space,"1,758,080",$12B (Mid),0.34,NYS
+JHG,Janus Henderson Group PLC,Finance,"1,759,280",$7B (Small),1.52,NYS
+SBH,Sally Beauty Holdings Inc,Consumer Products,"1,762,200",$2B (Micro),1.16,NYS
+NNDM,Nano Dimension Ltd,Technology,"1,765,080",$355M (Micro),0.91,NASDAQ
+CADE,Cadence Bank,Finance,"1,765,560",$8B (Mid),0.96,NYS
+BVN,Compania de Minas Buenaventura SAA,Gold/Precious Metals/Materials,"1,769,690",$8B (Mid),0.33,NYS
+WMG,Warner Music Group Corp,Entertainment,"1,770,400",$16B (Mid),1.24,NASDAQ
+LMND,Lemonade Inc,Finance,"1,771,590",$6B (Small),2.03,NYS
+RWT,Redwood Trust Inc,Real Estate,"1,771,920",$722M (Micro),1.63,NYS
+EVRG,Evergy Inc,Energy/Utilities,"1,775,170",$17B (Mid),0.64,NASDAQ
+NVST,Envista Holdings Corp,Healthcare,"1,777,340",$4B (Small),1.02,NYS
+DAR,Darling Ingredients Inc,Food/Beverages/Shopping,"1,780,730",$6B (Small),1.28,NYS
+STAA,STAAR Surgical Co,Healthcare,"1,780,960",$1B (Micro),1.07,NASDAQ
+ELF,elf Beauty Inc,Consumer Products,"1,781,350",$5B (Small),1.7,NYS
+TMO,Thermo Fisher Scientific Inc,Healthcare,"1,784,750",$233B (Large),0.93,NYS
+PEB,Pebblebrook Hotel Trust,Real Estate,"1,786,530",$1B (Micro),1.54,NYS
+ESI,Element Solutions Inc,Gold/Precious Metals/Materials,"1,787,110",$7B (Small),1.28,NYS
+FANG,Diamondback Energy Inc,Energy/Utilities,"1,788,820",$42B (Large),0.6,NASDAQ
+ING,ING Groep NV,Finance,"1,795,560",$83B (Large),0.85,NYS
+EPRT,Essential Properties Realty Trust Inc,Real Estate,"1,796,300",$6B (Small),1.01,NYS
+FOUR,Shift4 Payments Inc,Finance,"1,796,980",$6B (Small),1.63,NYS
+RHI,Robert Half Inc,Technology,"1,797,200",$3B (Small),0.87,NYS
+BARK,Bark Inc,Consumer Products,"1,798,080",$106M (Micro),1.89,NYS
+BMRN,BioMarin Pharmaceutical Inc,Healthcare,"1,798,910",$11B (Mid),0.26,NASDAQ
+CM,Canadian Imperial Bank of Commerce,Finance,"1,799,460",$84B (Large),1.04,NYS
+INTR,Inter & Co Inc,Finance,"1,800,710",$4B (Small),1.17,NASDAQ
+ES,Eversource Energy,Energy/Utilities,"1,801,730",$25B (Mid),0.78,NYS
+CTMX,CytomX Therapeutics Inc,Healthcare,"1,804,680",$737M (Micro),2.43,NASDAQ
+BWA,Borgwarner Inc,Auto/Travel/Shipping,"1,806,030",$10B (Mid),1.09,NYS
+ARMK,Aramark,Food/Beverages/Shopping,"1,806,550",$10B (Mid),1.09,NYS
+IRM,Iron Mountain Inc,Real Estate,"1,810,380",$26B (Mid),1.18,NYS
+YETI,Yeti Holdings Inc,Consumer Products,"1,810,940",$4B (Small),1.77,NYS
+TDUP,ThredUp Inc,Food/Beverages/Shopping,"1,813,950",$751M (Micro),1.73,NASDAQ
+IONS,Ionis Pharmaceuticals Inc,Healthcare,"1,815,710",$13B (Mid),0.29,NASDAQ
+LTH,Life Time Group Holdings Inc,Sports/Fitness,"1,816,180",$6B (Small),1.68,NYS
+TRU,TransUnion,Finance,"1,817,580",$17B (Mid),1.7,NYS
+DLR,Digital Realty Trust Inc,Real Estate,"1,828,130",$54B (Large),1.14,NYS
+PENG,Penguin Solutions Inc,Technology,"1,830,790",$1B (Micro),2.23,NASDAQ
+TTI,Tetra Technologies Inc,Energy/Utilities,"1,831,460",$1B (Micro),1.25,NYS
+BGC,Bgc Group Inc,Finance,"1,832,080",$4B (Small),1.04,NASDAQ
+EDIT,Editas Medicine Inc,Healthcare,"1,834,030",$202M (Micro),2.15,NASDAQ
+REAX,Real Brokerage Inc,Real Estate,"1,839,060",$873M (Micro),1.05,NASDAQ
+KD,Kyndryl Holdings Inc,Technology,"1,839,710",$6B (Small),1.93,NYS
+RNA,Avidity Biosciences Inc,Healthcare,"1,840,090",$11B (Mid),0.93,NASDAQ
+SMFG,Sumitomo Mitsui Financial Group Inc,Finance,"1,840,270",$129B (Large),0.39,NYS
+CHD,Church & Dwight Co Inc,Food/Beverages/Shopping,"1,843,870",$21B (Mid),0.46,NYS
+CXAI,CXApp Inc,Technology,"1,843,940",$11M (Micro),0.88,NASDAQ
+RLAY,Relay Therapeutics Inc,Healthcare,"1,845,710",$1B (Micro),1.6,NASDAQ
+IR,Ingersoll Rand Inc,Manufacturing/Construction,"1,845,760",$34B (Mid),1.32,NYS
+DRH,Diamondrock Hospitality Co,Real Estate,"1,848,300",$2B (Micro),1.04,NASDAQ
+PD,PagerDuty Inc,Technology,"1,848,860",$1B (Micro),0.66,NYS
+EQH,Equitable Holdings Inc,Finance,"1,853,430",$14B (Mid),1.12,NYS
+CNX,CNX Resources Corp,Energy/Utilities,"1,855,430",$5B (Small),0.66,NYS
+HUYA,HUYA Inc,Communication Services,"1,856,610",$775M (Micro),0.79,NYS
+RCKT,Rocket Pharmaceuticals Inc,Healthcare,"1,860,800",$404M (Micro),0.48,NASDAQ
+CCO,Clear Channel Outdoor Holdings Inc,Entertainment,"1,868,440",$1B (Micro),2.31,NYS
+SPRY,ARS Pharmaceuticals Inc,Healthcare,"1,871,550",$1B (Micro),0.79,NASDAQ
+ATEC,Alphatec Holdings Inc,Healthcare,"1,872,850",$3B (Small),1.03,NASDAQ
+PFGC,Performance Food Group Co,Food/Beverages/Shopping,"1,875,290",$14B (Mid),0.93,NYS
+COLB,Columbia Banking System Inc,Finance,"1,879,520",$9B (Mid),0.59,NASDAQ
+DNOW,DNOW Inc,Manufacturing/Construction,"1,879,620",$3B (Small),0.79,NYS
+VVV,Valvoline Inc,Auto/Travel/Shipping,"1,883,910",$4B (Small),1.2,NYS
+A,Agilent Technologies Inc,Healthcare,"1,884,040",$42B (Large),1.3,NYS
+ATYR,aTyr Pharma Inc,Healthcare,"1,885,100",$70M (Micro),0.59,NASDAQ
+UGI,UGI Corp,Energy/Utilities,"1,887,430",$8B (Mid),1.09,NYS
+BGS,B&G Foods Inc,Food/Beverages/Shopping,"1,893,000",$334M (Micro),0.51,NYS
+WOOF,Petco Health and Wellness Company Inc,Food/Beverages/Shopping,"1,895,890",$944M (Micro),1.72,NASDAQ
+NVX,NOVONIX Ltd,Technology,"1,897,290",$313M (Micro),2.68,NASDAQ
+AKAM,Akamai Technologies Inc,Technology,"1,901,160",$13B (Mid),0.7,NASDAQ
+TOI,Oncology Institute Inc,Healthcare,"1,901,890",$411M (Micro),0.18,NASDAQ
+MMC,Marsh & McLennan Companies Inc,Finance,"1,902,670",$91B (Large),0.74,NYS
+MGNI,Magnite Inc,Technology,"1,906,860",$2B (Small),2.38,NASDAQ
+LAB,Standard BioTools Inc,Healthcare,"1,914,090",$592M (Micro),1.3,NASDAQ
+ELVN,Enliven Therapeutics Inc,Healthcare,"1,926,310",$2B (Micro),0.37,NASDAQ
+GH,Guardant Health Inc,Healthcare,"1,928,110",$14B (Mid),1.64,NASDAQ
+GTX,Garrett Motion Inc,Govt/Defense/Space,"1,929,700",$4B (Small),0.33,NASDAQ
+STT,State Street Corp,Finance,"1,934,850",$37B (Mid),1.44,NYS
+TGTX,TG Therapeutics Inc,Healthcare,"1,935,050",$5B (Small),1.85,NASDAQ
+ADMA,ADMA Biologics Inc,Healthcare,"1,937,900",$4B (Small),0.48,NASDAQ
+WSC,WillScot Holdings Corp,Manufacturing/Construction,"1,939,110",$4B (Small),1.12,NASDAQ
+UDMY,Udemy Inc,Education,"1,942,760",$835M (Micro),1.72,NASDAQ
+GNTX,Gentex Corp,Auto/Travel/Shipping,"1,945,190",$5B (Small),0.77,NASDAQ
+DEI,Douglas Emmett Inc,Real Estate,"1,945,790",$2B (Micro),1.16,NYS
+EFC,Ellington Financial Inc,Finance,"1,946,550",$1B (Micro),0.95,NYS
+CENX,Century Aluminum Co,Manufacturing/Construction,"1,947,860",$4B (Small),2.25,NASDAQ
+HAIN,Hain Celestial Group Inc,Food/Beverages/Shopping,"1,949,490",$107M (Micro),0.62,NASDAQ
+OKTA,Okta Inc,Technology,"1,951,070",$16B (Mid),0.77,NASDAQ
+VNOM,Viper Energy Inc,Energy/Utilities,"1,951,310",$13B (Mid),0.49,NASDAQ
+LYV,Live Nation Entertainment Inc,Entertainment,"1,953,900",$34B (Mid),1.18,NYS
+HWM,Howmet Aerospace Inc,Auto/Travel/Shipping,"1,954,510",$88B (Large),1.26,NYS
+TWLO,Twilio Inc,Technology,"1,955,280",$20B (Mid),1.32,NYS
+OSS,One Stop Systems Inc,Technology,"1,955,560",$198M (Micro),0.97,NASDAQ
+VSCO,Victoria's Secret & Co,Consumer Products,"1,957,390",$5B (Small),2.31,NYS
+IMNM,Immunome Inc,Healthcare,"1,964,190",$2B (Small),2.32,NASDAQ
+MNMD,Mind Medicine (MindMed) Inc,Healthcare,"1,965,150",$1B (Micro),2.62,NASDAQ
+NET,Cloudflare Inc,Technology,"1,965,920",$64B (Large),1.96,NYS
+BRKR,Bruker Corp,Healthcare,"1,965,930",$8B (Mid),1.19,NASDAQ
+CLS,Celestica Inc,Technology,"1,967,690",$35B (Mid),1.87,NYS
+ETR,Entergy Corp,Energy/Utilities,"1,967,970",$42B (Large),0.64,NYS
+RELX,RELX PLC,Technology,"1,968,570",$79B (Large),0.77,NYS
+CPRI,Capri Holdings Ltd,Food/Beverages/Shopping,"1,968,860",$3B (Small),1.45,NYS
+HOLX,Hologic Inc,Healthcare,"1,973,300",$17B (Mid),0.72,NASDAQ
+SEMR,SEMrush Holdings Inc,Technology,"1,976,160",$2B (Micro),1.55,NYS
+BXSL,Blackstone Secured Lending Fund,Finance,"1,976,570",$6B (Small),0.45,NYS
+BLND,Blend Labs Inc,Technology,"1,976,820",$855M (Micro),1.25,NYS
+OUST,Ouster Inc,Technology,"1,976,900",$2B (Micro),2.93,NASDAQ
+BNL,Broadstone Net Lease Inc,Real Estate,"1,978,810",$3B (Small),1.02,NYS
+TAK,Takeda Pharmaceutical Co Ltd,Healthcare,"1,979,410",$52B (Large),0.05,NYS
+CMPX,Compass Therapeutics Inc,Healthcare,"1,980,870",$952M (Micro),1.26,NASDAQ
+SGHC,SGHC Ltd,Entertainment,"1,982,420",$5B (Small),1.08,NYS
+CYTK,Cytokinetics Inc,Healthcare,"1,983,620",$8B (Mid),0.54,NASDAQ
+RLX,RLX Technology Inc,Technology,"1,991,140",$3B (Small),1.09,NYS
+CERT,Certara Inc,Healthcare,"1,992,850",$1B (Micro),1.48,NASDAQ
+BILL,BILL Holdings Inc,Technology,"1,995,380",$5B (Small),1.31,NYS
+AVXL,Anavex Life Sciences Corp,Healthcare,"1,996,950",$382M (Micro),1.21,NASDAQ
+LMT,Lockheed Martin Corp,Govt/Defense/Space,"1,996,970",$126B (Large),0.23,NYS
+MAS,Masco Corp,Auto/Travel/Shipping,"1,998,880",$14B (Mid),1.28,NYS
+HALO,Halozyme Therapeutics Inc,Healthcare,"2,009,210",$9B (Mid),0.97,NASDAQ
+SFIX,Stitch Fix Inc,Food/Beverages/Shopping,"2,010,310",$668M (Micro),2.24,NASDAQ
+DEO,Diageo PLC,Food/Beverages/Shopping,"2,012,040",$49B (Large),0.46,NYS
+KRG,Kite Realty Group Trust,Real Estate,"2,012,560",$5B (Small),0.91,NYS
+GS,Goldman Sachs Group Inc,Finance,"2,013,260",$282B (Large),1.33,NYS
+DYN,Dyne Therapeutics Inc,Healthcare,"2,019,090",$3B (Small),1.3,NASDAQ
+BOX,Box Inc,Technology,"2,020,040",$4B (Small),0.8,NYS
+CAPT,Captivision Inc,Communication Services,"2,021,820",$13M (Micro),1.07,NASDAQ
+ROST,Ross Stores Inc,Consumer Products,"2,022,220",$62B (Large),1,NASDAQ
+PBI,Pitney Bowes Inc,Technology,"2,023,240",$2B (Micro),1.4,NYS
+BSY,Bentley Systems Inc,Technology,"2,024,800",$12B (Mid),1.21,NASDAQ
+TVTX,Travere Therapeutics Inc,Healthcare,"2,025,040",$3B (Small),0.83,NASDAQ
+RUM,Rumble Inc,Entertainment,"2,026,320",$2B (Small),0.7,NASDAQ
+AXP,American Express Co,Finance,"2,027,780",$259B (Large),1.15,NYS
+PNC,PNC Financial Services Group Inc,Finance,"2,030,120",$85B (Large),0.99,NYS
+UBS,UBS Group AG,Finance,"2,030,720",$149B (Large),1.12,NYS
+VTGN,Vistagen Therapeutics Inc,Healthcare,"2,030,730",$26M (Micro),0.32,NASDAQ
+OTIS,Otis Worldwide Corp,Manufacturing/Construction,"2,033,630",$35B (Mid),1.01,NYS
+DB,Deutsche Bank AG,Finance,"2,039,700",$73B (Large),0.95,NYS
+SNDL,SNDL Inc,Food/Beverages/Shopping,"2,039,780",$427M (Micro),0.82,NASDAQ
+APLE,Apple Hospitality REIT Inc,Real Estate,"2,040,400",$3B (Small),0.85,NYS
+FIS,Fidelity National Information Services Inc,Finance,"2,042,520",$35B (Mid),0.92,NYS
+TREX,Trex Company Inc,Manufacturing/Construction,"2,042,680",$4B (Small),1.59,NYS
+NOG,Northern Oil and Gas Inc,Energy/Utilities,"2,044,440",$2B (Small),1.02,NYS
+PDYN,Palladyne AI Corp,Consumer Products,"2,050,530",$283M (Micro),3.82,NASDAQ
+SRAD,Sportradar Group AG,Technology,"2,053,740",$6B (Small),2.01,NASDAQ
+LQDA,Liquidia Corp,Healthcare,"2,060,640",$3B (Small),0.46,NASDAQ
+AU,Anglogold Ashanti PLC,Gold/Precious Metals/Materials,"2,065,960",$47B (Large),0.6,NYS
+CF,CF Industries Holdings Inc,Gold/Precious Metals/Materials,"2,066,860",$13B (Mid),0.7,NYS
+AMGN,Amgen Inc,Healthcare,"2,069,630",$176B (Large),0.46,NASDAQ
+UNIT,Uniti Group Inc (Delaware),Real Estate,"2,071,070",$2B (Micro),1.48,NASDAQ
+CWH,Camping World Holdings Inc,Auto/Travel/Shipping,"2,073,160",$1B (Micro),2.12,NYS
+LIN,Linde PLC,Gold/Precious Metals/Materials,"2,073,200",$207B (Large),0.84,NASDAQ
+AIV,Apartment Investment and Management Co,Real Estate,"2,075,510",$854M (Micro),1.35,NYS
+FTAI,FTAI Aviation Ltd,Govt/Defense/Space,"2,075,940",$25B (Mid),1.54,NASDAQ
+BBIO,BridgeBio Pharma Inc,Healthcare,"2,081,300",$15B (Mid),1.13,NASDAQ
+NWG,NatWest Group PLC,Finance,"2,081,470",$69B (Large),0.89,NYS
+TPR,Tapestry Inc,Food/Beverages/Shopping,"2,082,710",$27B (Mid),1.65,NYS
+AM,Antero Midstream Corp,Energy/Utilities,"2,090,330",$8B (Mid),0.78,NYS
+SEI,Solaris Energy Infrastructure Inc,Energy/Utilities,"2,098,960",$4B (Small),1.15,NYS
+VSTM,Verastem Inc,Healthcare,"2,100,220",$601M (Micro),0.42,NASDAQ
+SHC,Sotera Health Co,Healthcare,"2,108,190",$5B (Small),1.83,NASDAQ
+CRNX,Crinetics Pharmaceuticals Inc,Healthcare,"2,108,540",$5B (Small),0.2,NASDAQ
+ADPT,Adaptive Biotechnologies Corp,Healthcare,"2,109,600",$2B (Small),2.18,NASDAQ
+TRP,TC Energy Corp,Energy/Utilities,"2,110,240",$56B (Large),0.75,NYS
+FSLR,First Solar Inc,Technology,"2,110,850",$26B (Mid),1.59,NASDAQ
+ACH,Accendra Health Inc,Healthcare,"2,112,230",$190M (Micro),1.37,NYS
+SYF,Synchrony Financial,Finance,"2,115,240",$31B (Mid),1.42,NYS
+MMM,3M Co,Manufacturing/Construction,"2,120,520",$88B (Large),1.08,NYS
+ROL,Rollins Inc,Manufacturing/Construction,"2,120,560",$29B (Mid),0.77,NYS
+GDRX,GoodRx Holdings Inc,Healthcare,"2,124,100",$950M (Micro),1.51,NASDAQ
+GNL,Global Net Lease Inc,Real Estate,"2,126,900",$2B (Micro),1.1,NYS
+COO,Cooper Companies Inc,Healthcare,"2,127,260",$16B (Mid),1.03,NASDAQ
+GLPI,Gaming and Leisure Properties Inc,Real Estate,"2,130,970",$13B (Mid),0.69,NASDAQ
+LWLG,Lightwave Logic Inc,Technology,"2,132,360",$604M (Micro),3.04,NASDAQ
+TRIP,Tripadvisor Inc,Auto/Travel/Shipping,"2,134,090",$2B (Micro),1.02,NASDAQ
+DHR,Danaher Corp,Healthcare,"2,137,060",$168B (Large),0.92,NYS
+INCY,Incyte Corp,Healthcare,"2,137,150",$21B (Mid),0.83,NASDAQ
+GFI,Gold Fields Ltd,Gold/Precious Metals/Materials,"2,139,670",$41B (Mid),0.69,NYS
+ASB,Associated Banc-Corp,Finance,"2,141,410",$4B (Small),0.81,NYS
+HRTX,Heron Therapeutics Inc,Healthcare,"2,143,410",$255M (Micro),1.26,NASDAQ
+APPS,Digital Turbine Inc,Technology,"2,144,790",$545M (Micro),2.27,NASDAQ
+VERI,Veritone Inc,Technology,"2,148,130",$431M (Micro),2.13,NASDAQ
+EVH,Evolent Health Inc,Healthcare,"2,152,720",$465M (Micro),0.27,NYS
+EXAS,Exact Sciences Corp,Healthcare,"2,156,930",$19B (Mid),1.42,NASDAQ
+EQR,Equity Residential,Real Estate,"2,157,920",$23B (Mid),0.76,NYS
+NG,NovaGold Resources Inc,Gold/Precious Metals/Materials,"2,167,380",$4B (Small),0.83,NYS
+JEF,Jefferies Financial Group Inc,Finance,"2,167,670",$13B (Mid),1.5,NYS
+ACVA,ACV Auctions Inc,Auto/Travel/Shipping,"2,168,710",$2B (Micro),1.63,NYS
+CMS,CMS Energy Corp,Energy/Utilities,"2,172,240",$21B (Mid),0.47,NYS
+UL,Unilever PLC,Food/Beverages/Shopping,"2,173,110",$140B (Large),0.35,NYS
+DV,DoubleVerify Holdings Inc,Technology,"2,179,530",$2B (Micro),0.98,NYS
+MUR,Murphy Oil Corp,Energy/Utilities,"2,183,250",$5B (Small),0.78,NYS
+ICE,Intercontinental Exchange Inc,Finance,"2,186,460",$95B (Large),1.03,NYS
+SBRA,Sabra Health Care REIT Inc,Real Estate,"2,193,310",$5B (Small),0.65,NASDAQ
+BALL,Ball Corp,Gold/Precious Metals/Materials,"2,194,680",$15B (Mid),1.13,NYS
+GBDC,Golub Capital BDC Inc,Finance,"2,199,530",$4B (Small),0.45,NASDAQ
+CAT,Caterpillar Inc,Manufacturing/Construction,"2,204,460",$289B (Large),1.57,NYS
+AAP,Advance Auto Parts Inc,Auto/Travel/Shipping,"2,210,070",$3B (Small),1.18,NYS
+AEM,Agnico Eagle Mines Ltd,Gold/Precious Metals/Materials,"2,212,650",$96B (Large),0.63,NYS
+USFD,US Foods Holding Corp,Food/Beverages/Shopping,"2,215,320",$17B (Mid),1.02,NYS
+TEF,Telefonica SA,Communication Services,"2,220,750",$22B (Mid),0.31,NYS
+MPC,Marathon Petroleum Corp,Energy/Utilities,"2,220,840",$53B (Large),0.74,NYS
+MDU,MDU Resources Group Inc,Energy/Utilities,"2,227,120",$4B (Small),0.82,NYS
+TAL,TAL Education Group,Education,"2,237,990",$7B (Small),0.07,NYS
+CLX,Clorox Co,Food/Beverages/Shopping,"2,239,080",$13B (Mid),0.59,NYS
+CRWD,CrowdStrike Holdings Inc,Technology,"2,239,540",$119B (Large),1.03,NASDAQ
+AMT,American Tower Corp,Real Estate,"2,245,360",$79B (Large),0.93,NYS
+DNUT,Krispy Kreme Inc,Food/Beverages/Shopping,"2,247,740",$733M (Micro),1.32,NASDAQ
+REXR,Rexford Industrial Realty Inc,Real Estate,"2,247,930",$9B (Mid),1.24,NYS
+MODG,Topgolf Callaway Brands Corp,Sports/Fitness,"2,251,880",$3B (Small),0.97,NYS
+MIR,Mirion Technologies Inc,Technology,"2,255,680",$7B (Small),0.97,NYS
+FIGS,Figs Inc,Food/Beverages/Shopping,"2,265,920",$2B (Micro),1.3,NYS
+UPWK,Upwork Inc,Technology,"2,267,340",$3B (Small),1.06,NASDAQ
+ZM,Zoom Communications Inc,Technology,"2,272,180",$25B (Mid),0.9,NASDAQ
+IRT,Independence Realty Trust Inc,Real Estate,"2,275,680",$4B (Small),1.01,NYS
+UNP,Union Pacific Corp,Auto/Travel/Shipping,"2,277,660",$136B (Large),0.99,NYS
+SMPL,Simply Good Foods Co,Food/Beverages/Shopping,"2,278,630",$2B (Micro),0.26,NASDAQ
+EXEL,Exelixis Inc,Healthcare,"2,282,610",$12B (Mid),0.42,NASDAQ
+BBBY,Bed Bath & Beyond Inc,Consumer Products,"2,285,580",$472M (Micro),3.01,NYS
+APO,Apollo Global Management Inc,Finance,"2,299,760",$85B (Large),1.57,NYS
+NOMD,Nomad Foods Ltd,Food/Beverages/Shopping,"2,303,870",$2B (Micro),0.7,NYS
+EB,Eventbrite Inc,Entertainment,"2,308,690",$438M (Micro),1.4,NYS
+INSM,Insmed Inc,Healthcare,"2,309,640",$38B (Mid),1.11,NASDAQ
+CCI,Crown Castle Inc,Real Estate,"2,311,890",$36B (Mid),0.98,NYS
+GAU,Galiano Gold Inc,Gold/Precious Metals/Materials,"2,314,530",$691M (Micro),0.87,NYS
+BLMN,Bloomin' Brands Inc,Food/Beverages/Shopping,"2,314,740",$598M (Micro),1.15,NASDAQ
+SRE,Sempra,Energy/Utilities,"2,334,110",$58B (Large),0.74,NYS
+LEGN,Legend Biotech Corp,Healthcare,"2,337,160",$4B (Small),0.11,NASDAQ
+APLS,Apellis Pharmaceuticals Inc,Healthcare,"2,340,270",$3B (Small),0.26,NASDAQ
+INDI,indie Semiconductor Inc,Technology,"2,340,690",$870M (Micro),2.53,NASDAQ
+CRK,Comstock Resources Inc,Energy/Utilities,"2,343,310",$6B (Small),0.38,NYS
+LOW,Lowe's Companies Inc,Manufacturing/Construction,"2,344,700",$150B (Large),0.97,NYS
+TXG,10X Genomics Inc,Healthcare,"2,353,410",$3B (Small),2.25,NASDAQ
+SFM,Sprouts Farmers Market Inc,Food/Beverages/Shopping,"2,355,670",$8B (Small),0.75,NASDAQ
+ARE,Alexandria Real Estate Equities Inc,Real Estate,"2,356,020",$9B (Mid),1.32,NYS
+CC,Chemours Co,Gold/Precious Metals/Materials,"2,362,460",$2B (Small),1.63,NYS
+FND,Floor & Decor Holdings Inc,Manufacturing/Construction,"2,364,780",$8B (Mid),1.75,NYS
+TSN,Tyson Foods Inc,Food/Beverages/Shopping,"2,365,790",$20B (Mid),0.47,NYS
+HNST,Honest Company Inc,Consumer Products,"2,369,270",$288M (Micro),2.29,NASDAQ
+GROY,Gold Royalty Corp,Gold/Precious Metals/Materials,"2,371,210",$987M (Micro),0.99,NYS
+COGT,Cogent Biosciences Inc,Healthcare,"2,385,190",$6B (Small),0.45,NASDAQ
+BRO,Brown & Brown Inc,Finance,"2,387,210",$28B (Mid),0.79,NYS
+GPRO,GoPro Inc,Technology,"2,387,840",$233M (Micro),1.73,NASDAQ
+WELL,Welltower Inc,Real Estate,"2,391,190",$128B (Large),0.84,NYS
+IVR,Invesco Mortgage Capital Inc,Real Estate,"2,391,280",$606M (Micro),1.71,NYS
+PEG,Public Service Enterprise Group Inc,Energy/Utilities,"2,391,670",$39B (Mid),0.61,NYS
+METC,Ramaco Resources Inc,Energy/Utilities,"2,400,580",$1B (Micro),1.46,NASDAQ
+OI,O-I Glass Inc,Gold/Precious Metals/Materials,"2,401,330",$2B (Small),0.79,NYS
+EMR,Emerson Electric Co,Energy/Utilities,"2,409,700",$81B (Large),1.26,NYS
+ASPN,Aspen Aerogels Inc,Manufacturing/Construction,"2,412,850",$273M (Micro),3,NYS
+W,Wayfair Inc,Consumer Products,"2,419,080",$15B (Mid),3.37,NYS
+CUBE,CubeSmart,Real Estate,"2,422,180",$9B (Mid),1.13,NYS
+VIPS,Vipshop Holdings Ltd,Food/Beverages/Shopping,"2,424,430",$9B (Mid),0.71,NYS
+CIEN,Ciena Corp,Technology,"2,426,060",$32B (Mid),1.13,NYS
+BILI,Bilibili Inc,Entertainment,"2,428,220",$10B (Mid),0.73,NASDAQ
+OCUL,Ocular Therapeutix Inc,Healthcare,"2,432,810",$2B (Small),0.9,NASDAQ
+ONB,Old National Bancorp,Finance,"2,436,890",$9B (Mid),0.84,NASDAQ
+BTU,Peabody Energy Corp,Energy/Utilities,"2,441,700",$4B (Small),0.51,NYS
+ENTG,Entegris Inc,Technology,"2,450,090",$16B (Mid),1.33,NASDAQ
+APG,APi Group Corp,Manufacturing/Construction,"2,461,380",$18B (Mid),1.71,NYS
+DINO,HF Sinclair Corp,Energy/Utilities,"2,464,470",$9B (Mid),0.85,NYS
+PAYX,Paychex Inc,Finance,"2,469,280",$41B (Mid),0.89,NASDAQ
+HR,Healthcare Realty Trust Inc,Real Estate,"2,470,830",$6B (Small),0.94,NYS
+WDAY,Workday Inc,Technology,"2,472,000",$54B (Large),1.13,NASDAQ
+VUZI,Vuzix Corp,Technology,"2,472,360",$265M (Micro),1.51,NASDAQ
+TSHA,Taysha Gene Therapies Inc,Healthcare,"2,475,600",$1B (Micro),0.98,NASDAQ
+WRB,W R Berkley Corp,Finance,"2,487,980",$26B (Mid),0.37,NYS
+FOXA,Fox Corp,Entertainment,"2,488,890",$15B (Mid),0.52,NASDAQ
+TEAM,Atlassian Corp,Technology,"2,489,790",$39B (Mid),0.88,NASDAQ
+INO,Inovio Pharmaceuticals Inc,Healthcare,"2,495,170",$107M (Micro),1.73,NASDAQ
+VTR,Ventas Inc,Real Estate,"2,495,210",$35B (Mid),0.79,NYS
+NXPI,NXP Semiconductors NV,Technology,"2,496,730",$61B (Large),1.48,NASDAQ
+COST,Costco Wholesale Corp,Food/Beverages/Shopping,"2,499,120",$411B (Large),1.01,NASDAQ
+MUFG,Mitsubishi UFJ Financial Group Inc,Finance,"2,501,360",$194B (Large),0.38,NYS
+SRPT,Sarepta Therapeutics Inc,Healthcare,"2,505,690",$2B (Small),0.39,NASDAQ
+DLTR,Dollar Tree Inc,Food/Beverages/Shopping,"2,506,800",$26B (Mid),0.74,NASDAQ
+NI,NiSource Inc,Energy/Utilities,"2,512,780",$20B (Mid),0.64,NYS
+PSX,Phillips 66,Energy/Utilities,"2,516,790",$57B (Large),0.9,NYS
+LLY,Eli Lilly and Co,Healthcare,"2,518,120",$1T (Large),0.39,NYS
+ANNX,Annexon Inc,Healthcare,"2,522,520",$759M (Micro),1.18,NASDAQ
+HOG,Harley-Davidson Inc,Auto/Travel/Shipping,"2,523,210",$3B (Small),1.4,NYS
+REAL,RealReal Inc,Food/Beverages/Shopping,"2,523,830",$2B (Micro),2.66,NASDAQ
+TER,Teradyne Inc,Technology,"2,525,280",$34B (Mid),1.83,NASDAQ
+XRX,Xerox Holdings Corp,Technology,"2,530,370",$325M (Micro),1.75,NASDAQ
+EVLV,Evolv Technologies Holdings Inc,Technology,"2,532,910",$1B (Micro),1.86,NASDAQ
+MKC,McCormick & Company Inc,Food/Beverages/Shopping,"2,533,860",$17B (Mid),0.61,NYS
+BRX,Brixmor Property Group Inc,Real Estate,"2,534,780",$8B (Mid),1.09,NYS
+ALK,Alaska Air Group Inc,Auto/Travel/Shipping,"2,537,810",$6B (Small),1.21,NYS
+AXL,American Axle & Manufacturing Holdings Inc,Auto/Travel/Shipping,"2,539,810",$929M (Micro),1.61,NYS
+ACHC,Acadia Healthcare Company Inc,Healthcare,"2,542,170",$1B (Micro),0.89,NASDAQ
+SANA,Sana Biotechnology Inc,Healthcare,"2,547,190",$1B (Micro),1.97,NASDAQ
+CEG,Constellation Energy Corp,Energy/Utilities,"2,547,800",$107B (Large),1.14,NASDAQ
+DECK,Deckers Outdoor Corp,Consumer Products,"2,548,950",$15B (Mid),1.15,NYS
+DOCS,Doximity Inc,Healthcare,"2,553,300",$8B (Mid),1.39,NYS
+MA,Mastercard Inc,Finance,"2,558,610",$517B (Large),0.84,NYS
+NINE,Nine Energy Service Inc,Energy/Utilities,"2,562,770",$18M (Micro),2.22,NYS
+ALHC,Alignment Healthcare Inc,Healthcare,"2,563,860",$4B (Small),1.16,NASDAQ
+OLN,Olin Corp,Gold/Precious Metals/Materials,"2,577,570",$3B (Small),1.64,NYS
+EL,Estee Lauder Companies Inc,Consumer Products,"2,583,020",$41B (Mid),1.14,NYS
+KOPN,Kopin Corp,Technology,"2,583,430",$518M (Micro),2.93,NASDAQ
+DOCU,DocuSign Inc,Technology,"2,587,740",$14B (Mid),1.01,NASDAQ
+SYY,Sysco Corp,Food/Beverages/Shopping,"2,590,220",$36B (Mid),0.61,NYS
+PTLO,Portillos Inc,Food/Beverages/Shopping,"2,590,430",$378M (Micro),1.76,NASDAQ
+ETN,Eaton Corporation PLC,Energy/Utilities,"2,595,780",$126B (Large),1.19,NYS
+WWR,Westwater Resources Inc,Gold/Precious Metals/Materials,"2,599,910",$119M (Micro),1.56,NYS
+ROKU,Roku Inc,Entertainment,"2,606,210",$16B (Mid),1.99,NASDAQ
+BCAB,Bioatla Inc,Healthcare,"2,609,080",$21M (Micro),1.08,NASDAQ
+PAYO,Payoneer Global Inc,Technology,"2,613,730",$2B (Micro),1.03,NASDAQ
+PNFP,Pinnacle Financial Partners Inc,Finance,"2,630,720",$15B (Mid),1.03,NYS
+PAA,Plains All American Pipeline LP,Energy/Utilities,"2,632,520",$13B (Mid),0.56,NASDAQ
+FSK,FS KKR Capital Corp,Finance,"2,633,340",$4B (Small),0.89,NYS
+BNS,Bank of Nova Scotia,Finance,"2,635,180",$89B (Large),1.1,NYS
+Z,Zillow Group Inc,Real Estate,"2,635,660",$13B (Mid),2.08,NASDAQ
+AUTL,Autolus Therapeutics PLC,Healthcare,"2,638,500",$482M (Micro),1.97,NASDAQ
+RELY,Remitly Global Inc,Technology,"2,642,600",$3B (Small),0.11,NASDAQ
+CVNA,Carvana Co,Auto/Travel/Shipping,"2,646,880",$101B (Large),3.57,NYS
+FLEX,Flex Ltd,Technology,"2,660,660",$23B (Mid),1.24,NASDAQ
+CTVA,Corteva Inc,Gold/Precious Metals/Materials,"2,675,110",$46B (Large),0.75,NYS
+SHLS,Shoals Technologies Group Inc,Technology,"2,677,280",$1B (Micro),1.7,NASDAQ
+MFG,Mizuho Financial Group Inc,Finance,"2,687,350",$98B (Large),0.4,NYS
+BROS,Dutch Bros Inc,Food/Beverages/Shopping,"2,697,330",$10B (Mid),2.55,NYS
+CNK,Cinemark Holdings Inc,Entertainment,"2,700,090",$3B (Small),1.13,NYS
+SKYT,Skywater Technology Inc,Technology,"2,702,420",$1B (Micro),3.53,NASDAQ
+AKBA,Akebia Therapeutics Inc,Healthcare,"2,704,110",$403M (Micro),0.38,NASDAQ
+FLR,Fluor Corp,Energy/Utilities,"2,710,390",$7B (Small),1.38,NYS
+IVVD,Invivyd Inc,Healthcare,"2,712,540",$698M (Micro),0.62,NASDAQ
+PCAR,Paccar Inc,Auto/Travel/Shipping,"2,717,070",$62B (Large),1.04,NASDAQ
+CUE,Cue Biopharma Inc,Healthcare,"2,721,800",$28M (Micro),1.51,NASDAQ
+OPTU,Optimum Communications Inc,Communication Services,"2,724,910",$893M (Micro),1.52,NYS
+EXE,Expand Energy Corp,Energy/Utilities,"2,726,860",$24B (Mid),0.44,NASDAQ
+DUK,Duke Energy Corp,Energy/Utilities,"2,729,960",$91B (Large),0.5,NYS
+PRGO,Perrigo Company PLC,Healthcare,"2,731,750",$2B (Micro),0.4,NYS
+EW,Edwards Lifesciences Corp,Healthcare,"2,752,680",$49B (Large),0.94,NYS
+LKQ,LKQ Corp,Auto/Travel/Shipping,"2,753,690",$9B (Mid),0.91,NASDAQ
+SEDG,Solaredge Technologies Inc,Technology,"2,757,420",$2B (Micro),1.66,NASDAQ
+LPTH,LightPath Technologies Inc,Technology,"2,761,210",$657M (Micro),0.99,NASDAQ
+SEE,Sealed Air Corp,Gold/Precious Metals/Materials,"2,766,210",$6B (Small),1.35,NYS
+KNX,Knight-Swift Transportation Holdings Inc,Auto/Travel/Shipping,"2,780,220",$9B (Mid),1.16,NYS
+SHCO,Soho House & Co Inc,Entertainment,"2,786,770",$2B (Micro),0.68,NYS
+GOGO,Gogo Inc,Technology,"2,788,180",$701M (Micro),1.05,NASDAQ
+TAP,Molson Coors Beverage Co,Food/Beverages/Shopping,"2,798,050",$9B (Mid),0.48,NYS
+GO,Grocery Outlet Holding Corp,Food/Beverages/Shopping,"2,808,560",$937M (Micro),0.49,NASDAQ
+RRC,Range Resources Corp,Energy/Utilities,"2,811,520",$8B (Mid),0.58,NYS
+PLD,Prologis Inc,Real Estate,"2,812,040",$120B (Large),1.43,NYS
+TD,Toronto-Dominion Bank,Finance,"2,813,100",$158B (Large),0.67,NYS
+ASAN,Asana Inc,Technology,"2,826,330",$3B (Small),0.95,NYS
+MET,MetLife Inc,Finance,"2,829,430",$52B (Large),0.76,NYS
+AXTA,Axalta Coating Systems Ltd,Gold/Precious Metals/Materials,"2,831,480",$7B (Small),1.29,NYS
+QSR,Restaurant Brands International Inc,Food/Beverages/Shopping,"2,833,490",$23B (Mid),0.6,NYS
+REKR,Rekor Systems Inc,Technology,"2,835,650",$229M (Micro),2.15,NASDAQ
+SID,Companhia Siderurgica Nacional SA,Gold/Precious Metals/Materials,"2,839,580",$2B (Small),1.63,NYS
+EC,Ecopetrol SA,Energy/Utilities,"2,853,370",$22B (Mid),0.78,NYS
+VNRX,VolitionRX Ltd,Healthcare,"2,858,470",$41M (Micro),1.3,NYS
+DDL,Dingdong (Cayman) Ltd,Food/Beverages/Shopping,"2,867,470",$536M (Micro),0.44,NYS
+ADM,Archer-Daniels-Midland Co,Food/Beverages/Shopping,"2,876,160",$30B (Mid),0.7,NYS
+DAY,Dayforce Inc,Technology,"2,878,440",$11B (Mid),1.16,NYS
+BLDP,Ballard Power Systems Inc,Energy/Utilities,"2,883,130",$830M (Micro),1.76,NASDAQ
+MCD,McDonald's Corp,Food/Beverages/Shopping,"2,884,750",$219B (Large),0.52,NYS
+COUR,Coursera Inc,Education,"2,889,520",$1B (Micro),1.38,NYS
+FTI,TechnipFMC PLC,Energy/Utilities,"2,896,560",$20B (Mid),0.72,NYS
+LULU,Lululemon Athletica Inc,Sports/Fitness,"2,900,670",$24B (Mid),1.01,NASDAQ
+SNY,Sanofi SA,Healthcare,"2,938,650",$119B (Large),0.43,NASDAQ
+NWSA,News Corp,Entertainment,"2,940,670",$10B (Mid),0.99,NASDAQ
+BCE,BCE Inc,Communication Services,"2,944,800",$22B (Mid),0.64,NYS
+KKR,KKR & Co Inc,Finance,"2,945,840",$120B (Large),1.99,NYS
+ORGN,Origin Materials Inc,Gold/Precious Metals/Materials,"2,948,120",$35M (Micro),0.99,NASDAQ
+BKD,Brookdale Senior Living Inc,Healthcare,"2,949,080",$3B (Small),0.69,NYS
+DT,Dynatrace Inc,Technology,"2,956,890",$13B (Mid),0.84,NYS
+SM,SM Energy Co,Energy/Utilities,"2,957,860",$2B (Micro),1.14,NYS
+BZ,Kanzhun Ltd,Communication Services,"2,958,670",$8B (Mid),0.42,NASDAQ
+FSLY,Fastly Inc,Technology,"2,961,440",$1B (Micro),1.03,NASDAQ
+BMBL,Bumble Inc,Entertainment,"2,962,070",$916M (Micro),1.96,NASDAQ
+GEVO,Gevo Inc,Energy/Utilities,"2,970,120",$482M (Micro),1.49,NASDAQ
+ALB,Albemarle Corp,Gold/Precious Metals/Materials,"2,975,600",$19B (Mid),1.44,NYS
+GFS,GlobalFoundries Inc,Technology,"2,982,940",$22B (Mid),1.49,NASDAQ
+BK,Bank of New York Mellon Corp,Finance,"2,983,440",$83B (Large),1.1,NYS
+NEXT,NextDecade Corp,Energy/Utilities,"2,986,340",$1B (Micro),1.99,NASDAQ
+MQ,Marqeta Inc,Finance,"2,986,340",$2B (Micro),1.48,NASDAQ
+NTNX,Nutanix Inc,Technology,"3,002,000",$14B (Mid),0.48,NASDAQ
+ADI,Analog Devices Inc,Technology,"3,005,070",$147B (Large),1.04,NASDAQ
+TNYA,Tenaya Therapeutics Inc,Healthcare,"3,009,180",$163M (Micro),3.19,NASDAQ
+FRSH,Freshworks Inc,Technology,"3,010,260",$3B (Small),0.89,NASDAQ
+PGR,Progressive Corp,Finance,"3,012,920",$126B (Large),0.31,NYS
+VIAV,Viavi Solutions Inc,Technology,"3,013,580",$4B (Small),0.96,NASDAQ
+GPN,Global Payments Inc,Technology,"3,023,060",$19B (Mid),0.77,NYS
+ETSY,ETSY Inc,Consumer Products,"3,025,760",$6B (Small),1.78,NYS
+PGY,Pagaya Technologies Ltd,Finance,"3,039,270",$2B (Micro),5.89,NASDAQ
+COF,Capital One Financial Corp,Finance,"3,042,640",$158B (Large),1.14,NYS
+NDAQ,Nasdaq Inc,Finance,"3,045,930",$56B (Large),1.02,NASDAQ
+BTI,British American Tobacco plc,Consumer Products,"3,057,440",$120B (Large),0.31,NYS
+XERS,Xeris Biopharma Holdings Inc,Healthcare,"3,061,540",$1B (Micro),0.64,NASDAQ
+PSTG,Pure Storage Inc,Technology,"3,073,160",$22B (Mid),1.27,NYS
+EIX,Edison International,Energy/Utilities,"3,079,020",$23B (Mid),0.82,NYS
+OKE,ONEOK Inc,Energy/Utilities,"3,105,480",$46B (Large),0.93,NYS
+NRGV,Energy Vault Holdings Inc,Govt/Defense/Space,"3,113,690",$888M (Micro),0.92,NYS
+MTCH,Match Group Inc,Entertainment,"3,119,950",$8B (Mid),1.33,NASDAQ
+LW,Lamb Weston Holdings Inc,Food/Beverages/Shopping,"3,121,640",$6B (Small),0.43,NYS
+AEP,American Electric Power Company Inc,Energy/Utilities,"3,123,950",$62B (Large),0.61,NASDAQ
+JMIA,Jumia Technologies AG,Consumer Products,"3,125,730",$2B (Micro),2.34,NYS
+LBRT,Liberty Energy Inc,Energy/Utilities,"3,125,860",$3B (Small),0.49,NYS
+RPRX,Royalty Pharma PLC,Healthcare,"3,137,230",$23B (Mid),0.42,NASDAQ
+FTV,Fortive Corp,Manufacturing/Construction,"3,139,300",$17B (Mid),1.12,NYS
+DHI,D.R. Horton Inc,Real Estate,"3,139,920",$46B (Large),1.45,NYS
+VKTX,Viking Therapeutics Inc,Healthcare,"3,144,370",$4B (Small),0.74,NASDAQ
+UDR,UDR Inc,Real Estate,"3,147,950",$12B (Mid),0.71,NYS
+MAT,Mattel Inc,Consumer Products,"3,157,410",$7B (Small),0.7,NASDAQ
+STX,Seagate Technology Holdings PLC,Technology,"3,162,930",$66B (Large),1.64,NASDAQ
+FUN,Six Flags Entertainment Corp,Entertainment,"3,165,260",$2B (Micro),0.38,NYS
+NVAX,Novavax Inc,Healthcare,"3,167,830",$1B (Micro),2.58,NASDAQ
+BX,Blackstone Inc,Finance,"3,181,730",$192B (Large),1.76,NYS
+CTSH,Cognizant Technology Solutions Corp,Technology,"3,182,800",$41B (Mid),0.95,NASDAQ
+ULCC,Frontier Group Holdings Inc,Auto/Travel/Shipping,"3,183,380",$1B (Micro),2.56,NASDAQ
+STZ,Constellation Brands Inc,Food/Beverages/Shopping,"3,186,600",$25B (Mid),0.44,NYS
+PAGS,PagSeguro Digital Ltd,Finance,"3,187,670",$3B (Small),1.39,NYS
+SAN,Banco Santander SA,Finance,"3,188,030",$176B (Large),0.73,NYS
+ADBE,Adobe Inc,Technology,"3,200,180",$140B (Large),1.51,NASDAQ
+DG,Dollar General Corp,Food/Beverages/Shopping,"3,210,170",$31B (Mid),0.25,NYS
+ABNB,Airbnb Inc,Real Estate,"3,221,290",$84B (Large),1.16,NASDAQ
+HMY,Harmony Gold Mining Company Ltd,Gold/Precious Metals/Materials,"3,229,150",$13B (Mid),0.93,NYS
+ARWR,Arrowhead Pharmaceuticals Inc,Healthcare,"3,259,840",$9B (Mid),1.22,NASDAQ
+COMM,CommScope Holding Company Inc,Technology,"3,262,100",$4B (Small),2.42,NASDAQ
+APP,Applovin Corp,Technology,"3,272,870",$219B (Large),2.49,NASDAQ
+CRBG,Corebridge Financial Inc,Finance,"3,286,210",$16B (Mid),1.06,NYS
+CNP,CenterPoint Energy Inc,Energy/Utilities,"3,287,540",$25B (Mid),0.58,NYS
+EVGO,EVgo Inc,Auto/Travel/Shipping,"3,294,570",$942M (Micro),2.58,NASDAQ
+ACN,Accenture PLC,Technology,"3,315,130",$173B (Large),1.24,NYS
+EOG,EOG Resources Inc,Energy/Utilities,"3,319,030",$57B (Large),0.49,NYS
+PENN,PENN Entertainment Inc,Entertainment,"3,322,420",$2B (Micro),1.4,NASDAQ
+SNOW,Snowflake Inc,Technology,"3,325,480",$75B (Large),1.14,NYS
+UAL,United Airlines Holdings Inc,Auto/Travel/Shipping,"3,326,300",$38B (Mid),1.3,NASDAQ
+KSS,Kohls Corp,Consumer Products,"3,334,750",$2B (Small),1.47,NYS
+LEN,Lennar Corp,Real Estate,"3,335,760",$27B (Mid),1.47,NYS
+BHP,BHP Group Ltd,Gold/Precious Metals/Materials,"3,346,660",$157B (Large),0.81,NYS
+UP,Wheels Up Experience Inc,Auto/Travel/Shipping,"3,351,200",$488M (Micro),2.36,NYS
+AFRM,Affirm Holdings Inc,Finance,"3,364,280",$27B (Mid),3.57,NASDAQ
+FYBR,Frontier Communications Parent Inc,Communication Services,"3,372,730",$10B (Mid),0.95,NASDAQ
+GEN,Gen Digital Inc,Technology,"3,378,840",$17B (Mid),1.09,NASDAQ
+DBX,Dropbox Inc,Technology,"3,380,310",$7B (Small),0.63,NASDAQ
+MNKD,MannKind Corp,Healthcare,"3,384,160",$2B (Micro),0.83,NASDAQ
+OLPX,Olaplex Holdings Inc,Food/Beverages/Shopping,"3,394,600",$1B (Micro),2.27,NASDAQ
+FE,FirstEnergy Corp,Energy/Utilities,"3,404,210",$26B (Mid),0.63,NYS
+FRO,Frontline Plc,Energy/Utilities,"3,417,170",$6B (Small),0.07,NYS
+GSIT,GSI Technology Inc,Technology,"3,431,760",$277M (Micro),1.45,NASDAQ
+VNET,VNET Group Inc,Technology,"3,433,550",$3B (Small),0.02,NASDAQ
+OVV,Ovintiv Inc,Energy/Utilities,"3,433,630",$10B (Mid),0.78,NYS
+HON,Honeywell International Inc,Manufacturing/Construction,"3,445,290",$132B (Large),0.94,NASDAQ
+DASH,DoorDash Inc,Food/Beverages/Shopping,"3,446,420",$93B (Large),1.77,NASDAQ
+GSK,GSK plc,Healthcare,"3,467,300",$103B (Large),0.47,NYS
+TNGX,Tango Therapeutics Inc,Healthcare,"3,468,260",$2B (Micro),1.77,NASDAQ
+IBM,International Business Machines Corp,Technology,"3,468,870",$284B (Large),0.68,NYS
+SWKS,Skyworks Solutions Inc,Technology,"3,483,480",$9B (Mid),1.32,NASDAQ
+DDOG,Datadog Inc,Technology,"3,499,640",$44B (Large),1.27,NASDAQ
+COHR,Coherent Corp,Technology,"3,506,470",$28B (Mid),1.86,NYS
+IPSC,Century Therapeutics Inc,Healthcare,"3,508,580",$169M (Micro),1.8,NASDAQ
+BW,Babcock & Wilcox Enterprises Inc,Energy/Utilities,"3,510,820",$883M (Micro),1.56,NYS
+WT,WisdomTree Inc,Finance,"3,522,960",$2B (Micro),1.09,NYS
+KMX,Carmax Inc,Auto/Travel/Shipping,"3,529,120",$6B (Small),1.36,NYS
+ARR,ARMOUR Residential REIT Inc,Finance,"3,540,740",$2B (Micro),1.44,NYS
+KTOS,Kratos Defense and Security Solutions Inc,Govt/Defense/Space,"3,542,260",$19B (Mid),1.11,NASDAQ
+PCT,Purecycle Technologies Inc,Manufacturing/Construction,"3,544,160",$2B (Micro),2.06,NASDAQ
+IBKR,Interactive Brokers Group Inc,Finance,"3,562,110",$120B (Large),1.24,NASDAQ
+EPD,Enterprise Products Partners LP,Energy/Utilities,"3,565,700",$69B (Large),0.59,NYS
+PK,Park Hotels & Resorts Inc,Real Estate,"3,569,460",$2B (Small),1.45,NYS
+LAR,Lithium Argentina AG,Gold/Precious Metals/Materials,"3,579,010",$1B (Micro),1.24,NYS
+BCRX,BioCryst Pharmaceuticals Inc,Healthcare,"3,586,320",$2B (Micro),0.83,NASDAQ
+BRBR,Bellring Brands Inc,Food/Beverages/Shopping,"3,605,370",$3B (Small),0.63,NYS
+NOV,Nov Inc,Energy/Utilities,"3,607,430",$6B (Small),0.95,NYS
+TROX,Tronox Holdings PLC,Gold/Precious Metals/Materials,"3,617,380",$893M (Micro),1.18,NYS
+ZNTL,Zentalis Pharmaceuticals Inc,Healthcare,"3,643,530",$270M (Micro),1.81,NASDAQ
+CIG,Energy of Minas Gerais Co,Energy/Utilities,"3,649,490",$4B (Small),0.89,NYS
+TMUS,T-Mobile US Inc,Communication Services,"3,650,010",$224B (Large),0.43,NASDAQ
+OMC,Omnicom Group Inc,Communication Services,"3,660,440",$25B (Mid),0.76,NYS
+SO,Southern Co,Energy/Utilities,"3,662,880",$96B (Large),0.44,NYS
+GNW,Genworth Financial Inc,Finance,"3,664,760",$4B (Small),1.02,NYS
+MIST,Milestone Pharmaceuticals Inc,Healthcare,"3,667,500",$174M (Micro),0.46,NASDAQ
+MVIS,MicroVision Inc,Technology,"3,669,400",$281M (Micro),1.35,NASDAQ
+FMC,FMC Corp,Gold/Precious Metals/Materials,"3,670,220",$2B (Micro),0.66,NYS
+WIT,Wipro Ltd,Technology,"3,679,110",$30B (Mid),1.05,NYS
+AEG,Aegon Ltd,Finance,"3,682,250",$12B (Mid),0.8,NYS
+TWO,Two Harbors Investment Corp,Finance,"3,709,060",$1B (Micro),1.23,NYS
+ABSI,Absci Corp,Healthcare,"3,718,780",$501M (Micro),2.12,NASDAQ
+GTLB,GitLab Inc,Technology,"3,719,810",$6B (Small),0.75,NASDAQ
+SONY,Sony Group Corp,Entertainment,"3,729,500",$149B (Large),0.98,NYS
+MS,Morgan Stanley,Finance,"3,749,530",$296B (Large),1.2,NYS
+ABR,Arbor Realty Trust Inc,Finance,"3,750,990",$2B (Micro),1.35,NYS
+LITE,Lumentum Holdings Inc,Technology,"3,775,090",$25B (Mid),1.51,NASDAQ
+ATAI,Atai Beckley NV,Healthcare,"3,783,830",$1B (Micro),1.61,NASDAQ
+ELAN,Elanco Animal Health Inc,Healthcare,"3,785,290",$12B (Mid),1.87,NYS
+DXCM,Dexcom Inc,Healthcare,"3,802,730",$26B (Mid),1.49,NASDAQ
+BFLY,Butterfly Network Inc,Healthcare,"3,808,600",$1B (Micro),2.27,NYS
+FLNC,Fluence Energy Inc,Manufacturing/Construction,"3,824,260",$4B (Small),2.89,NASDAQ
+EBAY,eBay Inc,Technology,"3,830,860",$41B (Mid),1.38,NASDAQ
+PLG,Platinum Group Metals Ltd,Gold/Precious Metals/Materials,"3,837,210",$305M (Micro),1.16,NYS
+GLUE,Monte Rosa Therapeutics Inc,Healthcare,"3,848,320",$2B (Micro),1.64,NASDAQ
+MNST,Monster Beverage Corp,Food/Beverages/Shopping,"3,856,250",$76B (Large),0.45,NASDAQ
+GE,GE Aerospace,Govt/Defense/Space,"3,859,600",$339B (Large),1.41,NYS
+OCGN,Ocugen Inc,Healthcare,"3,877,340",$468M (Micro),3.49,NASDAQ
+PGEN,Precigen Inc,Healthcare,"3,889,830",$2B (Micro),1.07,NASDAQ
+ZIM,ZIM Integrated Shipping Services Ltd,Auto/Travel/Shipping,"3,891,050",$3B (Small),1.63,NYS
+DD,Dupont De Nemours Inc,Gold/Precious Metals/Materials,"3,906,300",$18B (Mid),1.08,NYS
+CFG,Citizens Financial Group Inc,Finance,"3,907,900",$26B (Mid),1.09,NYS
+ZTS,Zoetis Inc,Healthcare,"3,914,290",$56B (Large),0.96,NYS
+BHVN,Biohaven Ltd,Healthcare,"3,914,970",$1B (Micro),3.54,NYS
+GTM,Zoominfo Technologies Inc,Technology,"3,931,950",$3B (Small),1.08,NASDAQ
+BTDR,Bitdeer Technologies Group,Technology,"3,934,470",$2B (Small),2.33,NASDAQ
+RC,Ready Capital Corp,Finance,"3,938,540",$350M (Micro),1.5,NYS
+IMRX,Immuneering Corp,Healthcare,"3,944,850",$301M (Micro),0.45,NASDAQ
+HE,Hawaiian Electric Industries Inc,Energy/Utilities,"3,976,630",$3B (Small),0.66,NYS
+BEN,Franklin Resources Inc,Finance,"4,000,390",$13B (Mid),1.48,NYS
+KIM,Kimco Realty Corp,Real Estate,"4,008,050",$14B (Mid),1.09,NYS
+GENI,Genius Sports Ltd,Technology,"4,008,810",$3B (Small),1.85,NYS
+HD,Home Depot Inc,Manufacturing/Construction,"4,018,990",$373B (Large),1.08,NYS
+FLO,Flowers Foods Inc,Consumer Products,"4,020,960",$2B (Small),0.32,NYS
+EQNR,Equinor ASA,Energy/Utilities,"4,025,860",$59B (Large),0.33,NYS
+ALLO,Allogene Therapeutics Inc,Healthcare,"4,043,800",$384M (Micro),0.62,NASDAQ
+OPK,OPKO Health Inc,Healthcare,"4,066,130",$1B (Micro),1.47,NASDAQ
+TIGR,UP Fintech Holding Ltd,Finance,"4,074,350",$2B (Micro),0.48,NASDAQ
+HUN,Huntsman Corp,Gold/Precious Metals/Materials,"4,079,070",$2B (Micro),0.72,NYS
+GPK,Graphic Packaging Holding Co,Gold/Precious Metals/Materials,"4,083,090",$5B (Small),0.63,NYS
+SE,Sea Ltd,Entertainment,"4,087,450",$79B (Large),1.6,NYS
+GLXY,Galaxy Digital Inc,Finance,"4,093,520",$10B (Mid),3.85,NASDAQ
+HRL,Hormel Foods Corp,Food/Beverages/Shopping,"4,105,340",$13B (Mid),0.33,NYS
+IP,International Paper Co,Gold/Precious Metals/Materials,"4,110,440",$23B (Mid),1.1,NYS
+CZR,Caesars Entertainment Inc,Entertainment,"4,117,930",$5B (Small),2.04,NASDAQ
+TJX,TJX Companies Inc,Food/Beverages/Shopping,"4,133,210",$175B (Large),0.74,NYS
+STWD,Starwood Property Trust Inc,Real Estate,"4,148,580",$7B (Small),1.16,NYS
+PBF,PBF Energy Inc,Energy/Utilities,"4,165,320",$4B (Small),0.5,NYS
+XRAY,DENTSPLY SIRONA Inc,Healthcare,"4,188,360",$3B (Small),1.03,NASDAQ
+BLNK,Blink Charging Co,Manufacturing/Construction,"4,195,980",$106M (Micro),1.84,NASDAQ
+AZN,AstraZeneca PLC,Healthcare,"4,197,520",$294B (Large),0.35,NASDAQ
+SIRI,Sirius XM Holdings Inc,Entertainment,"4,200,910",$7B (Small),0.93,NASDAQ
+AMKR,Amkor Technology Inc,Technology,"4,220,050",$13B (Mid),2.02,NASDAQ
+BN,Brookfield Corp,Finance,"4,247,060",$118B (Large),1.59,NYS
+NTLA,Intellia Therapeutics Inc,Healthcare,"4,257,060",$1B (Micro),2.1,NASDAQ
+ADT,ADT Inc,Communication Services,"4,257,390",$7B (Small),0.99,NYS
+ENB,Enbridge Inc,Energy/Utilities,"4,260,310",$100B (Large),0.67,NYS
+OBDC,Blue Owl Capital Corp,Finance,"4,274,900",$6B (Small),0.7,NYS
+AREC,American Resources Corp,Energy/Utilities,"4,277,480",$342M (Micro),1.19,NASDAQ
+ALTS,ALT5 Sigma Corp,Technology,"4,284,920",$176M (Micro),1.85,NASDAQ
+BIDU,Baidu Inc,Entertainment,"4,298,580",$49B (Large),0.32,NASDAQ
+CELH,Celsius Holdings Inc,Food/Beverages/Shopping,"4,307,370",$14B (Mid),0.9,NASDAQ
+BF/B,Brown-Forman Corp,Food/Beverages/Shopping,"4,316,590",$8B (Mid),0.4,NYS
+SABR,Sabre Corp,Technology,"4,318,440",$577M (Micro),1.07,NASDAQ
+BORR,Borr Drilling Ltd,Energy/Utilities,"4,323,120",$1B (Micro),1.1,NYS
+CLVT,Clarivate PLC,Communication Services,"4,323,510",$2B (Small),1.52,NYS
+SGMO,Sangamo Therapeutics Inc,Healthcare,"4,326,310",$149M (Micro),1.29,NASDAQ
+XEL,Xcel Energy Inc,Energy/Utilities,"4,326,540",$44B (Large),0.46,NASDAQ
+BBY,Best Buy Co Inc,Consumer Products,"4,333,820",$15B (Mid),1.46,NYS
+MVST,Microvast Holdings Inc,Auto/Travel/Shipping,"4,335,080",$1B (Micro),3.38,NASDAQ
+XP,XP Inc,Finance,"4,344,310",$9B (Mid),1.22,NASDAQ
+FNB,FNB Corp,Finance,"4,366,190",$6B (Small),0.94,NYS
+VOD,Vodafone Group PLC,Communication Services,"4,372,050",$32B (Mid),0.41,NASDAQ
+PPL,PPL Corp,Energy/Utilities,"4,376,880",$26B (Mid),0.71,NYS
+SPCE,Virgin Galactic Holdings Inc,Govt/Defense/Space,"4,398,680",$201M (Micro),2.21,NYS
+IVZ,Invesco Ltd,Finance,"4,422,360",$13B (Mid),1.67,NYS
+PM,Philip Morris International Inc,Food/Beverages/Shopping,"4,446,240",$253B (Large),0.41,NYS
+NXDR,Nextdoor Holdings Inc,Technology,"4,457,240",$776M (Micro),1.18,NYS
+OMER,Omeros Corp,Healthcare,"4,479,640",$886M (Micro),2.43,NASDAQ
+ONON,On Holding AG,Sports/Fitness,"4,488,950",$16B (Mid),2.16,NYS
+EXC,Exelon Corp,Energy/Utilities,"4,492,680",$44B (Large),0.44,NASDAQ
+CORT,Corcept Therapeutics Inc,Healthcare,"4,501,300",$4B (Small),0.25,NASDAQ
+HYMC,Hycroft Mining Holding Corporation,Gold/Precious Metals/Materials,"4,510,670",$2B (Small),2.62,NASDAQ
+SATS,EchoStar Corp,Communication Services,"4,519,030",$35B (Mid),1.02,NASDAQ
+VLO,Valero Energy Corp,Energy/Utilities,"4,554,820",$57B (Large),0.77,NYS
+RIO,Rio Tinto PLC,Gold/Precious Metals/Materials,"4,557,060",$102B (Large),0.56,NYS
+SHOP,Shopify Inc,Technology,"4,569,330",$214B (Large),2.84,NASDAQ
+UPST,Upstart Holdings Inc,Finance,"4,598,760",$5B (Small),2.39,NASDAQ
+SW,Smurfit WestRock PLC,Gold/Precious Metals/Materials,"4,605,350",$22B (Mid),1.01,NYS
+GLW,Corning Inc,Technology,"4,618,440",$73B (Large),1.12,NYS
+ESPR,Esperion Therapeutics Inc,Healthcare,"4,618,560",$928M (Micro),1.09,NASDAQ
+RTX,RTX Corp,Govt/Defense/Space,"4,619,770",$253B (Large),0.42,NYS
+WRBY,Warby Parker Inc,Food/Beverages/Shopping,"4,646,170",$3B (Small),2.08,NYS
+MGM,MGM Resorts International,Entertainment,"4,670,910",$9B (Mid),1.44,NYS
+JHX,James Hardie Industries PLC,Gold/Precious Metals/Materials,"4,677,710",$13B (Mid),1.81,NYS
+LI,Li Auto Inc,Auto/Travel/Shipping,"4,706,100",$18B (Mid),0.57,NASDAQ
+AAOI,Applied Optoelectronics Inc,Technology,"4,709,420",$2B (Small),3.3,NASDAQ
+STNE,StoneCo Ltd,Finance,"4,712,980",$4B (Small),1.82,NASDAQ
+ABCL,Abcellera Biologics Inc,Healthcare,"4,727,720",$1B (Micro),0.82,NASDAQ
+GOSS,Gossamer Bio Inc,Healthcare,"4,739,050",$579M (Micro),1.93,NASDAQ
+VNDA,Vanda Pharmaceuticals Inc,Healthcare,"4,752,200",$433M (Micro),0.62,NASDAQ
+AMH,American Homes 4 Rent,Real Estate,"4,786,490",$12B (Mid),0.8,NYS
+CX,Cemex SAB de CV,Gold/Precious Metals/Materials,"4,810,080",$18B (Mid),1.62,NYS
+ARCC,Ares Capital Corp,Finance,"4,859,370",$15B (Mid),0.63,NASDAQ
+TME,Tencent Music Entertainment Group,Entertainment,"4,866,210",$27B (Mid),0.52,NYS
+GILD,Gilead Sciences Inc,Healthcare,"4,869,690",$150B (Large),0.37,NASDAQ
+CLOV,Clover Health Investments Corp,Healthcare,"4,873,570",$1B (Micro),2.11,NASDAQ
+SG,Sweetgreen Inc,Food/Beverages/Shopping,"4,887,340",$926M (Micro),1.94,NYS
+APA,APA Corp (US),Energy/Utilities,"4,899,980",$9B (Mid),0.74,NASDAQ
+IOT,Samsara Inc,Technology,"4,900,230",$19B (Mid),1.61,NYS
+NUVB,Nuvation Bio Inc,Healthcare,"4,903,280",$3B (Small),1.52,NYS
+CSIQ,Canadian Solar Inc,Technology,"4,910,120",$1B (Micro),1.27,NASDAQ
+AEVA,Aeva Technologies Inc,Auto/Travel/Shipping,"4,913,430",$1B (Micro),2.11,NASDAQ
+CRH,CRH PLC,Gold/Precious Metals/Materials,"4,913,820",$88B (Large),1.19,NYS
+TDOC,Teladoc Health Inc,Healthcare,"4,926,560",$1B (Micro),2.13,NYS
+FLG,Flagstar Bank NA,Finance,"4,931,140",$5B (Small),1.1,NYS
+LDI,loanDepot Inc,Finance,"4,940,340",$970M (Micro),3.18,NYS
+FHN,First Horizon Corp,Finance,"4,940,800",$12B (Mid),0.64,NYS
+UPS,United Parcel Service Inc,Auto/Travel/Shipping,"4,972,210",$92B (Large),1.09,NYS
+XYZ,Block Inc,Technology,"5,001,800",$42B (Large),2.68,NYS
+KMB,Kimberly-Clark Corp,Food/Beverages/Shopping,"5,007,150",$32B (Mid),0.27,NASDAQ
+PANW,Palo Alto Networks Inc,Technology,"5,011,150",$132B (Large),0.75,NASDAQ
+ABT,Abbott Laboratories,Healthcare,"5,020,330",$219B (Large),0.75,NYS
+AIG,American International Group Inc,Finance,"5,022,860",$41B (Mid),0.61,NYS
+V,Visa Inc,Finance,"5,024,260",$669B (Large),0.79,NYS
+SU,Suncor Energy Inc,Energy/Utilities,"5,036,240",$56B (Large),0.46,NYS
+HUT,Hut 8 Corp,Finance,"5,039,310",$7B (Small),4.31,NASDAQ
+ENPH,Enphase Energy Inc,Technology,"5,071,670",$5B (Small),1.37,NASDAQ
+TU,Telus Corp,Communication Services,"5,073,660",$21B (Mid),0.69,NYS
+LVS,Las Vegas Sands Corp,Entertainment,"5,077,730",$40B (Mid),0.92,NYS
+BCS,Barclays PLC,Finance,"5,097,980",$90B (Large),0.96,NYS
+MLTX,MoonLake Immunotherapeutics,Healthcare,"5,101,660",$1B (Micro),1.22,NASDAQ
+U,Unity Software Inc,Technology,"5,102,220",$19B (Mid),2.05,NYS
+VRT,Vertiv Holdings Co,Manufacturing/Construction,"5,152,570",$63B (Large),2.08,NYS
+VLY,Valley National Bancorp,Finance,"5,153,990",$7B (Small),1.12,NASDAQ
+SVM,Silvercorp Metals Inc,Gold/Precious Metals/Materials,"5,156,380",$2B (Micro),0.97,NYS
+LYG,Lloyds Banking Group PLC,Finance,"5,157,260",$80B (Large),0.92,NYS
+FTNT,Fortinet Inc,Technology,"5,161,050",$59B (Large),1.06,NASDAQ
+SHEL,Shell PLC,Energy/Utilities,"5,161,670",$202B (Large),0.15,NYS
+CARR,Carrier Global Corp,Manufacturing/Construction,"5,166,600",$47B (Large),1.32,NYS
+OGN,Organon & Co,Healthcare,"5,190,510",$2B (Micro),0.55,NYS
+ORLY,O'Reilly Automotive Inc,Auto/Travel/Shipping,"5,193,270",$79B (Large),0.62,NASDAQ
+CSGP,CoStar Group Inc,Real Estate,"5,201,240",$25B (Mid),0.83,NASDAQ
+CRM,Salesforce Inc,Technology,"5,201,560",$244B (Large),1.27,NYS
+VLN,Valens Semiconductor Ltd,Technology,"5,205,910",$254M (Micro),0.3,NYS
+AR,Antero Resources Corp,Energy/Utilities,"5,240,310",$10B (Mid),0.55,NYS
+AI,C3.ai Inc,Technology,"5,242,420",$2B (Micro),1.98,NYS
+VFC,VF Corp,Food/Beverages/Shopping,"5,274,990",$8B (Mid),1.68,NYS
+ARRY,Array Technologies Inc,Technology,"5,298,700",$1B (Micro),1.67,NASDAQ
+CRMD,CorMedix Inc,Healthcare,"5,302,870",$601M (Micro),1.37,NASDAQ
+LYB,LyondellBasell Industries NV,Gold/Precious Metals/Materials,"5,313,780",$16B (Mid),0.71,NYS
+DVAX,Dynavax Technologies Corp,Healthcare,"5,329,310",$2B (Micro),0.97,NASDAQ
+D,Dominion Energy Inc,Energy/Utilities,"5,372,320",$50B (Large),0.7,NYS
+HTZ,Hertz Global Holdings Inc,Food/Beverages/Shopping,"5,396,950",$2B (Micro),2.14,NASDAQ
+NEOG,Neogen Corp,Healthcare,"5,405,640",$2B (Micro),1.99,NASDAQ
+WEN,Wendy's Co,Food/Beverages/Shopping,"5,408,370",$2B (Micro),0.38,NASDAQ
+M,Macy's Inc,Consumer Products,"5,455,410",$6B (Small),1.53,NYS
+IBN,ICICI Bank Ltd,Finance,"5,456,340",$110B (Large),0.4,NYS
+AEO,American Eagle Outfitters Inc,Consumer Products,"5,464,140",$5B (Small),1.4,NYS
+VST,Vistra Corp,Energy/Utilities,"5,465,640",$56B (Large),1.42,NYS
+CRDO,Credo Technology Group Holding Ltd,Technology,"5,510,310",$27B (Mid),2.65,NASDAQ
+DDD,3D Systems Corp,Consumer Products,"5,514,800",$340M (Micro),2.39,NYS
+PSEC,Prospect Capital Corp,Finance,"5,525,890",$1B (Micro),0.89,NASDAQ
+MPW,Medical Properties Trust Inc,Real Estate,"5,590,170",$3B (Small),1.47,NYS
+AMAT,Applied Materials Inc,Technology,"5,591,500",$239B (Large),1.7,NASDAQ
+MDT,Medtronic PLC,Healthcare,"5,601,840",$125B (Large),0.72,NYS
+CL,Colgate-Palmolive Co,Consumer Products,"5,627,930",$66B (Large),0.28,NYS
+GME,GameStop Corp,Entertainment,"5,628,890",$10B (Mid),2.02,NYS
+DAL,Delta Air Lines Inc,Auto/Travel/Shipping,"5,664,530",$47B (Large),1.37,NYS
+JCI,Johnson Controls International PLC,Manufacturing/Construction,"5,702,100",$68B (Large),1.43,NYS
+HUMA,Humacyte Inc,Healthcare,"5,723,470",$226M (Micro),1.94,NASDAQ
+AMPX,Amprius Technologies Inc,Auto/Travel/Shipping,"5,767,220",$1B (Micro),3.06,NYS
+STM,STMicroelectronics NV,Technology,"5,775,750",$26B (Mid),1.59,NYS
+SLDP,Solid Power Inc,Energy/Utilities,"5,815,130",$1B (Micro),1.91,NASDAQ
+RARE,Ultragenyx Pharmaceutical Inc,Healthcare,"5,830,030",$2B (Small),0.16,NASDAQ
+UNH,UnitedHealth Group Inc,Healthcare,"5,833,570",$312B (Large),0.42,NYS
+GT,Goodyear Tire & Rubber Co,Auto/Travel/Shipping,"5,836,500",$3B (Small),1.18,NASDAQ
+ROIV,Roivant Sciences Ltd,Healthcare,"5,850,690",$15B (Mid),1.23,NASDAQ
+JNJ,Johnson & Johnson,Healthcare,"5,885,550",$492B (Large),0.34,NYS
+ENVX,Enovix Corp,Technology,"5,890,680",$2B (Micro),2.13,NASDAQ
+ABBV,AbbVie Inc,Healthcare,"5,913,750",$389B (Large),0.34,NYS
+CVS,CVS Health Corp,Healthcare,"5,943,420",$102B (Large),0.49,NYS
+HST,Host Hotels & Resorts Inc,Real Estate,"5,955,130",$13B (Mid),1.18,NASDAQ
+WMB,Williams Companies Inc,Energy/Utilities,"5,967,460",$74B (Large),0.67,NYS
+NWL,Newell Brands Inc,Consumer Products,"5,968,460",$2B (Micro),0.93,NASDAQ
+CNC,Centene Corp,Healthcare,"5,984,200",$23B (Mid),0.49,NYS
+RUN,Sunrun Inc,Energy/Utilities,"6,008,490",$4B (Small),2.36,NASDAQ
+RZLT,Rezolute Inc,Healthcare,"6,010,990",$244M (Micro),0.47,NASDAQ
+PAAS,Pan American Silver Corp,Gold/Precious Metals/Materials,"6,032,860",$23B (Mid),0.66,NYS
+QSI,Quantum-Si Inc,Healthcare,"6,038,310",$263M (Micro),3.04,NASDAQ
+DELL,Dell Technologies Inc,Technology,"6,041,820",$80B (Large),1.02,NYS
+BBWI,Bath & Body Works Inc,Consumer Products,"6,064,800",$5B (Small),1.54,NYS
+POET,POET Technologies Inc,Technology,"6,074,750",$974M (Micro),0.39,NASDAQ
+CRGY,Crescent Energy Co,Energy/Utilities,"6,111,810",$3B (Small),1.2,NYS
+COLD,Americold Realty Trust Inc,Real Estate,"6,115,200",$4B (Small),0.92,NYS
+S,SentinelOne Inc,Technology,"6,137,260",$5B (Small),0.77,NYS
+RVMD,Revolution Medicines Inc,Healthcare,"6,140,340",$23B (Mid),1.03,NASDAQ
+SATL,Satellogic Inc,Technology,"6,158,650",$408M (Micro),1.4,NASDAQ
+IAG,IAMGOLD Corp,Gold/Precious Metals/Materials,"6,184,450",$10B (Mid),1.36,NYS
+MOS,Mosaic Co,Gold/Precious Metals/Materials,"6,186,640",$8B (Mid),0.98,NYS
+KR,Kroger Co,Food/Beverages/Shopping,"6,190,070",$38B (Mid),0.61,NYS
+TXN,Texas Instruments Inc,Technology,"6,201,110",$173B (Large),1,NASDAQ
+SES,SES AI Corp,Gold/Precious Metals/Materials,"6,227,270",$778M (Micro),0.58,NYS
+FITB,Fifth Third Bancorp,Finance,"6,227,640",$33B (Mid),1,NASDAQ
+O,Realty Income Corp,Real Estate,"6,239,740",$54B (Large),0.8,NYS
+WU,Western Union Co,Finance,"6,244,060",$3B (Small),0.55,NYS
+AGL,agilon health inc,Healthcare,"6,285,440",$411M (Micro),0.09,NYS
+FISV,Fiserv Inc,Finance,"6,337,880",$38B (Mid),0.78,NASDAQ
+PSKY,Paramount Skydance Corp,Entertainment,"6,357,120",$13B (Mid),1.25,NASDAQ
+PRMB,Primo Brands Corp,Food/Beverages/Shopping,"6,379,910",$7B (Small),0.63,NYS
+GERN,Geron Corp,Healthcare,"6,420,280",$855M (Micro),0.62,NASDAQ
+DX,Dynex Capital Inc,Finance,"6,429,410",$2B (Micro),0.97,NYS
+ANET,Arista Networks Inc,Technology,"6,429,850",$155B (Large),1.42,NYS
+APH,Amphenol Corp,Technology,"6,457,110",$172B (Large),1.2,NYS
+SCHW,Charles Schwab Corp,Finance,"6,465,480",$178B (Large),0.93,NYS
+RVPH,Reviva Pharmaceuticals Holdings Inc,Healthcare,"6,478,300",$40M (Micro),0.07,NASDAQ
+WY,Weyerhaeuser Co,Real Estate,"6,491,900",$19B (Mid),1.03,NYS
+ALT,Altimmune Inc,Healthcare,"6,533,490",$419M (Micro),0.08,NASDAQ
+BKR,Baker Hughes Co,Energy/Utilities,"6,554,900",$49B (Large),0.88,NASDAQ
+HDB,HDFC Bank Ltd,Finance,"6,575,640",$170B (Large),0.56,NYS
+TFC,Truist Financial Corp,Finance,"6,648,680",$65B (Large),0.88,NYS
+BSX,Boston Scientific Corp,Healthcare,"6,653,460",$145B (Large),0.67,NYS
+AQST,Aquestive Therapeutics Inc,Healthcare,"6,657,380",$477M (Micro),1.63,NASDAQ
+CCC,CCC Intelligent Solutions Holdings Inc,Technology,"6,671,760",$5B (Small),0.67,NASDAQ
+FAST,Fastenal Co,Manufacturing/Construction,"6,673,480",$48B (Large),0.89,NASDAQ
+AES,AES Corp,Energy/Utilities,"6,687,010",$10B (Mid),0.98,NYS
+ABAT,American Battery Technology Co,Gold/Precious Metals/Materials,"6,709,520",$624M (Micro),0.77,NASDAQ
+NEE,Nextera Energy Inc,Energy/Utilities,"6,741,130",$166B (Large),0.74,NYS
+ASX,ASE Technology Holding Co Ltd,Technology,"6,797,720",$38B (Mid),1.5,NYS
+COTY,Coty Inc,Food/Beverages/Shopping,"6,802,230",$3B (Small),0.95,NYS
+CHWY,Chewy Inc,Food/Beverages/Shopping,"6,819,090",$13B (Mid),1.59,NYS
+TGB,Taseko Mines Ltd,Gold/Precious Metals/Materials,"6,847,710",$2B (Small),1.25,NYS
+QCOM,Qualcomm Inc,Technology,"6,894,020",$190B (Large),1.22,NASDAQ
+TOST,Toast Inc,Technology,"6,905,910",$21B (Mid),1.94,NYS
+NAK,Northern Dynasty Minerals Ltd,Gold/Precious Metals/Materials,"6,906,520",$1B (Micro),0.09,NYS
+TGT,Target Corp,Food/Beverages/Shopping,"6,938,870",$48B (Large),1.14,NYS
+KGC,Kinross Gold Corp,Gold/Precious Metals/Materials,"6,959,340",$38B (Mid),0.74,NYS
+TMC,TMC the metals company Inc,Gold/Precious Metals/Materials,"7,066,640",$3B (Small),1.86,NASDAQ
+CPRT,Copart Inc,Auto/Travel/Shipping,"7,097,940",$39B (Mid),1.08,NASDAQ
+BA,Boeing Co,Auto/Travel/Shipping,"7,100,570",$184B (Large),1.15,NYS
+PEP,PepsiCo Inc,Food/Beverages/Shopping,"7,113,170",$191B (Large),0.4,NASDAQ
+FFAI,Faraday Future Intelligent Electric Inc,Auto/Travel/Shipping,"7,170,280",$185M (Micro),5.22,NASDAQ
+GM,General Motors Co,Auto/Travel/Shipping,"7,195,450",$77B (Large),1.36,NYS
+ARDX,Ardelyx Inc,Healthcare,"7,254,400",$2B (Micro),0.58,NASDAQ
+ORC,Orchid Island Capital Inc,Real Estate,"7,257,300",$1B (Micro),1.69,NYS
+TSCO,Tractor Supply Co,Manufacturing/Construction,"7,313,230",$27B (Mid),0.74,NASDAQ
+PACB,Pacific Biosciences of California Inc,Healthcare,"7,391,350",$586M (Micro),2.27,NASDAQ
+LCID,Lucid Group Inc,Auto/Travel/Shipping,"7,424,190",$4B (Small),1.17,NASDAQ
+AA,Alcoa Corp,Manufacturing/Construction,"7,430,940",$16B (Mid),1.91,NYS
+TLRY,Tilray Brands Inc,Healthcare,"7,460,150",$1B (Micro),2.03,NASDAQ
+NOW,ServiceNow Inc,Technology,"7,462,170",$148B (Large),0.97,NYS
+SBSW,Sibanye Stillwater Ltd,Gold/Precious Metals/Materials,"7,485,680",$11B (Mid),0.66,NYS
+CTRA,Coterra Energy Inc,Energy/Utilities,"7,510,830",$19B (Mid),0.37,NYS
+EQX,Equinox Gold Corp,Gold/Precious Metals/Materials,"7,512,780",$11B (Mid),1.24,NYS
+HLN,Haleon PLC,Healthcare,"7,569,970",$44B (Large),0.19,NYS
+USB,US Bancorp,Finance,"7,570,370",$86B (Large),1.08,NYS
+LUV,Southwest Airlines Co,Auto/Travel/Shipping,"7,594,950",$23B (Mid),1.15,NYS
+COP,ConocoPhillips,Energy/Utilities,"7,621,090",$120B (Large),0.33,NYS
+NEM,Newmont Corporation,Gold/Precious Metals/Materials,"7,648,290",$119B (Large),0.42,NYS
+MP,MP Materials Corp,Gold/Precious Metals/Materials,"7,654,900",$11B (Mid),1.62,NYS
+INVZ,Innoviz Technologies Ltd,Technology,"7,666,840",$253M (Micro),1.36,NASDAQ
+BDN,Brandywine Realty Trust,Real Estate,"7,690,190",$525M (Micro),1.28,NYS
+APLT,Applied Therapeutics Inc,Healthcare,"7,747,440",$15M (Micro),2.09,NASDAQ
+GP,GreenPower Motor Company Inc,Auto/Travel/Shipping,"7,770,520",$4M (Micro),1.91,NASDAQ
+BB,BlackBerry Ltd,Technology,"7,770,980",$2B (Small),1.63,NYS
+DVN,Devon Energy Corp,Energy/Utilities,"7,776,580",$22B (Mid),0.66,NYS
+SBUX,Starbucks Corp,Food/Beverages/Shopping,"7,809,310",$101B (Large),0.95,NASDAQ
+COIN,Coinbase Global Inc,Finance,"7,823,720",$65B (Large),3.71,NASDAQ
+ELME,Elme Communities,Real Estate,"7,861,930",$260M (Micro),0.76,NYS
+NUAI,New Era Energy & Digital Inc,Energy/Utilities,"7,964,320",$191M (Micro),1.28,NASDAQ
+OSCR,Oscar Health Inc,Healthcare,"7,966,440",$5B (Small),1.91,NYS
+KDP,Keurig Dr Pepper Inc,Food/Beverages/Shopping,"8,006,630",$38B (Mid),0.35,NASDAQ
+VTRS,Viatris Inc,Healthcare,"8,010,780",$15B (Mid),0.78,NASDAQ
+JPM,JPMorgan Chase & Co,Finance,"8,050,430",$905B (Large),1.07,NYS
+MCHP,Microchip Technology Inc,Technology,"8,051,230",$41B (Mid),1.46,NASDAQ
+INVH,Invitation Homes Inc,Real Estate,"8,086,550",$16B (Mid),0.83,NYS
+ARBE,Arbe Robotics Ltd,Technology,"8,168,150",$148M (Micro),0.54,NASDAQ
+DIS,Walt Disney Co,Entertainment,"8,222,000",$207B (Large),1.43,NYS
+ON,ON Semiconductor Corp,Technology,"8,265,310",$25B (Mid),1.56,NASDAQ
+INFY,Infosys Ltd,Technology,"8,278,300",$72B (Large),0.96,NYS
+PTON,Peloton Interactive Inc,Sports/Fitness,"8,287,260",$3B (Small),2.42,NASDAQ
+XPEV,Xpeng Inc,Auto/Travel/Shipping,"8,316,380",$19B (Mid),1.16,NYS
+BAX,Baxter International Inc,Healthcare,"8,345,800",$11B (Mid),0.59,NYS
+RITM,Rithm Capital Corp,Finance,"8,383,380",$6B (Small),1.22,NYS
+AVTR,Avantor Inc,Healthcare,"8,446,900",$8B (Mid),0.95,NYS
+EQT,EQT Corp,Energy/Utilities,"8,454,240",$32B (Mid),0.73,NYS
+UEC,Uranium Energy Corp,Energy/Utilities,"8,530,180",$7B (Small),1.23,NYS
+RBLX,Roblox Corp,Entertainment,"8,590,250",$51B (Large),1.63,NYS
+WDC,Western Digital Corp,Technology,"8,672,670",$69B (Large),1.8,NASDAQ
+GAP,Gap Inc,Consumer Products,"8,677,700",$11B (Mid),2.3,NYS
+LYFT,Lyft Inc,Auto/Travel/Shipping,"8,731,540",$8B (Mid),1.94,NASDAQ
+DKNG,Draftkings Inc,Sports/Fitness,"8,786,400",$18B (Mid),1.67,NASDAQ
+DOC,Healthpeak Properties Inc,Real Estate,"8,815,990",$12B (Mid),1.1,NYS
+TEVA,Teva Pharmaceutical Industries Ltd,Healthcare,"8,830,530",$37B (Mid),0.7,NYS
+ERIC,Telefonaktiebolaget LM Ericsson,Technology,"8,834,480",$29B (Mid),0.96,NASDAQ
+PG,Procter & Gamble Co,Food/Beverages/Shopping,"8,853,320",$332B (Large),0.37,NYS
+ERAS,Erasca Inc,Healthcare,"8,873,930",$2B (Micro),1.21,NASDAQ
+LUMN,Lumen Technologies Inc,Communication Services,"9,009,980",$8B (Mid),1.53,NYS
+NFE,New Fortress Energy Inc,Energy/Utilities,"9,033,580",$336M (Micro),1,NASDAQ
+VTYX,Ventyx Biosciences Inc,Healthcare,"9,080,040",$991M (Micro),1.28,NASDAQ
+BP,BP PLC,Energy/Utilities,"9,180,580",$89B (Large),0.32,NYS
+JD,JD.com Inc,Food/Beverages/Shopping,"9,513,710",$47B (Large),0.42,NASDAQ
+YMM,Full Truck Alliance Co Ltd,Auto/Travel/Shipping,"9,540,560",$11B (Mid),0.22,NYS
+QXO,QXO Inc,Auto/Travel/Shipping,"9,605,920",$17B (Mid),2.54,NYS
+UMC,United Microelectronics Corp,Technology,"9,674,930",$22B (Mid),1.05,NYS
+IQ,iQIYI Inc,Entertainment,"9,716,220",$2B (Micro),0.08,NASDAQ
+SOC,Sable Offshore Corp,Energy/Utilities,"9,717,400",$1B (Micro),0.41,NYS
+PR,Permian Resources Corp,Energy/Utilities,"9,736,320",$12B (Mid),0.75,NYS
+MRNA,Moderna Inc,Healthcare,"9,780,230",$13B (Mid),1.32,NASDAQ
+AXTI,AXT Inc,Technology,"9,793,220",$1B (Micro),1.98,NASDAQ
+DOW,Dow Inc,Gold/Precious Metals/Materials,"9,824,110",$19B (Mid),0.78,NYS
+NLY,Annaly Capital Management Inc,Finance,"9,881,960",$16B (Mid),1.3,NYS
+MO,Altria Group Inc,Food/Beverages/Shopping,"9,891,260",$97B (Large),0.5,NYS
+ORBS,Eightco Holdings Inc,Technology,"9,894,850",$332M (Micro),2.93,NASDAQ
+DJT,Trump Media & Technology Group Corp,Entertainment,"10,015,980",$4B (Small),4.62,NASDAQ
+CNQ,Canadian Natural Resources Ltd,Energy/Utilities,"10,065,120",$67B (Large),0.69,NYS
+GGB,Gerdau SA,Gold/Precious Metals/Materials,"10,068,220",$5B (Small),1.43,NYS
+CFLT,Confluent Inc,Technology,"10,098,720",$11B (Mid),0.95,NASDAQ
+MDLZ,Mondelez International Inc,Food/Beverages/Shopping,"10,131,630",$71B (Large),0.39,NASDAQ
+WFC,Wells Fargo & Co,Finance,"10,134,400",$301B (Large),1.09,NYS
+TTD,Trade Desk Inc,Technology,"10,161,730",$18B (Mid),1.1,NASDAQ
+ZETA,Zeta Global Holdings Corp,Technology,"10,515,040",$6B (Small),1.28,NYS
+CNH,CNH Industrial NV,Manufacturing/Construction,"10,592,010",$13B (Mid),1.31,NYS
+META,Meta Platforms Inc,Technology,"10,618,570",$2T (Large),1.27,NASDAQ
+PL,Planet Labs PBC,Technology,"10,643,720",$7B (Small),1.95,NYS
+RF,Regions Financial Corp,Finance,"10,783,740",$25B (Mid),1.05,NYS
+FUBO,FuboTV Inc,Entertainment,"10,795,420",$3B (Small),2.06,NYS
+PINS,Pinterest Inc,Entertainment,"10,819,340",$18B (Mid),0.92,NYS
+VICI,VICI Properties Inc,Real Estate,"10,851,190",$30B (Mid),0.72,NYS
+IOVA,Iovance Biotherapeutics Inc,Healthcare,"10,962,680",$973M (Micro),0.76,NASDAQ
+C,Citigroup Inc,Finance,"11,158,570",$217B (Large),1.16,NYS
+PTEN,Patterson-UTI Energy Inc,Energy/Utilities,"11,198,820",$3B (Small),0.76,NASDAQ
+BE,Bloom Energy Corp,Manufacturing/Construction,"11,218,420",$32B (Mid),3.09,NYS
+TSM,Taiwan Semiconductor Manufacturing Co Ltd,Technology,"11,219,030",$2T (Large),1.32,NYS
+BMY,Bristol-Myers Squibb Co,Healthcare,"11,383,630",$114B (Large),0.3,NYS
+OWL,Blue Owl Capital Inc,Finance,"11,422,650",$25B (Mid),1.11,NYS
+B,Barrick Mining Corp,Gold/Precious Metals/Materials,"11,532,030",$81B (Large),0.4,NYS
+LRCX,Lam Research Corp,Technology,"11,533,010",$274B (Large),1.8,NASDAQ
+KMI,Kinder Morgan Inc,Energy/Utilities,"11,546,130",$60B (Large),0.69,NYS
+RCAT,Red Cat Holdings Inc,Govt/Defense/Space,"11,583,700",$1B (Micro),1.35,NASDAQ
+ACI,Albertsons Companies Inc,Food/Beverages/Shopping,"11,608,530",$9B (Mid),0.47,NYS
+MRK,Merck & Co Inc,Healthcare,"11,639,990",$274B (Large),0.29,NYS
+BABA,Alibaba Group Holding Ltd,Technology,"11,643,870",$360B (Large),0.38,NYS
+OXY,Occidental Petroleum Corp,Energy/Utilities,"11,686,450",$42B (Large),0.41,NYS
+IRWD,Ironwood Pharmaceuticals Inc,Healthcare,"11,808,530",$660M (Micro),0.18,NASDAQ
+QS,Quantumscape Corp,Auto/Travel/Shipping,"11,936,590",$6B (Small),2.53,NASDAQ
+ABTC,American Bitcoin Corp,Finance,"12,055,650",$2B (Micro),3.79,NASDAQ
+UUUU,Energy Fuels Inc,Energy/Utilities,"12,072,170",$4B (Small),1.46,NYS
+CVX,Chevron Corp,Energy/Utilities,"12,093,870",$326B (Large),0.69,NYS
+ALIT,Alight Inc,Technology,"12,244,090",$885M (Micro),1.09,NYS
+CSX,CSX Corp,Auto/Travel/Shipping,"12,279,930",$66B (Large),1.29,NASDAQ
+LUNR,Intuitive Machines Inc,Govt/Defense/Space,"12,565,850",$3B (Small),1.38,NASDAQ
+NCLH,Norwegian Cruise Line Holdings Ltd,Auto/Travel/Shipping,"12,579,070",$11B (Mid),2.07,NYS
+CWAN,Clearwater Analytics Holdings Inc,Technology,"12,598,040",$7B (Small),0.66,NYS
+KEY,KeyCorp,Finance,"12,758,730",$23B (Mid),1.09,NYS
+FOLD,Amicus Therapeutics Inc,Healthcare,"12,904,310",$4B (Small),0.38,NASDAQ
+CVE,Cenovus Energy Inc,Energy/Utilities,"12,978,850",$31B (Mid),0.48,NYS
+UAMY,United States Antimony Corp,Gold/Precious Metals/Materials,"13,085,470",$1B (Micro),0.12,NYS
+CLF,Cleveland-Cliffs Inc,Manufacturing/Construction,"13,331,680",$7B (Small),1.93,NYS
+MRVL,Marvell Technology Inc,Technology,"13,354,740",$71B (Large),1.96,NASDAQ
+PYPL,PayPal Holdings Inc,Finance,"13,388,390",$54B (Large),1.44,NASDAQ
+EOSE,Eos Energy Enterprises Inc,Energy/Utilities,"13,707,120",$5B (Small),2.15,NASDAQ
+CMG,Chipotle Mexican Grill Inc,Food/Beverages/Shopping,"13,727,730",$53B (Large),0.99,NYS
+OPAD,Offerpad Solutions Inc,Real Estate,"13,796,640",$81M (Micro),2.41,NYS
+OKLO,Oklo Inc,Govt/Defense/Space,"13,796,920",$16B (Mid),0.8,NYS
+HIMS,Hims & Hers Health Inc,Healthcare,"13,901,410",$7B (Small),2.43,NYS
+KHC,Kraft Heinz Co,Food/Beverages/Shopping,"13,921,650",$28B (Mid),0.06,NASDAQ
+RIOT,Riot Platforms Inc,Finance,"13,958,930",$6B (Small),3.73,NASDAQ
+NGD,New Gold Inc,Gold/Precious Metals/Materials,"14,188,640",$8B (Mid),0.6,NYS
+CAN,Canaan Inc,Technology,"14,465,770",$536M (Micro),2.86,NASDAQ
+ET,Energy Transfer LP,Energy/Utilities,"14,519,060",$58B (Large),0.67,NYS
+KO,Coca-Cola Co,Food/Beverages/Shopping,"14,559,380",$303B (Large),0.36,NYS
+HAL,Halliburton Co,Energy/Utilities,"14,561,880",$27B (Mid),0.78,NYS
+ITUB,Itau Unibanco Holding SA,Finance,"14,864,040",$41B (Mid),0.61,NYS
+PBR,Petroleo Brasileiro SA Petrobras,Energy/Utilities,"15,070,080",$44B (Large),0.53,NYS
+AMCR,Amcor PLC,Gold/Precious Metals/Materials,"15,463,230",$20B (Mid),0.67,NYS
+PCG,PG&E Corp,Energy/Utilities,"15,665,420",$35B (Mid),0.36,NYS
+CCL,Carnival Corp,Auto/Travel/Shipping,"15,702,250",$37B (Mid),2.49,NYS
+HPQ,HP Inc,Technology,"15,706,080",$20B (Mid),1.22,NYS
+UBER,Uber Technologies Inc,Technology,"15,805,810",$178B (Large),1.21,NYS
+JBLU,JetBlue Airways Corp,Auto/Travel/Shipping,"15,811,610",$2B (Micro),1.79,NASDAQ
+EXK,Endeavour Silver Corp,Gold/Precious Metals/Materials,"15,824,890",$3B (Small),1.24,NYS
+QUBT,Quantum Computing Inc,Technology,"15,855,150",$3B (Small),3.44,NASDAQ
+IONQ,IONQ Inc,Technology,"16,090,100",$18B (Mid),2.63,NYS
+ORCL,Oracle Corp,Technology,"16,099,200",$570B (Large),1.64,NYS
+CSCO,Cisco Systems Inc,Technology,"16,136,210",$292B (Large),0.86,NASDAQ
+UWMC,UWM Holdings Corp,Finance,"16,209,770",$9B (Mid),1.9,NYS
+CPNG,Coupang Inc,Consumer Products,"16,581,420",$42B (Large),1.2,NYS
+WMT,Walmart Inc,Food/Beverages/Shopping,"16,845,350",$913B (Large),0.66,NASDAQ
+UAA,Under Armour Inc,Sports/Fitness,"16,859,300",$1B (Micro),1.84,NYS
+XOM,Exxon Mobil Corp,Energy/Utilities,"16,889,830",$526B (Large),0.38,NYS
+TE,T1 Energy Inc,Energy/Utilities,"16,949,490",$2B (Micro),1.6,NYS
+HPE,Hewlett Packard Enterprise Co,Technology,"17,092,530",$30B (Mid),1.34,NYS
+DBRG,DigitalBridge Group Inc,Real Estate,"17,126,930",$3B (Small),1.71,NYS
+CRML,Critical Metals Corp,Gold/Precious Metals/Materials,"17,990,890",$2B (Micro),1.46,NASDAQ
+SLB,Slb NV,Energy/Utilities,"18,112,090",$68B (Large),0.74,NYS
+ASTS,AST SpaceMobile Inc,Communication Services,"18,316,850",$35B (Mid),2.7,NASDAQ
+FCX,Freeport-McMoRan Inc,Gold/Precious Metals/Materials,"18,511,910",$81B (Large),1.47,NYS
+MSFT,Microsoft Corp,Technology,"18,535,900",$4T (Large),1.08,NASDAQ
+HBAN,Huntington Bancshares Inc,Finance,"18,962,320",$29B (Mid),0.98,NASDAQ
+HOOD,Robinhood Markets Inc,Finance,"19,029,760",$104B (Large),2.44,NASDAQ
+WULF,Terawulf Inc,Finance,"19,172,420",$5B (Small),3.71,NASDAQ
+NVO,Novo Nordisk A/S,Healthcare,"19,207,140",$198B (Large),0.67,NYS
+AUR,Aurora Innovation Inc,Technology,"19,312,780",$9B (Mid),2.49,NASDAQ
+RXRX,Recursion Pharmaceuticals Inc,Healthcare,"19,646,560",$2B (Small),0.96,NASDAQ
+SLS,Sellas Life Sciences Group Inc,Healthcare,"19,686,370",$493M (Micro),2.27,NASDAQ
+CDE,Coeur Mining Inc,Gold/Precious Metals/Materials,"19,906,740",$13B (Mid),1.22,NYS
+RDW,Redwire Corp,Govt/Defense/Space,"19,944,010",$2B (Micro),2.47,NYS
+AGNC,AGNC Investment Corp,Finance,"20,015,550",$12B (Mid),1.36,NASDAQ
+OPTT,Ocean Power Technologies Inc,Energy/Utilities,"20,034,210",$94M (Micro),2.54,NYS
+MSTR,Strategy Inc,Finance,"20,223,120",$45B (Large),3.55,NASDAQ
+KOS,Kosmos Energy Ltd,Energy/Utilities,"20,379,930",$446M (Micro),0.89,NYS
+CIFR,Cipher Mining Inc,Finance,"20,565,600",$7B (Small),2.96,NASDAQ
+HL,Hecla Mining Co,Gold/Precious Metals/Materials,"20,944,280",$15B (Mid),1.26,NYS
+CLSK,CleanSpark Inc,Finance,"21,213,450",$3B (Small),3.48,NASDAQ
+NKE,Nike Inc,Sports/Fitness,"21,339,910",$98B (Large),1.28,NYS
+AVGO,Broadcom Inc,Technology,"21,974,180",$2T (Large),1.22,NASDAQ
+OTLK,Outlook Therapeutics Inc,Healthcare,"22,918,850",$38M (Micro),0.09,NASDAQ
+BBD,Banco Bradesco SA,Finance,"23,532,580",$18B (Mid),0.5,NYS
+WBD,Warner Bros Discovery Inc,Entertainment,"23,560,690",$72B (Large),1.65,NASDAQ
+JOBY,Joby Aviation Inc,Auto/Travel/Shipping,"24,365,090",$14B (Mid),2.58,NYS
+SMCI,Super Micro Computer Inc,Technology,"25,023,190",$18B (Mid),1.52,NASDAQ
+GOOGL,Alphabet Inc,Technology,"25,091,120",$2T (Large),1.1,NASDAQ
+ABEV,Ambev SA,Food/Beverages/Shopping,"25,236,650",$40B (Mid),0.68,NYS
+VZ,Verizon Communications Inc,Communication Services,"25,551,080",$171B (Large),0.32,NYS
+SOUN,SoundHound AI Inc,Technology,"25,585,570",$5B (Small),2.88,NASDAQ
+NOK,Nokia Oyj,Technology,"25,716,270",$35B (Mid),0.81,NYS
+NVTS,Navitas Semiconductor Corp,Technology,"25,899,030",$2B (Small),3.17,NASDAQ
+AMD,Advanced Micro Devices Inc,Technology,"25,997,890",$331B (Large),1.93,NASDAQ
+CMCSA,Comcast Corp,Entertainment,"27,258,800",$103B (Large),0.8,NASDAQ
+BAC,Bank of America Corp,Finance,"27,481,030",$408B (Large),1.29,NYS
+RKLB,Rocket Lab Corp,Govt/Defense/Space,"28,014,190",$45B (Large),2.17,NASDAQ
+COMP,Compass Inc,Real Estate,"28,023,500",$7B (Small),2.55,NYS
+RIG,Transocean Ltd,Energy/Utilities,"28,812,840",$5B (Small),1.46,NYS
+IREN,IREN Ltd,Finance,"29,696,130",$13B (Mid),4.27,NASDAQ
+PATH,UiPath Inc,Technology,"29,829,480",$9B (Mid),1.08,NYS
+RKT,Rocket Companies Inc,Finance,"30,897,300",$66B (Large),2.32,NYS
+MU,Micron Technology Inc,Technology,"31,116,320",$388B (Large),1.52,NASDAQ
+RGTI,Rigetti Computing Inc,Technology,"31,654,100",$8B (Mid),1.71,NASDAQ
+VALE,Vale SA,Gold/Precious Metals/Materials,"31,836,960",$60B (Large),0.57,NYS
+RIVN,Rivian Automotive Inc,Auto/Travel/Shipping,"32,116,840",$24B (Mid),1.77,NASDAQ
+MARA,MARA Holdings Inc,Finance,"33,221,650",$4B (Small),5.58,NASDAQ
+AMC,AMC Entertainment Holdings Inc,Entertainment,"33,240,780",$841M (Micro),1.81,NYS
+NU,Nu Holdings Ltd,Finance,"33,252,170",$85B (Large),1.08,NYS
+BTBT,Bit Digital Inc,Finance,"33,407,550",$709M (Micro),3.95,NASDAQ
+SMR,Nuscale Power Corp,Energy/Utilities,"34,861,340",$6B (Small),2.17,NYS
+NFLX,Netflix Inc,Entertainment,"34,932,290",$409B (Large),1.71,NASDAQ
+T,AT&T Inc,Communication Services,"34,957,360",$170B (Large),0.37,NYS
+AMZN,Amazon.com Inc,Technology,"35,334,740",$3T (Large),1.38,NASDAQ
+PLTR,Palantir Technologies Inc,Technology,"35,983,830",$423B (Large),1.64,NASDAQ
+AAPL,Apple Inc,Technology,"36,923,370",$4T (Large),1.09,NASDAQ
+SNAP,Snap Inc,Entertainment,"37,207,560",$14B (Mid),0.83,NYS
+ACHR,Archer Aviation Inc,Auto/Travel/Shipping,"37,462,170",$6B (Small),3.12,NYS
+PFE,Pfizer Inc,Healthcare,"38,105,460",$145B (Large),0.43,NYS
+QBTS,D-Wave Quantum Inc,Technology,"39,038,680",$10B (Mid),1.55,NYS
+BMNR,Bitmine Immersion Technologies Inc,Technology,"39,773,880",$13B (Mid),1.35,NYS
+EVTV,Envirotech Vehicles Inc,Auto/Travel/Shipping,"40,901,540",$2M (Micro),0.69,NASDAQ
+APLD,Applied Digital Corp,Finance,"40,966,140",$11B (Mid),7.29,NASDAQ
+DNN,Denison Mines Corp,Energy/Utilities,"41,478,150",$3B (Small),1.26,NYS
+GRAB,Grab Holdings Ltd,Technology,"41,931,190",$20B (Mid),0.92,NASDAQ
+SOFI,SoFi Technologies Inc,Finance,"50,013,750",$35B (Mid),2.14,NASDAQ
+AAL,American Airlines Group Inc,Auto/Travel/Shipping,"52,015,760",$11B (Mid),1.26,NASDAQ
+F,Ford Motor Co,Food/Beverages/Shopping,"55,053,360",$57B (Large),1.67,NYS
+NIO,NIO Inc,Auto/Travel/Shipping,"56,337,390",$11B (Mid),1.09,NYS
+BBAI,BigBear.ai Holdings Inc,Technology,"58,337,880",$3B (Small),3.22,NYS
+MREO,Mereo BioPharma Group PLC,Healthcare,"59,369,050",$79M (Micro),0.32,NASDAQ
+BYND,Beyond Meat Inc,Food/Beverages/Shopping,"63,459,570",$442M (Micro),2.67,NASDAQ
+TSLA,Tesla Inc,Auto/Travel/Shipping,"66,013,150",$1T (Large),1.86,NASDAQ
+OPEN,Opendoor Technologies Inc,Real Estate,"68,546,050",$7B (Small),3.7,NASDAQ
+INTC,Intel Corp,Technology,"87,972,030",$217B (Large),1.39,NASDAQ
+PLUG,Plug Power Inc,Energy/Utilities,"90,293,860",$3B (Small),1.88,NASDAQ
+ONDS,Ondas Holdings Inc,Technology,"98,521,620",$5B (Small),2.47,NASDAQ
+NVDA,NVIDIA Corp,Technology,"144,349,470",$4T (Large),2.31,NASDAQ
