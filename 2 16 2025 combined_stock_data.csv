@@ -1,0 +1,2267 @@
+Symbol,Description,Price,Market Capitalization,Optionable Stocks,Average Volume (10 Day),Beta
+A,Agilent Technologies Inc,$125.81,$36B (Mid),Yes,"2,071,010",1.31
+AAON,Aaon Inc,$101.04,$8B (Mid),Yes,"1,020,380",1.08
+AAPL,Apple Inc,$255.78,$4T (Large),Yes,"60,058,410",1.11
+ABBV,AbbVie Inc,$231.50,$409B (Large),Yes,"8,360,160",0.33
+ABG,Asbury Automotive Group Inc,$229.44,$4B (Small),Yes,"302,410",0.8
+ABNB,Airbnb Inc,$121.35,$74B (Large),Yes,"6,229,230",1.15
+ABT,Abbott Laboratories,$112.68,$196B (Large),Yes,"11,350,840",0.74
+ACN,Accenture PLC,$224.23,$138B (Large),Yes,"6,520,010",1.26
+ADBE,Adobe Inc,$263.97,$108B (Large),Yes,"6,927,960",1.53
+ADI,Analog Devices Inc,$337.10,$165B (Large),Yes,"4,594,570",1.01
+ADP,Automatic Data Processing Inc,$212.11,$85B (Large),Yes,"4,075,370",0.88
+ADSK,Autodesk Inc,$231.22,$49B (Large),Yes,"2,808,310",1.46
+ADUS,Addus Homecare Corp,$113.80,$2B (Micro),Yes,"255,720",0.89
+AEE,Ameren Corp,$110.97,$31B (Mid),Yes,"2,338,220",0.57
+AEIS,Advanced Energy Industries Inc,$314.27,$12B (Mid),Yes,"842,540",1.35
+AEM,Agnico Eagle Mines Ltd,$216.59,$109B (Large),Yes,"2,989,810",0.63
+AEP,American Electric Power Company Inc,$129.94,$70B (Large),Yes,"3,916,060",0.6
+AER,AerCap Holdings NV,$150.43,$25B (Mid),Yes,"1,647,940",1.01
+AFG,American Financial Group Inc,$128.95,$11B (Mid),Yes,"731,650",0.7
+AFL,Aflac Inc,$114.91,$60B (Large),Yes,"2,644,580",0.65
+AGCO,AGCO Corp,$140.49,$10B (Mid),Yes,"1,118,290",1.11
+AGX,Argan Inc,$409.95,$6B (Small),Yes,"501,860",0.58
+AIR,AAR Corp,$112.98,$4B (Small),Yes,"445,200",1.2
+AIT,Applied Industrial Technologies Inc,$279.84,$10B (Mid),Yes,"451,960",0.81
+AIZ,Assurant Inc,$217.48,$11B (Mid),Yes,"594,670",0.59
+AJG,Arthur J. Gallagher & Co.,$208.45,$54B (Large),Yes,"3,449,750",0.7
+AKAM,Akamai Technologies Inc,$111.76,$16B (Mid),Yes,"4,310,680",0.69
+ALB,Albemarle Corp,$166.35,$20B (Mid),Yes,"3,027,950",1.45
+ALGN,Align Technology Inc,$186.77,$13B (Mid),Yes,"1,841,110",1.79
+ALGT,Allegiant Travel Co,$111.30,$2B (Micro),Yes,"789,770",1.51
+ALL,Allstate Corp,$207.51,$54B (Large),Yes,"2,022,770",0.23
+ALLE,Allegion PLC,$179.50,$15B (Mid),Yes,"851,030",1.01
+ALNY,Alnylam Pharmaceuticals Inc,$314.40,$42B (Large),Yes,"1,915,540",0.37
+ALSN,Allison Transmission Holdings Inc,$117.79,$10B (Mid),Yes,"874,460",0.96
+ALV,Autoliv Inc,$124.98,$9B (Mid),Yes,"757,220",1.32
+AMAT,Applied Materials Inc,$354.91,$282B (Large),Yes,"9,656,090",1.65
+AMD,Advanced Micro Devices Inc,$207.32,$338B (Large),Yes,"46,910,650",1.97
+AME,AMETEK Inc,$229.76,$53B (Large),Yes,"1,700,460",1.03
+AMG,Affiliated Managers Group Inc,$329.79,$9B (Mid),Yes,"517,960",1.16
+AMGN,Amgen Inc,$369.19,$199B (Large),Yes,"3,367,250",0.45
+AMP,Ameriprise Financial Inc,$473.67,$43B (Large),Yes,"933,190",1.27
+AMR,Alpha Metallurgical Resources Inc,$185.52,$2B (Small),Yes,"269,930",0.78
+AMT,American Tower Corp,$192.10,$90B (Large),Yes,"3,407,520",0.92
+AMZN,Amazon.com Inc,$198.79,$2T (Large),Yes,"79,959,330",1.42
+AN,AutoNation Inc,$201.76,$7B (Small),Yes,"707,130",0.88
+ANET,Arista Networks Inc,$141.59,$178B (Large),Yes,"10,588,960",1.45
+AON,Aon PLC,$321.70,$69B (Large),Yes,"2,251,930",0.83
+APD,Air Products and Chemicals Inc,$279.74,$62B (Large),Yes,"1,432,980",0.88
+APH,Amphenol Corp,$146.72,$180B (Large),Yes,"12,234,900",1.21
+APO,Apollo Global Management Inc,$125.07,$73B (Large),Yes,"5,814,110",1.58
+APP,Applovin Corp,$390.55,$132B (Large),Yes,"9,879,970",2.53
+APPF,Appfolio Inc,$178.41,$6B (Small),Yes,"533,910",0.75
+ARCB,ArcBest Corp,$104.40,$2B (Small),Yes,"475,200",1.46
+ARES,Ares Management Corp,$133.88,$44B (Large),Yes,"5,534,230",1.54
+ARGX,argenx SE,$821.96,$50B (Large),Yes,"378,590",0.37
+ARW,Arrow Electronics Inc,$156.19,$8B (Mid),Yes,"975,550",1.0
+ASML,ASML Holding NV,"$1,406.61",$545B (Large),Yes,"1,644,480",1.89
+ASND,Ascendis Pharma A/S,$216.32,$13B (Mid),Yes,"856,800",0.44
+ATI,ATI Inc,$143.93,$20B (Mid),Yes,"2,758,720",0.97
+ATO,Atmos Energy Corp,$179.25,$30B (Mid),Yes,"1,533,230",0.74
+ATR,Aptargroup Inc,$142.58,$9B (Mid),Yes,"822,150",0.45
+AU,Anglogold Ashanti PLC,$109.82,$55B (Large),Yes,"2,695,760",0.59
+AVAV,AeroVironment Inc,$243.87,$12B (Mid),Yes,"1,317,830",1.27
+AVB,AvalonBay Communities Inc,$176.19,$25B (Mid),Yes,"1,381,710",0.75
+AVGO,Broadcom Inc,$325.17,$2T (Large),Yes,"28,034,530",1.23
+AVY,Avery Dennison Corp,$195.80,$15B (Mid),Yes,"867,260",0.97
+AWI,Armstrong World Industries Inc,$200.28,$9B (Mid),Yes,"375,470",1.3
+AWK,American Water Works Co Inc,$133.50,$26B (Mid),Yes,"2,169,150",0.77
+AXON,Axon Enterprise Inc,$429.67,$34B (Mid),Yes,"1,435,170",1.51
+AXP,American Express Co,$337.50,$232B (Large),Yes,"3,319,720",1.14
+AXS,AXIS Capital Holdings Ltd,$101.85,$8B (Mid),Yes,"675,550",0.62
+AXSM,Axsome Therapeutics Inc,$181.21,$9B (Mid),Yes,"541,440",0.41
+AYI,Acuity Inc,$305.50,$9B (Mid),Yes,"377,160",1.5
+BA,Boeing Co,$242.96,$191B (Large),Yes,"6,439,120",1.13
+BABA,Alibaba Group Holding Ltd,$155.73,$372B (Large),Yes,"10,488,920",0.41
+BCO,Brinks Co,$130.69,$5B (Small),Yes,"259,440",1.06
+BDC,Belden Inc,$149.62,$6B (Small),Yes,"427,980",1.15
+BDX,Becton Dickinson and Co,$175.89,$50B (Large),Yes,"3,879,380",0.24
+BE,Bloom Energy Corp,$139.74,$39B (Mid),Yes,"13,182,390",3.14
+BG,Bunge Global SA,$122.53,$24B (Mid),Yes,"1,850,660",0.73
+BIDU,Baidu Inc,$137.01,$47B (Large),Yes,"2,690,770",0.31
+BIIB,Biogen Inc,$196.52,$29B (Mid),Yes,"1,884,650",0.14
+BIO,Bio Rad Laboratories Inc,$256.56,$6B (Small),Yes,"333,130",1.2
+BJ,BJ's Wholesale Club Holdings Inc,$102.78,$13B (Mid),Yes,"1,981,990",0.34
+BK,Bank of New York Mellon Corp,$117.74,$81B (Large),Yes,"4,265,180",1.1
+BKNG,Booking Holdings Inc,"$4,140.60",$133B (Large),Yes,"560,860",1.22
+BLD,TopBuild Corp,$550.90,$15B (Mid),Yes,"323,790",1.68
+BLDR,Builders FirstSource Inc,$114.73,$13B (Mid),Yes,"2,711,180",1.54
+BLK,BlackRock Inc,"$1,071.51",$166B (Large),Yes,"892,250",1.49
+BMI,Badger Meter Inc,$154.88,$5B (Small),Yes,"527,760",0.86
+BMO,Bank of Montreal,$141.02,$100B (Large),Yes,"831,090",0.93
+BNTX,Biontech SE,$105.87,$27B (Mid),Yes,"738,400",1.51
+BOKF,BOK Financial Corp,$134.22,$8B (Mid),Yes,"387,950",0.86
+BOOT,Boot Barn Holdings Inc,$187.99,$6B (Small),Yes,"781,880",1.66
+BPOP,Popular Inc,$142.63,$9B (Mid),Yes,"631,240",0.61
+BR,Broadridge Financial Solutions Inc,$173.70,$20B (Mid),Yes,"2,141,600",1.0
+BURL,Burlington Stores Inc,$302.37,$19B (Mid),Yes,"834,450",1.73
+BWXT,BWX Technologies Inc,$200.40,$18B (Mid),Yes,"977,580",0.83
+BX,Blackstone Inc,$129.86,$155B (Large),Yes,"8,953,200",1.78
+C,Citigroup Inc,$110.86,$198B (Large),Yes,"14,826,600",1.15
+CACC,Credit Acceptance Corp,$483.98,$5B (Small),Yes,"271,320",1.28
+CACI,CACI International Inc,$573.30,$13B (Mid),Yes,"302,900",0.62
+CAH,Cardinal Health Inc,$220.79,$52B (Large),Yes,"2,033,750",0.66
+CAMT,Camtek Ltd,$162.00,$7B (Small),Yes,"478,040",1.55
+CAR,Avis Budget Group Inc,$118.35,$4B (Small),Yes,"568,300",2.29
+CASY,Caseys General Stores Inc,$665.86,$25B (Mid),Yes,"378,780",0.65
+CAT,Caterpillar Inc,$774.20,$362B (Large),Yes,"3,983,180",1.51
+CB,Chubb Ltd,$324.95,$127B (Large),Yes,"2,024,860",0.48
+CBOE,Cboe Global Markets Inc,$275.11,$29B (Mid),Yes,"1,058,610",0.34
+CBRE,CBRE Group Inc,$142.31,$42B (Large),Yes,"3,724,720",1.35
+CCK,Crown Holdings Inc,$110.79,$13B (Mid),Yes,"1,577,400",0.7
+CDNS,Cadence Design Systems Inc,$299.46,$82B (Large),Yes,"3,458,120",1.0
+CDW,CDW Corp,$126.86,$17B (Mid),Yes,"2,276,830",1.04
+CEG,Constellation Energy Corp,$288.43,$90B (Large),Yes,"4,810,050",1.13
+CELC,Celcuity Inc,$104.51,$5B (Small),Yes,"747,630",0.41
+CFR,Cullen/Frost Bankers Inc,$144.48,$9B (Mid),Yes,"496,160",0.61
+CHD,Church & Dwight Co Inc,$101.45,$24B (Mid),Yes,"2,429,650",0.45
+CHH,Choice Hotels International Inc,$110.04,$5B (Small),Yes,"681,790",0.75
+CHKP,Check Point Software Technologies Ltd,$171.48,$18B (Mid),Yes,"1,704,650",0.61
+CHRD,Chord Energy Corp,$102.02,$6B (Small),Yes,"670,840",0.83
+CHRW,CH Robinson Worldwide Inc,$176.01,$21B (Mid),Yes,"4,156,240",0.92
+CHTR,Charter Communications Inc,$239.09,$30B (Mid),Yes,"2,524,560",1.0
+CI,Cigna Group,$291.44,$77B (Large),Yes,"2,266,380",0.27
+CIEN,Ciena Corp,$303.92,$43B (Large),Yes,"6,414,910",1.1
+CINF,Cincinnati Financial Corp,$162.77,$25B (Mid),Yes,"786,960",0.64
+CLH,Clean Harbors Inc,$273.82,$15B (Mid),Yes,"482,220",0.94
+CLS,Celestica Inc,$280.66,$32B (Mid),Yes,"3,421,610",1.88
+CLX,Clorox Co,$125.94,$15B (Mid),Yes,"2,550,470",0.58
+CME,CME Group Inc,$303.07,$109B (Large),Yes,"2,642,740",0.27
+CMI,Cummins Inc,$601.01,$83B (Large),Yes,"1,442,490",1.11
+CNI,Canadian National Railway Co,$107.60,$66B (Large),Yes,"2,172,490",0.91
+COF,Capital One Financial Corp,$207.37,$130B (Large),Yes,"5,076,020",1.13
+COHR,Coherent Corp,$217.23,$41B (Mid),Yes,"7,482,000",1.86
+COIN,Coinbase Global Inc,$164.32,$43B (Large),Yes,"17,668,690",3.72
+COKE,Coca-Cola Consolidated Inc,$161.91,$11B (Mid),Yes,"431,990",0.64
+COP,ConocoPhillips,$111.43,$137B (Large),Yes,"8,435,680",0.28
+COR,Cencora Inc,$360.83,$70B (Large),Yes,"1,670,480",0.69
+COST,Costco Wholesale Corp,"$1,018.48",$452B (Large),Yes,"2,443,540",1.0
+CPA,Copa Holdings SA,$145.87,$6B (Small),Yes,"419,140",0.86
+CPAY,Corpay Inc,$337.12,$24B (Mid),Yes,"999,110",0.79
+CPT,Camden Property Trust,$108.53,$11B (Mid),Yes,"1,579,830",0.83
+CRDO,Credo Technology Group Holding Ltd,$121.44,$22B (Mid),Yes,"9,153,810",2.66
+CRH,CRH PLC,$125.97,$84B (Large),Yes,"4,422,060",1.17
+CRL,Charles River Laboratories International Inc,$161.35,$8B (Mid),Yes,"1,226,110",1.66
+CRM,Salesforce Inc,$189.72,$178B (Large),Yes,"16,029,110",1.29
+CRS,Carpenter Technology Corp,$379.80,$19B (Mid),Yes,"1,000,730",1.23
+CRUS,Cirrus Logic Inc,$144.63,$7B (Small),Yes,"1,009,940",1.11
+CRWD,CrowdStrike Holdings Inc,$429.64,$108B (Large),Yes,"3,709,520",1.04
+CSL,Carlisle Companies Inc,$409.04,$17B (Mid),Yes,"738,970",0.89
+CTAS,Cintas Corp,$193.44,$77B (Large),Yes,"2,193,280",0.95
+CVCO,Cavco Industries Inc,$590.38,$5B (Small),Yes,"262,440",1.26
+CVNA,Carvana Co,$342.87,$75B (Large),Yes,"3,820,240",3.6
+CVX,Chevron Corp,$183.74,$364B (Large),Yes,"11,789,720",0.66
+CW,Curtiss-Wright Corp,$684.22,$25B (Mid),Yes,"306,010",0.92
+CWST,Casella Waste Systems Inc,$103.72,$7B (Small),Yes,"595,320",0.78
+DASH,DoorDash Inc,$160.34,$69B (Large),Yes,"6,205,880",1.84
+DAVE,Dave Inc,$177.28,$2B (Small),Yes,"560,730",3.87
+DCI,Donaldson Company Inc,$109.46,$13B (Mid),Yes,"796,880",0.99
+DDOG,Datadog Inc,$125.20,$44B (Large),Yes,"8,313,210",1.29
+DE,Deere & Co,$602.92,$163B (Large),Yes,"1,859,710",0.97
+DECK,Deckers Outdoor Corp,$115.73,$16B (Mid),Yes,"2,849,510",1.15
+DELL,Dell Technologies Inc,$117.49,$78B (Large),Yes,"8,379,450",1.0
+DG,Dollar General Corp,$153.84,$34B (Mid),Yes,"2,739,540",0.24
+DGX,Quest Diagnostics Inc,$206.87,$23B (Mid),Yes,"1,457,530",0.65
+DHI,D.R. Horton Inc,$167.78,$49B (Large),Yes,"3,414,050",1.42
+DHR,Danaher Corp,$212.58,$150B (Large),Yes,"4,435,840",0.93
+DIS,Walt Disney Co,$105.45,$187B (Large),Yes,"17,351,190",1.42
+DKS,DICK'S Sporting Goods Inc,$201.25,$18B (Mid),Yes,"1,080,710",1.24
+DLR,Digital Realty Trust Inc,$180.97,$62B (Large),Yes,"2,447,980",1.12
+DLTR,Dollar Tree Inc,$126.06,$25B (Mid),Yes,"2,836,630",0.73
+DOV,Dover Corp,$231.63,$32B (Mid),Yes,"1,652,660",1.25
+DPZ,Domino's Pizza Inc,$375.50,$13B (Mid),Yes,"987,760",1.18
+DRI,Darden Restaurants Inc,$211.50,$24B (Mid),Yes,"1,362,520",0.6
+DTE,DTE Energy Co,$144.94,$30B (Mid),Yes,"1,716,520",0.48
+DTM,DT Midstream Inc,$133.21,$14B (Mid),Yes,"689,050",0.78
+DUK,Duke Energy Corp,$128.20,$100B (Large),Yes,"5,230,060",0.5
+DUOL,Duolingo Inc,$112.57,$5B (Small),Yes,"3,218,820",0.89
+DVA,DaVita Inc,$148.95,$10B (Mid),Yes,"2,124,800",0.92
+DY,Dycom Industries Inc,$427.48,$13B (Mid),Yes,"493,790",1.33
+EA,Electronic Arts Inc,$200.62,$50B (Large),Yes,"4,426,530",0.75
+EAT,Brinker International Inc,$161.07,$7B (Small),Yes,"1,299,460",1.33
+ECL,Ecolab Inc,$299.17,$85B (Large),Yes,"1,542,240",0.97
+ED,Consolidated Edison Inc,$113.72,$41B (Mid),Yes,"2,010,880",0.37
+EFX,Equifax Inc,$192.80,$23B (Mid),Yes,"3,119,950",1.56
+EG,Everest Group Ltd,$338.03,$14B (Mid),Yes,"487,120",0.33
+EGP,Eastgroup Properties Inc,$190.92,$10B (Mid),Yes,"485,350",1.11
+EHC,Encompass Health Corp,$110.14,$11B (Mid),Yes,"2,092,890",0.71
+EL,Estee Lauder Companies Inc,$108.24,$39B (Mid),Yes,"6,299,890",1.11
+ELV,Elevance Health Inc,$346.80,$77B (Large),Yes,"1,722,450",0.5
+EME,EMCOR Group Inc,$800.82,$36B (Mid),Yes,"388,900",1.14
+EMR,Emerson Electric Co,$148.13,$83B (Large),Yes,"5,707,240",1.24
+ENS,EnerSys,$179.20,$7B (Small),Yes,"733,220",1.1
+ENSG,Ensign Group Inc,$213.34,$12B (Mid),Yes,"553,450",0.82
+ENTG,Entegris Inc,$131.43,$20B (Mid),Yes,"4,408,020",1.29
+ENVA,Enova International Inc,$149.12,$4B (Small),Yes,"442,600",1.23
+EOG,EOG Resources Inc,$120.73,$66B (Large),Yes,"5,172,160",0.44
+EPAM,Epam Systems Inc,$166.37,$9B (Mid),Yes,"1,304,830",1.75
+EQIX,Equinix Inc,$956.19,$94B (Large),Yes,"818,380",1.03
+ESAB,ESAB Corp,$134.82,$8B (Mid),Yes,"780,250",1.17
+ESE,ESCO Technologies Inc,$268.41,$7B (Small),Yes,"282,520",1.16
+ESS,Essex Property Trust Inc,$251.16,$16B (Mid),Yes,"677,240",0.73
+ETN,Eaton Corporation PLC,$389.25,$154B (Large),Yes,"3,655,040",1.15
+ETR,Entergy Corp,$105.07,$48B (Large),Yes,"3,380,380",0.63
+EVR,Evercore Inc,$322.28,$13B (Mid),Yes,"708,500",1.58
+EWBC,East West Bancorp Inc,$117.83,$16B (Mid),Yes,"924,850",0.88
+EXAS,Exact Sciences Corp,$103.24,$20B (Mid),Yes,"2,337,210",1.41
+EXE,Expand Energy Corp,$104.05,$25B (Mid),Yes,"3,534,450",0.47
+EXP,Eagle Materials Inc,$235.11,$7B (Small),Yes,"573,790",1.33
+EXPD,Expeditors International of Washington Inc,$146.50,$20B (Mid),Yes,"2,188,120",1.14
+EXPE,Expedia Group Inc,$212.67,$26B (Mid),Yes,"4,123,660",1.42
+EXR,Extra Space Storage Inc,$146.36,$31B (Mid),Yes,"1,470,510",1.24
+FANG,Diamondback Energy Inc,$169.14,$48B (Large),Yes,"2,029,330",0.57
+FCFS,Firstcash Holdings Inc,$181.89,$8B (Mid),Yes,"309,050",0.47
+FCN,FTI Consulting Inc,$162.81,$5B (Small),Yes,"345,100",0.09
+FDS,Factset Research Systems Inc,$205.79,$8B (Mid),Yes,"1,594,730",0.77
+FDX,FedEx Corp,$374.72,$88B (Large),Yes,"2,400,880",1.29
+FELE,Franklin Electric Co Inc,$108.94,$5B (Small),Yes,"417,370",1.04
+FERG,Ferguson Enterprises Inc,$261.36,$51B (Large),Yes,"1,543,510",1.13
+FFIV,F5 Inc,$273.93,$15B (Mid),Yes,"695,410",1.01
+FICO,Fair Isaac Corp,"$1,344.74",$32B (Mid),Yes,"386,530",1.29
+FIVE,Five Below Inc,$205.93,$11B (Mid),Yes,"915,590",1.11
+FIX,Comfort Systems USA Inc,"$1,337.95",$47B (Large),Yes,"398,530",1.63
+FLUT,Flutter Entertainment PLC,$125.17,$22B (Mid),Yes,"5,448,340",1.19
+FMX,Fomento Economico Mexicano SAB de CV,$114.39,$23B (Mid),Yes,"468,120",0.41
+FN,Fabrinet,$495.55,$18B (Mid),Yes,"934,390",1.03
+FRT,Federal Realty Investment Trust,$104.80,$9B (Mid),Yes,"926,110",1.0
+FSLR,First Solar Inc,$225.65,$24B (Mid),Yes,"2,367,200",1.62
+FSS,Federal Signal Corp,$120.49,$7B (Small),Yes,"361,910",1.31
+FTAI,FTAI Aviation Ltd,$279.85,$29B (Mid),Yes,"1,387,080",1.51
+FUTU,Futu Holdings Ltd,$146.72,$14B (Mid),Yes,"1,954,920",0.38
+GD,General Dynamics Corp,$347.64,$94B (Large),Yes,"1,448,140",0.4
+GE,GE Aerospace,$315.41,$331B (Large),Yes,"5,328,550",1.39
+GH,Guardant Health Inc,$104.85,$14B (Mid),Yes,"2,234,770",1.66
+GILD,Gilead Sciences Inc,$154.98,$192B (Large),Yes,"8,522,460",0.37
+GKOS,Glaukos Corp,$109.47,$6B (Small),Yes,"664,950",0.72
+GL,Globe Life Inc,$144.25,$11B (Mid),Yes,"556,970",0.46
+GLW,Corning Inc,$133.46,$115B (Large),Yes,"11,974,720",1.06
+GNRC,Generac Holdings Inc,$224.45,$13B (Mid),Yes,"1,705,990",1.73
+GOOGL,Alphabet Inc,$305.72,$2T (Large),Yes,"49,419,500",1.11
+GPC,Genuine Parts Co,$147.16,$20B (Mid),Yes,"1,193,920",0.71
+GPOR,Gulfport Energy Corp,$203.97,$4B (Small),Yes,"273,020",0.61
+GRMN,Garmin Ltd,$214.74,$41B (Large),Yes,"1,026,350",0.98
+GS,Goldman Sachs Group Inc,$905.14,$271B (Large),Yes,"2,748,760",1.32
+GTLS,Chart Industries Inc,$206.77,$9B (Mid),Yes,"1,252,940",1.73
+GVA,Granite Construction Inc,$130.93,$6B (Small),Yes,"725,040",1.31
+GWRE,Guidewire Software Inc,$127.03,$11B (Mid),Yes,"2,040,990",1.08
+GWW,WW Grainger Inc,"$1,131.42",$54B (Large),Yes,"441,600",1.1
+H,Hyatt Hotels Corp,$165.39,$16B (Mid),Yes,"1,154,730",1.21
+HAS,Hasbro Inc,$102.45,$14B (Mid),Yes,"3,051,660",0.51
+HCA,HCA Healthcare Inc,$540.29,$121B (Large),Yes,"1,175,600",1.34
+HD,Home Depot Inc,$391.05,$389B (Large),Yes,"4,106,990",1.08
+HEI,HEICO Corp,$332.52,$18B (Mid),Yes,"426,000",1.0
+HIG,Hartford Insurance Group Inc,$141.25,$39B (Mid),Yes,"1,763,210",0.59
+HII,Huntington Ingalls Industries Inc,$418.78,$16B (Mid),Yes,"712,580",0.33
+HLI,Houlihan Lokey Inc,$165.84,$12B (Mid),Yes,"618,410",0.96
+HLNE,Hamilton Lane Inc,$122.76,$7B (Small),Yes,"620,360",1.32
+HLT,Hilton Worldwide Holdings Inc,$314.62,$72B (Large),Yes,"2,545,650",1.09
+HON,Honeywell International Inc,$241.38,$153B (Large),Yes,"4,693,710",0.92
+HRI,Herc Holdings Inc,$173.12,$6B (Small),Yes,"602,050",1.68
+HSY,Hershey Co,$222.58,$45B (Large),Yes,"2,994,100",0.14
+HUBB,Hubbell Inc,$524.12,$28B (Mid),Yes,"811,250",0.99
+HUBS,HubSpot Inc,$243.85,$13B (Mid),Yes,"3,153,630",1.42
+HUM,Humana Inc,$184.10,$22B (Mid),Yes,"3,093,180",0.45
+HURN,Huron Consulting Group Inc,$125.36,$2B (Small),Yes,"529,420",0.16
+HWM,Howmet Aerospace Inc,$250.21,$100B (Large),Yes,"3,334,310",1.2
+IBM,International Business Machines Corp,$262.38,$245B (Large),Yes,"6,953,430",0.72
+IBP,Installed Building Products Inc,$344.19,$9B (Mid),Yes,"365,540",1.89
+ICE,Intercontinental Exchange Inc,$152.28,$86B (Large),Yes,"6,164,190",1.06
+ICUI,ICU Medical Inc,$144.90,$4B (Small),Yes,"265,810",0.8
+IDA,Idacorp Inc,$144.26,$8B (Mid),Yes,"523,400",0.58
+IDCC,InterDigital Inc,$375.01,$10B (Mid),Yes,"357,630",1.55
+IDXX,IDEXX Laboratories Inc,$629.35,$50B (Large),Yes,"612,060",1.67
+IEX,IDEX Corp,$210.41,$16B (Mid),Yes,"1,396,970",0.96
+ILMN,Illumina Inc,$116.81,$18B (Mid),Yes,"2,712,070",1.49
+IMO,Imperial Oil Ltd,$119.76,$58B (Large),Yes,"712,680",0.65
+INCY,Incyte Corp,$101.10,$20B (Mid),Yes,"2,174,350",0.84
+INGR,Ingredion Inc,$118.31,$7B (Small),Yes,"969,680",0.68
+INSM,Insmed Inc,$148.75,$32B (Mid),Yes,"2,211,010",1.13
+INTU,Intuit Inc,$399.40,$111B (Large),Yes,"5,049,330",1.28
+IPGP,IPG Photonics Corp,$153.91,$6B (Small),Yes,"932,350",0.87
+IQV,IQVIA Holdings Inc,$166.94,$28B (Mid),Yes,"3,857,250",1.42
+IRM,Iron Mountain Inc,$109.83,$32B (Mid),Yes,"2,598,140",1.13
+IRTC,Irhythm Technologies Inc,$144.21,$5B (Small),Yes,"674,830",1.09
+ISRG,Intuitive Surgical Inc,$485.84,$173B (Large),Yes,"2,567,510",1.67
+IT,Gartner Inc,$158.58,$11B (Mid),Yes,"2,952,150",1.09
+ITT,ITT Inc,$203.11,$17B (Mid),Yes,"1,376,810",1.33
+ITW,Illinois Tool Works Inc,$299.60,$87B (Large),Yes,"2,125,560",1.12
+J,Jacobs Solutions Inc,$132.79,$16B (Mid),Yes,"1,391,970",0.79
+JAZZ,Jazz Pharmaceuticals PLC,$166.31,$10B (Mid),Yes,"671,010",0.25
+JBHT,J B Hunt Transport Services Inc,$221.76,$21B (Mid),Yes,"1,488,930",1.24
+JBL,Jabil Inc,$254.58,$27B (Mid),Yes,"1,044,700",1.22
+JBTM,JBT Marel Corp,$163.74,$9B (Mid),Yes,"498,640",0.96
+JCI,Johnson Controls International PLC,$139.24,$85B (Large),Yes,"6,348,190",1.39
+JKHY,Jack Henry & Associates Inc,$156.69,$11B (Mid),Yes,"1,491,410",0.74
+JLL,Jones Lang LaSalle Inc,$289.15,$14B (Mid),Yes,"908,570",1.45
+JNJ,Johnson & Johnson,$243.45,$587B (Large),Yes,"9,114,560",0.33
+JPM,JPMorgan Chase & Co,$302.55,$816B (Large),Yes,"11,220,270",1.05
+JXN,Jackson Financial Inc,$113.80,$8B (Mid),Yes,"582,100",1.47
+KB,KB Financial Group Inc,$113.95,$41B (Mid),Yes,"370,040",1.06
+KEX,Kirby Corp,$124.93,$7B (Small),Yes,"711,430",0.84
+KEYS,Keysight Technologies Inc,$233.51,$40B (Mid),Yes,"1,149,410",1.18
+KKR,KKR & Co Inc,$101.73,$91B (Large),Yes,"10,752,410",1.99
+KLAC,KLA Corp,"$1,464.13",$192B (Large),Yes,"1,375,690",1.45
+KMB,Kimberly-Clark Corp,$109.41,$36B (Mid),Yes,"6,076,210",0.25
+KNSL,Kinsale Capital Group Inc,$371.32,$9B (Mid),Yes,"276,680",1.02
+KRYS,Krystal Biotech Inc,$276.45,$8B (Mid),Yes,"250,270",0.48
+L,Loews Corp,$108.78,$22B (Mid),Yes,"870,940",0.6
+LAD,Lithia Motors Inc,$301.32,$7B (Small),Yes,"387,680",1.19
+LAMR,Lamar Advertising Co,$131.79,$13B (Mid),Yes,"536,460",1.24
+LCII,LCI Industries,$157.13,$4B (Small),Yes,"266,470",1.29
+LDOS,Leidos Holdings Inc,$176.30,$23B (Mid),Yes,"988,520",0.63
+LEA,Lear Corp,$137.87,$7B (Small),Yes,"766,390",1.25
+LECO,Lincoln Electric Holdings Inc,$293.68,$16B (Mid),Yes,"684,460",1.24
+LEN,Lennar Corp,$122.28,$26B (Mid),Yes,"2,857,470",1.43
+LEU,Centrus Energy Corp,$199.19,$4B (Small),Yes,"1,546,870",1.29
+LH,Labcorp Holdings Inc,$282.63,$23B (Mid),Yes,"724,480",1.01
+LHX,L3Harris Technologies Inc,$345.50,$65B (Large),Yes,"1,246,900",0.64
+LII,Lennox International Inc,$566.65,$20B (Mid),Yes,"571,600",1.15
+LIN,Linde PLC,$481.00,$225B (Large),Yes,"3,185,270",0.83
+LITE,Lumentum Holdings Inc,$562.74,$40B (Mid),Yes,"6,574,340",1.43
+LLY,Eli Lilly and Co,"$1,040.00",$981B (Large),Yes,"4,384,380",0.4
+LMT,Lockheed Martin Corp,$652.58,$150B (Large),Yes,"1,676,610",0.23
+LNG,Cheniere Energy Inc,$220.79,$48B (Large),Yes,"1,677,280",0.26
+LOPE,Grand Canyon Education Inc,$161.09,$5B (Small),Yes,"269,580",0.72
+LOW,Lowe's Companies Inc,$287.39,$161B (Large),Yes,"2,802,150",0.96
+LPLA,LPL Financial Holdings Inc,$334.70,$27B (Mid),Yes,"1,509,870",0.58
+LRCX,Lam Research Corp,$235.53,$294B (Large),Yes,"11,919,500",1.77
+LSTR,Landstar System Inc,$142.36,$5B (Small),Yes,"803,550",0.84
+LULU,Lululemon Athletica Inc,$176.42,$21B (Mid),Yes,"2,262,860",1.01
+LYV,Live Nation Entertainment Inc,$158.27,$37B (Mid),Yes,"2,777,220",1.11
+MA,Mastercard Inc,$518.36,$462B (Large),Yes,"4,066,830",0.83
+MAA,Mid-America Apartment Communities Inc,$135.55,$16B (Mid),Yes,"1,255,220",0.78
+MANH,Manhattan Associates Inc,$140.45,$8B (Mid),Yes,"1,327,320",1.04
+MAR,Marriott International Inc,$353.89,$94B (Large),Yes,"1,939,900",1.07
+MASI,Masimo Corp,$130.15,$7B (Small),Yes,"656,100",1.27
+MATX,Matson Inc,$162.18,$5B (Small),Yes,"277,690",1.33
+MCD,McDonald's Corp,$327.58,$233B (Large),Yes,"3,974,580",0.52
+MCK,McKesson Corp,$934.75,$114B (Large),Yes,"1,145,580",0.39
+MCO,Moody's Corp,$426.44,$76B (Large),Yes,"2,282,640",1.47
+MDB,MongoDB Inc,$368.40,$30B (Mid),Yes,"1,771,370",1.38
+MEDP,Medpace Holdings Inc,$428.03,$12B (Mid),Yes,"601,890",1.46
+MELI,MercadoLibre Inc,"$1,988.26",$101B (Large),Yes,"564,180",1.46
+META,Meta Platforms Inc,$639.77,$2T (Large),Yes,"14,721,330",1.31
+MHK,Mohawk Industries Inc,$132.60,$8B (Mid),Yes,"1,050,110",1.17
+MHO,M/I Homes Inc,$149.58,$4B (Small),Yes,"302,280",1.75
+MIDD,Middleby Corp,$163.93,$8B (Mid),Yes,"540,740",1.36
+MIRM,Mirum Pharmaceuticals Inc,$103.10,$5B (Small),Yes,"639,100",0.51
+MKSI,MKS Inc,$260.74,$18B (Mid),Yes,"1,938,000",1.91
+MKTX,Marketaxess Holdings Inc,$179.36,$7B (Small),Yes,"794,340",0.94
+MLI,Mueller Industries Inc,$119.46,$13B (Mid),Yes,"1,334,420",1.05
+MLM,Martin Marietta Materials Inc,$678.86,$41B (Mid),Yes,"595,280",1.13
+MMM,3M Co,$171.82,$90B (Large),Yes,"4,647,140",1.05
+MOD,Modine Manufacturing Co,$216.50,$11B (Mid),Yes,"1,967,840",1.66
+MOG/A,Moog Inc,$324.63,$9B (Mid),Yes,"266,550",0.94
+MOH,Molina Healthcare Inc,$135.35,$7B (Small),Yes,"2,978,130",0.55
+MORN,Morningstar Inc,$160.03,$7B (Small),Yes,"954,800",1.13
+MPC,Marathon Petroleum Corp,$203.26,$60B (Large),Yes,"2,561,530",0.67
+MPWR,Monolithic Power Systems Inc,"$1,171.47",$57B (Large),Yes,"858,070",1.44
+MRK,Merck & Co Inc,$121.41,$301B (Large),Yes,"16,529,130",0.28
+MRSH,Marsh & McLennan Companies Inc,$174.06,$84B (Large),Yes,"3,837,560",0.75
+MS,Morgan Stanley,$171.15,$271B (Large),Yes,"9,172,020",1.19
+MSCI,MSCI Inc,$526.06,$39B (Mid),Yes,"1,066,170",1.31
+MSFT,Microsoft Corp,$401.32,$3T (Large),Yes,"47,618,420",1.1
+MSI,Motorola Solutions Inc,$461.76,$76B (Large),Yes,"1,376,270",0.97
+MSTR,Strategy Inc,$133.88,$42B (Large),Yes,"32,568,290",3.55
+MTB,M&T Bank Corp,$228.71,$35B (Mid),Yes,"1,427,760",0.57
+MTN,Vail Resorts Inc,$134.32,$5B (Small),Yes,"830,330",0.78
+MTSI,MACOM Technology Solutions Holdings Inc,$244.16,$18B (Mid),Yes,"1,769,840",1.4
+MTZ,MasTec Inc,$269.53,$21B (Mid),Yes,"943,320",1.9
+MU,Micron Technology Inc,$411.66,$463B (Large),Yes,"40,907,000",1.51
+MUSA,Murphy USA Inc,$407.45,$8B (Small),Yes,"495,830",0.4
+MZTI,Marzetti Co,$159.74,$4B (Small),Yes,"287,440",0.42
+NBIX,Neurocrine Biosciences Inc,$124.12,$12B (Mid),Yes,"1,525,080",0.33
+NDSN,Nordson Corp,$298.19,$17B (Mid),Yes,"493,510",0.98
+NEM,Newmont Corporation,$125.80,$137B (Large),Yes,"9,929,150",0.41
+NET,Cloudflare Inc,$195.85,$69B (Large),Yes,"7,693,780",1.95
+NICE,Nice Ltd,$103.55,$6B (Small),Yes,"1,176,500",0.97
+NOC,NORTHROP GRUMMAN CORP,$702.57,$100B (Large),Yes,"941,520",0.04
+NOVT,Novanta Inc,$146.39,$5B (Small),Yes,"392,350",1.59
+NOW,ServiceNow Inc,$107.08,$112B (Large),Yes,"28,229,990",0.99
+NPO,Enpro Inc,$272.63,$6B (Small),Yes,"261,500",1.54
+NRG,NRG Energy Inc,$172.35,$33B (Mid),Yes,"2,292,780",1.25
+NSC,Norfolk Southern Corp,$314.94,$71B (Large),Yes,"1,359,600",1.3
+NTAP,NetApp Inc,$102.42,$20B (Mid),Yes,"2,459,760",1.37
+NTES,NetEase Inc,$120.61,$76B (Large),Yes,"1,152,530",0.74
+NTRA,Natera Inc,$206.23,$29B (Mid),Yes,"1,284,560",1.65
+NTRS,Northern Trust Corp,$146.38,$27B (Mid),Yes,"1,254,850",1.28
+NUE,Nucor Corp,$183.23,$42B (Large),Yes,"2,005,090",1.83
+NUVL,Nuvalent Inc,$100.82,$8B (Mid),Yes,"482,350",1.33
+NVDA,NVIDIA Corp,$182.81,$4T (Large),Yes,"184,365,230",2.32
+NVMI,Nova Ltd,$443.76,$13B (Mid),Yes,"487,970",1.82
+NVS,Novartis AG,$163.10,$313B (Large),Yes,"3,031,540",0.48
+NVT,nVent Electric PLC,$113.25,$18B (Mid),Yes,"3,295,270",1.31
+NXPI,NXP Semiconductors NV,$244.43,$62B (Large),Yes,"4,172,730",1.43
+NXST,Nexstar Media Group Inc,$231.18,$7B (Small),Yes,"455,910",0.79
+OC,Owens Corning,$134.19,$11B (Mid),Yes,"1,458,920",1.32
+ODFL,Old Dominion Freight Line Inc,$193.21,$40B (Mid),Yes,"3,617,240",1.24
+OLED,Universal Display Corp,$124.90,$6B (Small),Yes,"994,290",1.62
+OLLI,Ollie's Bargain Outlet Holdings Inc,$113.70,$7B (Small),Yes,"868,660",0.52
+ONTO,Onto Innovation Inc,$217.23,$11B (Mid),Yes,"984,120",1.46
+ORA,Ormat Technologies Inc,$118.19,$7B (Small),Yes,"678,620",0.82
+ORCL,Oracle Corp,$160.14,$460B (Large),Yes,"36,220,580",1.63
+OSIS,OSI Systems Inc,$268.61,$4B (Small),Yes,"260,800",1.32
+OSK,Oshkosh Corp,$171.08,$11B (Mid),Yes,"1,078,900",1.36
+PAG,Penske Automotive Group Inc,$171.35,$11B (Mid),Yes,"344,000",0.88
+PANW,Palo Alto Networks Inc,$166.95,$135B (Large),Yes,"17,502,790",0.76
+PATK,Patrick Industries Inc,$143.10,$5B (Small),Yes,"429,470",1.28
+PAYC,Paycom Software Inc,$125.31,$7B (Small),Yes,"2,345,430",0.81
+PCAR,Paccar Inc,$127.00,$67B (Large),Yes,"3,759,700",1.03
+PCTY,Paylocity Holding Corp,$107.13,$6B (Small),Yes,"1,593,450",0.59
+PEN,Penumbra Inc,$339.30,$13B (Mid),Yes,"973,750",0.82
+PEP,PepsiCo Inc,$165.94,$227B (Large),Yes,"11,528,470",0.4
+PG,Procter & Gamble Co,$160.07,$372B (Large),Yes,"11,775,690",0.37
+PGR,Progressive Corp,$204.53,$120B (Large),Yes,"3,746,720",0.32
+PH,Parker-Hannifin Corp,"$1,001.75",$126B (Large),Yes,"729,190",1.22
+PHM,Pultegroup Inc,$142.56,$27B (Mid),Yes,"2,071,490",1.31
+PI,Impinj Inc,$121.04,$4B (Small),Yes,"1,200,740",1.57
+PJT,PJT Partners Inc,$154.24,$6B (Small),Yes,"485,500",0.86
+PKG,Packaging Corp of America,$246.31,$22B (Mid),Yes,"1,009,830",0.87
+PLD,Prologis Inc,$138.97,$129B (Large),Yes,"3,294,510",1.42
+PLMR,Palomar Holdings Inc,$132.10,$4B (Small),Yes,"394,840",0.44
+PLTR,Palantir Technologies Inc,$131.41,$313B (Large),Yes,"74,596,060",1.71
+PLXS,Plexus Corp,$201.28,$5B (Small),Yes,"419,860",0.8
+PM,Philip Morris International Inc,$187.51,$292B (Large),Yes,"6,421,470",0.4
+PNC,PNC Financial Services Group Inc,$229.32,$89B (Large),Yes,"2,823,410",0.96
+PNR,Pentair PLC,$101.37,$17B (Mid),Yes,"2,787,910",1.23
+PODD,Insulet Corp,$242.74,$17B (Mid),Yes,"1,014,480",1.42
+POOL,Pool Corp,$265.83,$10B (Mid),Yes,"775,460",1.21
+POST,Post Holdings Inc,$111.90,$5B (Small),Yes,"1,299,480",0.43
+POWL,Powell Industries Inc,$585.07,$7B (Small),Yes,"414,700",0.79
+PPG,PPG Industries Inc,$131.34,$29B (Mid),Yes,"2,188,270",1.12
+PRAX,Praxis Precision Medicines Inc,$317.25,$9B (Mid),Yes,"462,850",2.89
+PRI,Primerica Inc,$250.89,$8B (Mid),Yes,"296,390",0.92
+PRIM,Primoris Services Corp,$166.53,$9B (Mid),Yes,"722,090",1.34
+PRU,Prudential Financial Inc,$104.61,$36B (Mid),Yes,"3,229,230",0.96
+PSA,Public Storage,$300.35,$53B (Large),Yes,"1,212,540",1.0
+PSX,Phillips 66,$159.77,$64B (Large),Yes,"2,624,430",0.84
+PTC,PTC Inc,$156.77,$19B (Mid),Yes,"1,724,760",1.03
+PWR,Quanta Services Inc,$524.08,$78B (Large),Yes,"1,191,940",1.11
+QCOM,Qualcomm Inc,$140.70,$150B (Large),Yes,"14,129,710",1.25
+QLYS,Qualys Inc,$104.91,$4B (Small),Yes,"983,350",0.61
+R,Ryder System Inc,$213.77,$8B (Mid),Yes,"526,980",0.92
+RBA,RB Global Inc,$102.00,$19B (Mid),Yes,"1,869,750",0.58
+RBC,RBC Bearings Inc,$552.44,$17B (Mid),Yes,"278,270",1.47
+RCL,Royal Caribbean Cruises Ltd,$319.61,$86B (Large),Yes,"2,094,390",1.87
+REGN,Regeneron Pharmaceuticals Inc,$803.17,$85B (Large),Yes,"835,450",0.39
+RGA,Reinsurance Group of America Inc,$219.74,$14B (Mid),Yes,"598,110",0.49
+RGEN,Repligen Corp,$136.44,$8B (Mid),Yes,"853,350",1.14
+RGLD,Royal Gold Inc,$286.10,$24B (Mid),Yes,"944,710",0.48
+RH,RH,$205.06,$4B (Small),Yes,"820,120",2.1
+RHP,Ryman Hospitality Properties Inc,$100.52,$6B (Small),Yes,"496,630",1.17
+RJF,Raymond James Financial Inc,$158.68,$31B (Mid),Yes,"1,877,080",1.0
+RL,Ralph Lauren Corp,$369.18,$22B (Mid),Yes,"954,290",1.47
+RMBS,Rambus Inc,$101.95,$11B (Mid),Yes,"4,412,290",1.54
+RMD,Resmed Inc,$252.55,$37B (Mid),Yes,"1,462,660",0.88
+RNR,Renaissancere Holdings Ltd,$301.37,$13B (Mid),Yes,"541,570",0.21
+ROAD,Construction Partners Inc,$133.93,$8B (Small),Yes,"826,910",0.82
+ROK,Rockwell Automation Inc,$394.37,$44B (Large),Yes,"1,555,820",1.54
+ROP,Roper Technologies Inc,$321.41,$34B (Mid),Yes,"2,385,670",0.96
+ROST,Ross Stores Inc,$196.54,$64B (Large),Yes,"2,431,980",0.98
+RPM,RPM International Inc,$118.21,$15B (Mid),Yes,"1,178,150",1.07
+RRX,Regal Rexnord Corp,$220.19,$15B (Mid),Yes,"2,009,870",1.04
+RS,Reliance Inc,$343.43,$18B (Mid),Yes,"391,730",0.89
+RSG,Republic Services Inc,$223.17,$69B (Large),Yes,"1,531,240",0.55
+RTX,RTX Corp,$200.06,$269B (Large),Yes,"6,457,680",0.42
+RY,Royal Bank of Canada,$169.47,$237B (Large),Yes,"1,466,320",0.78
+SAIA,Saia Inc,$384.91,$10B (Mid),Yes,"816,030",2.04
+SANM,Sanmina Corp,$145.81,$8B (Mid),Yes,"886,510",1.02
+SAP,SAP SE,$204.53,$239B (Large),Yes,"4,571,520",1.17
+SATS,EchoStar Corp,$113.15,$33B (Mid),Yes,"4,818,600",1.02
+SBAC,SBA Communications Corp,$200.77,$21B (Mid),Yes,"965,290",0.84
+SCCO,Southern Copper Corp,$198.00,$164B (Large),Yes,"2,427,540",1.06
+SE,Sea Ltd,$106.74,$63B (Large),Yes,"7,406,100",1.6
+SF,Stifel Financial Corp,$119.00,$12B (Mid),Yes,"1,344,980",1.12
+SHOP,Shopify Inc,$112.70,$147B (Large),Yes,"24,062,330",2.84
+SHW,Sherwin-Williams Co,$368.89,$91B (Large),Yes,"2,070,480",1.25
+SIMO,Silicon Motion Technology Corp,$136.28,$5B (Small),Yes,"922,170",0.99
+SITE,SiteOne Landscape Supply Inc,$157.04,$7B (Small),Yes,"843,140",1.57
+SITM,SiTime Corp,$420.23,$11B (Mid),Yes,"510,380",2.5
+SJM,J M Smucker Co,$110.53,$12B (Mid),Yes,"1,698,550",0.22
+SKYW,SkyWest Inc,$104.17,$4B (Small),Yes,"257,700",1.58
+SLAB,Silicon Laboratories Inc,$207.27,$7B (Small),Yes,"2,079,500",1.42
+SNA,Snap-On Inc,$384.61,$20B (Mid),Yes,"496,170",0.77
+SNEX,StoneX Group Inc,$127.42,$7B (Small),Yes,"549,780",0.42
+SNOW,Snowflake Inc,$182.29,$62B (Large),Yes,"9,205,430",1.15
+SNPS,Synopsys Inc,$437.09,$84B (Large),Yes,"2,936,170",1.14
+SNX,TD Synnex Corp,$161.54,$13B (Mid),Yes,"753,520",1.36
+SPG,Simon Property Group Inc,$196.83,$68B (Large),Yes,"1,925,800",1.38
+SPGI,S&P Global Inc,$409.54,$122B (Large),Yes,"5,365,670",1.25
+SPHR,Sphere Entertainment Co,$115.70,$4B (Small),Yes,"941,670",1.61
+SPOT,Spotify Technology SA,$458.34,$94B (Large),Yes,"5,726,910",1.68
+SPXC,SPX Technologies Inc,$239.00,$12B (Mid),Yes,"374,180",1.28
+SSB,SouthState Bank Corp,$104.11,$10B (Mid),Yes,"834,910",0.71
+SSD,Simpson Manufacturing Co Inc,$209.01,$9B (Mid),Yes,"327,120",1.32
+STE,STERIS plc,$248.35,$24B (Mid),Yes,"1,237,070",1.05
+STLD,Steel Dynamics Inc,$191.68,$28B (Mid),Yes,"1,580,620",1.43
+STRL,Sterling Infrastructure Inc,$437.77,$13B (Mid),Yes,"536,750",1.46
+STT,State Street Corp,$127.97,$36B (Mid),Yes,"1,996,690",1.44
+STX,Seagate Technology Holdings PLC,$425.99,$93B (Large),Yes,"4,716,000",1.62
+STZ,Constellation Brands Inc,$149.30,$26B (Mid),Yes,"2,651,250",0.45
+SUI,Sun Communities Inc,$130.79,$16B (Mid),Yes,"944,840",0.89
+SYK,Stryker Corp,$366.05,$140B (Large),Yes,"2,401,550",0.87
+TCBI,Texas Capital Bancshares Inc,$103.42,$5B (Small),Yes,"530,710",0.64
+TDG,TransDigm Group Inc,"$1,286.67",$73B (Large),Yes,"553,050",0.94
+TDY,Teledyne Technologies Inc,$660.29,$31B (Mid),Yes,"413,030",1.0
+TEL,TE Connectivity PLC,$236.19,$69B (Large),Yes,"2,741,900",1.22
+TER,Teradyne Inc,$314.66,$49B (Large),Yes,"5,402,750",1.75
+TFX,Teleflex Inc,$103.75,$5B (Small),Yes,"961,360",0.9
+TGT,Target Corp,$115.76,$52B (Large),Yes,"7,089,740",1.11
+THC,Tenet Healthcare Corp,$231.10,$20B (Mid),Yes,"1,566,720",1.39
+THG,Hanover Insurance Group Inc,$171.80,$6B (Small),Yes,"421,550",0.33
+THO,Thor Industries Inc,$114.79,$6B (Small),Yes,"508,070",1.4
+TJX,TJX Companies Inc,$154.46,$172B (Large),Yes,"5,773,600",0.73
+TKO,TKO Group Holdings Inc,$206.75,$40B (Mid),Yes,"778,160",0.68
+TKR,Timken Co,$107.84,$8B (Small),Yes,"1,227,930",1.17
+TM,Toyota Motor Corp,$248.29,$324B (Large),Yes,"335,630",0.61
+TMDX,Transmedics Group Inc,$129.84,$4B (Small),Yes,"590,780",1.99
+TMO,Thermo Fisher Scientific Inc,$504.82,$190B (Large),Yes,"2,838,230",0.97
+TMUS,T-Mobile US Inc,$219.50,$242B (Large),Yes,"8,248,590",0.41
+TOL,Toll Brothers Inc,$166.12,$16B (Mid),Yes,"1,351,520",1.43
+TPB,Turning Point Brands Inc,$131.77,$3B (Small),Yes,"269,350",0.86
+TPL,Texas Pacific Land Corp,$432.31,$30B (Mid),Yes,"500,680",0.86
+TPR,Tapestry Inc,$153.80,$31B (Mid),Yes,"3,351,440",1.56
+TRGP,Targa Resources Corp,$223.89,$48B (Large),Yes,"1,329,880",0.85
+TRV,Travelers Companies Inc,$294.21,$64B (Large),Yes,"1,943,260",0.51
+TSEM,Tower Semiconductor Ltd,$128.74,$14B (Mid),Yes,"3,244,780",0.9
+TSLA,Tesla Inc,$417.44,$2T (Large),Yes,"61,539,380",1.89
+TSM,Taiwan Semiconductor Manufacturing Co Ltd,$366.36,$2T (Large),Yes,"15,018,460",1.29
+TT,Trane Technologies PLC,$465.27,$103B (Large),Yes,"1,546,610",1.18
+TTC,Toro Co,$100.09,$10B (Mid),Yes,"790,820",0.79
+TTWO,Take-Two Interactive Software Inc,$193.67,$36B (Mid),Yes,"4,252,900",0.95
+TW,Tradeweb Markets Inc,$113.41,$24B (Mid),Yes,"2,013,670",0.78
+TWLO,Twilio Inc,$113.00,$17B (Mid),Yes,"3,899,010",1.31
+TXN,Texas Instruments Inc,$226.16,$205B (Large),Yes,"9,835,360",0.98
+TXRH,Texas Roadhouse Inc,$180.90,$12B (Mid),Yes,"870,280",0.87
+TYL,Tyler Technologies Inc,$303.94,$13B (Mid),Yes,"1,304,270",0.93
+UAL,United Airlines Holdings Inc,$109.29,$35B (Mid),Yes,"6,126,120",1.24
+UFPI,UFP Industries Inc,$114.60,$7B (Small),Yes,"374,640",1.45
+UHS,Universal Health Services Inc,$234.81,$15B (Mid),Yes,"720,800",1.23
+ULTA,Ulta Beauty Inc,$683.40,$30B (Mid),Yes,"496,230",0.82
+UMBF,UMB Financial Corp,$128.77,$10B (Mid),Yes,"562,300",0.77
+UNH,UnitedHealth Group Inc,$293.19,$266B (Large),Yes,"10,163,370",0.41
+UNP,Union Pacific Corp,$260.68,$155B (Large),Yes,"4,713,270",0.96
+UPS,United Parcel Service Inc,$119.24,$101B (Large),Yes,"7,395,850",1.05
+URI,United Rentals Inc,$869.57,$55B (Large),Yes,"861,250",1.65
+UTHR,United Therapeutics Corp,$473.66,$20B (Mid),Yes,"305,990",0.85
+V,Visa Inc,$314.08,$599B (Large),Yes,"8,581,980",0.78
+VC,Visteon Corp,$104.94,$3B (Small),Yes,"610,290",1.12
+VEEV,Veeva Systems Inc,$174.11,$29B (Mid),Yes,"2,975,160",1.1
+VICR,Vicor Corp,$155.96,$7B (Small),Yes,"621,970",1.9
+VLO,Valero Energy Corp,$200.17,$61B (Large),Yes,"3,028,090",0.7
+VMC,Vulcan Materials Co,$327.65,$43B (Large),Yes,"1,263,710",1.03
+VRSK,Verisk Analytics Inc,$181.21,$25B (Mid),Yes,"3,363,000",0.84
+VRSN,"VeriSign, Inc",$219.03,$20B (Mid),Yes,"1,156,840",0.77
+VRT,Vertiv Holdings Co,$234.53,$90B (Large),Yes,"8,353,780",2.03
+VRTX,Vertex Pharmaceuticals Inc,$491.47,$125B (Large),Yes,"1,697,400",0.31
+VSEC,VSE Corp,$202.66,$6B (Small),Yes,"1,079,390",1.36
+VST,Vistra Corp,$171.49,$58B (Large),Yes,"6,964,420",1.43
+WAB,Westinghouse Air Brake Technologies Corp,$256.06,$44B (Large),Yes,"1,112,140",0.99
+WAT,Waters Corp,$323.37,$32B (Mid),Yes,"1,997,780",1.2
+WCC,Wesco International Inc,$307.10,$15B (Mid),Yes,"994,150",1.44
+WCN,Waste Connections Inc,$160.26,$41B (Mid),Yes,"1,970,160",0.63
+WDAY,Workday Inc,$144.42,$38B (Mid),Yes,"5,799,790",1.16
+WDC,Western Digital Corp,$281.58,$95B (Large),Yes,"12,029,260",1.75
+WEC,WEC Energy Group Inc,$115.79,$38B (Mid),Yes,"3,025,080",0.57
+WELL,Welltower Inc,$210.72,$147B (Large),Yes,"3,614,750",0.8
+WEX,WEX Inc,$157.67,$5B (Small),Yes,"766,930",0.96
+WFRD,Weatherford International PLC,$101.42,$7B (Small),Yes,"1,308,580",0.75
+WING,Wingstop Inc,$221.65,$6B (Small),Yes,"848,500",1.85
+WLDN,Willdan Group Inc,$117.33,$2B (Micro),Yes,"320,400",1.0
+WLK,Westlake Corp,$100.08,$13B (Mid),Yes,"1,497,400",0.82
+WM,Waste Management Inc,$234.52,$95B (Large),Yes,"2,377,250",0.57
+WMS,Advanced Drainage Systems Inc,$170.98,$13B (Mid),Yes,"982,350",1.26
+WMT,Walmart Inc,$133.89,$1T (Large),Yes,"27,647,700",0.64
+WPM,Wheaton Precious Metals Corp,$145.90,$66B (Large),Yes,"2,664,480",0.52
+WSM,Williams-Sonoma Inc,$214.57,$26B (Mid),Yes,"1,040,730",1.63
+WSO,Watsco Inc,$417.92,$15B (Mid),Yes,"492,840",1.01
+WST,West Pharmaceutical Services Inc,$250.49,$18B (Mid),Yes,"1,350,710",1.16
+WTFC,Wintrust Financial Corp,$153.74,$10B (Mid),Yes,"637,750",0.84
+WTS,Watts Water Technologies Inc,$328.53,$11B (Mid),Yes,"261,560",1.22
+WTW,Willis Towers Watson PLC,$287.74,$27B (Mid),Yes,"1,672,020",0.64
+WWD,Woodward Inc,$379.39,$23B (Mid),Yes,"1,049,040",0.96
+WYNN,Wynn Resorts Ltd,$113.39,$12B (Mid),Yes,"1,970,920",1.0
+XOM,Exxon Mobil Corp,$148.45,$620B (Large),Yes,"24,139,500",0.35
+XPO,XPO Inc,$195.33,$23B (Mid),Yes,"3,673,800",1.98
+XYL,Xylem Inc,$128.09,$31B (Mid),Yes,"2,468,790",1.18
+YUM,Yum! Brands Inc,$160.57,$45B (Large),Yes,"2,377,050",0.65
+ZBRA,Zebra Technologies Corp,$264.62,$13B (Mid),Yes,"1,039,420",1.62
+ZS,Zscaler Inc,$177.72,$28B (Mid),Yes,"2,736,960",1.04
+ZTS,Zoetis Inc,$126.65,$53B (Large),Yes,"5,098,650",0.95
+AA,Alcoa Corp,$59.95,$16B (Mid),Yes,"8,081,550",1.85
+AAMI,Acadian Asset Management Inc,$51.85,$2B (Micro),Yes,"329,140",1.33
+AAOI,Applied Optoelectronics Inc,$44.46,$3B (Small),Yes,"5,181,160",3.34
+AAP,Advance Auto Parts Inc,$58.85,$4B (Small),Yes,"2,493,680",1.1
+AB,AllianceBernstein Holding LP,$40.84,$4B (Small),Yes,"679,810",0.85
+ABCB,Ameris Bancorp,$84.02,$6B (Small),Yes,"561,490",0.96
+ABM,ABM Industries Inc,$44.51,$3B (Small),Yes,"480,550",0.73
+ACGL,Arch Capital Group Ltd,$98.38,$35B (Mid),Yes,"2,141,580",0.4
+ACIW,ACI Worldwide Inc,$39.56,$4B (Small),Yes,"1,013,860",1.07
+ACLS,Axcelis Technologies Inc,$94.55,$3B (Small),Yes,"784,950",1.74
+ACLX,Arcellx Inc,$68.50,$4B (Small),Yes,"705,340",0.36
+ACM,AECOM,$88.31,$11B (Mid),Yes,"2,326,030",1.08
+ACMR,ACM Research Inc,$64.84,$4B (Small),Yes,"1,865,870",1.45
+ACT,Enact Holdings Inc,$43.29,$6B (Small),Yes,"417,420",0.52
+ADC,Agree Realty Corp,$78.08,$9B (Mid),Yes,"1,518,000",0.52
+ADM,Archer-Daniels-Midland Co,$69.51,$33B (Mid),Yes,"4,438,450",0.67
+ADNT,Adient PLC,$27.09,$2B (Micro),Yes,"1,335,850",1.52
+AEHR,Aehr Test Systems,$28.84,$883M (Micro),Yes,"1,571,950",2.28
+AEO,American Eagle Outfitters Inc,$25.48,$4B (Small),Yes,"4,674,430",1.36
+AFRM,Affirm Holdings Inc,$49.81,$17B (Mid),Yes,"10,376,740",3.61
+AGIO,Agios Pharmaceuticals Inc,$27.96,$2B (Micro),Yes,"896,650",0.9
+AGO,Assured Guaranty Ltd,$86.34,$4B (Small),Yes,"250,940",0.9
+AGYS,Agilysys Inc,$81.50,$2B (Small),Yes,"377,650",0.34
+AIG,American International Group Inc,$78.27,$42B (Large),Yes,"4,448,010",0.59
+AL,Air Lease Corp,$64.73,$7B (Small),Yes,"1,803,000",1.12
+ALGM,Allegro Microsystems Inc,$42.38,$8B (Mid),Yes,"2,800,460",1.6
+ALK,Alaska Air Group Inc,$55.27,$6B (Small),Yes,"3,411,300",1.15
+ALKS,Alkermes Plc,$33.16,$5B (Small),Yes,"1,541,350",0.46
+ALRM,Alarm.com Holdings Inc,$46.38,$2B (Small),Yes,"466,290",0.8
+AMBA,Ambarella Inc,$66.21,$3B (Small),Yes,"726,150",1.92
+AMCR,Amcor PLC,$50.09,$23B (Mid),Yes,"7,663,040",0.63
+AMH,American Homes 4 Rent,$31.62,$12B (Mid),Yes,"3,839,930",0.8
+AMKR,Amkor Technology Inc,$47.48,$12B (Mid),Yes,"6,342,640",1.94
+AMPH,Amphastar Pharmaceuticals Inc,$28.50,$1B (Micro),Yes,"337,150",0.86
+AMRC,Ameresco Inc,$32.68,$2B (Micro),Yes,"510,180",2.51
+AMSC,American Superconductor Corp,$34.26,$2B (Micro),Yes,"2,007,580",2.96
+ANAB,AnaptysBio Inc,$53.08,$1B (Micro),Yes,"567,470",0.33
+ANDE,Andersons Inc,$69.03,$2B (Small),Yes,"283,560",0.74
+ANF,Abercrombie & Fitch Co,$93.70,$4B (Small),Yes,"1,342,150",1.17
+ANIP,ANI Pharmaceuticals Inc,$77.36,$2B (Micro),Yes,"340,460",0.52
+AORT,Artivion Inc,$36.60,$2B (Micro),Yes,"489,960",1.6
+AOS,A O Smith Corp,$80.46,$11B (Mid),Yes,"1,521,880",1.32
+APA,APA Corp (US),$27.92,$10B (Mid),Yes,"6,569,150",0.68
+APAM,Artisan Partners Asset Management Inc,$42.59,$3B (Small),Yes,"702,900",1.75
+APG,APi Group Corp,$44.41,$19B (Mid),Yes,"2,301,680",1.69
+APLD,Applied Digital Corp,$35.28,$10B (Mid),Yes,"28,800,360",7.18
+APTV,Aptiv PLC,$85.20,$18B (Mid),Yes,"2,411,020",1.46
+AR,Antero Resources Corp,$34.76,$11B (Mid),Yes,"6,223,860",0.54
+ARE,Alexandria Real Estate Equities Inc,$52.49,$9B (Mid),Yes,"2,235,590",1.32
+ARLP,Alliance Resource Partners LP,$25.82,$3B (Small),Yes,"668,380",0.28
+ARMK,Aramark,$38.98,$10B (Mid),Yes,"6,205,790",1.07
+AROC,Archrock Inc,$32.66,$6B (Small),Yes,"1,934,330",0.88
+ARQT,Arcutis Biotherapeutics Inc,$25.86,$3B (Small),Yes,"1,176,780",1.68
+ARWR,Arrowhead Pharmaceuticals Inc,$63.82,$9B (Mid),Yes,"5,067,310",1.24
+ASB,Associated Banc-Corp,$27.85,$5B (Small),Yes,"2,481,600",0.79
+ASGN,ASGN Inc,$41.43,$2B (Micro),Yes,"977,760",0.89
+ASH,Ashland Inc,$60.93,$3B (Small),Yes,"813,480",0.42
+ASO,Academy Sports and Outdoors Inc,$58.56,$4B (Small),Yes,"1,281,840",1.23
+ASTS,AST SpaceMobile Inc,$82.51,$30B (Mid),Yes,"15,973,620",2.77
+ATEX,Anterix Inc,$31.89,$597M (Micro),Yes,"490,430",0.78
+ATGE,Adtalem Global Education Inc,$95.52,$3B (Small),Yes,"480,530",0.73
+ATKR,Atkore Inc,$66.66,$2B (Small),Yes,"363,240",1.53
+ATRC,AtriCure Inc,$32.65,$2B (Micro),Yes,"937,170",1.42
+ATRO,Astronics Corp,$76.94,$2B (Small),Yes,"590,230",1.07
+AUB,Atlantic Union Bankshares Corp,$40.23,$6B (Small),Yes,"976,000",0.8
+AUGO,Aura Minerals Inc,$72.36,$6B (Small),Yes,"1,186,490",0.3
+AVA,Avista Corp,$43.08,$4B (Small),Yes,"597,710",0.25
+AVNT,Avient Corp,$42.75,$4B (Small),Yes,"961,520",1.39
+AVT,Avnet Inc,$65.79,$5B (Small),Yes,"1,540,310",0.92
+AWR,American States Water Co,$74.89,$3B (Small),Yes,"254,370",0.68
+AX,Axos Financial Inc,$97.28,$6B (Small),Yes,"452,410",1.26
+AXGN,AxoGen Inc,$33.23,$2B (Micro),Yes,"856,890",0.97
+AXTA,Axalta Coating Systems Ltd,$34.13,$7B (Small),Yes,"4,032,180",1.28
+AZTA,Azenta Inc,$28.62,$1B (Micro),Yes,"1,221,890",1.39
+B,Barrick Mining Corp,$47.91,$83B (Large),Yes,"18,782,900",0.42
+BAC,Bank of America Corp,$52.55,$379B (Large),Yes,"42,228,340",1.27
+BAH,Booz Allen Hamilton Holding Corp,$79.32,$10B (Mid),Yes,"2,423,100",0.37
+BALL,Ball Corp,$67.29,$18B (Mid),Yes,"3,188,590",1.09
+BANR,Banner Corp,$64.20,$2B (Small),Yes,"304,510",0.87
+BBIO,BridgeBio Pharma Inc,$75.25,$15B (Mid),Yes,"3,833,220",1.11
+BBT,Beacon Financial Corp,$30.68,$3B (Small),Yes,"938,210",0.65
+BBW,Build-A-Bear Workshop Inc,$50.14,$649M (Micro),Yes,"306,520",1.08
+BBY,Best Buy Co Inc,$65.80,$14B (Mid),Yes,"4,122,250",1.46
+BC,Brunswick Corp,$87.04,$6B (Small),Yes,"809,380",1.36
+BCC,Boise Cascade Co,$86.50,$3B (Small),Yes,"409,830",1.25
+BCE,BCE Inc,$25.71,$24B (Mid),Yes,"4,691,490",0.64
+BCH,Banco de Chile,$43.52,$22B (Mid),Yes,"448,690",0.19
+BCS,Barclays PLC,$25.31,$87B (Large),Yes,"8,061,800",0.95
+BEAM,Beam Therapeutics Inc,$27.92,$3B (Small),Yes,"1,516,470",2.12
+BEN,Franklin Resources Inc,$27.03,$14B (Mid),Yes,"6,184,640",1.48
+BEPC,Brookfield Renewable Corp,$43.84,$8B (Mid),Yes,"911,860",1.21
+BETR,Better Home & Finance Holding Co,$31.36,$492M (Micro),Yes,"365,210",2.01
+BF/B,Brown-Forman Corp,$29.95,$9B (Mid),Yes,"4,564,680",0.38
+BFAM,Bright Horizons Family Solutions Inc,$66.90,$4B (Small),Yes,"1,325,630",1.45
+BFH,Bread Financial Holdings Inc,$72.37,$3B (Small),Yes,"904,060",1.2
+BHE,Benchmark Electronics Inc,$59.23,$2B (Micro),Yes,"375,630",0.99
+BHF,Brighthouse Financial Inc,$63.84,$4B (Small),Yes,"590,650",0.96
+BHP,BHP Group Ltd,$73.38,$186B (Large),Yes,"4,658,570",0.78
+BILI,Bilibili Inc,$30.60,$10B (Mid),Yes,"2,360,780",0.74
+BILL,BILL Holdings Inc,$46.99,$5B (Small),Yes,"5,815,540",1.23
+BIP,Brookfield Infrastructure Partners LP,$38.75,$25B (Mid),Yes,"864,310",1.08
+BIPC,Brookfield Infrastructure Corp,$49.56,$7B (Small),Yes,"686,750",1.34
+BJRI,BJ's Restaurants Inc,$40.54,$857M (Micro),Yes,"273,830",1.31
+BKE,Buckle Inc,$53.45,$3B (Small),Yes,"470,910",1.14
+BKH,Black Hills Corp,$74.05,$6B (Small),Yes,"1,198,440",0.73
+BKR,Baker Hughes Co,$61.20,$60B (Large),Yes,"9,965,250",0.84
+BKU,BankUnited Inc,$48.73,$4B (Small),Yes,"927,330",1.28
+BL,BlackLine Inc,$38.61,$2B (Small),Yes,"1,578,520",0.9
+BLBD,Blue Bird Corp,$57.59,$2B (Micro),Yes,"579,990",1.39
+BLKB,Blackbaud Inc,$49.08,$2B (Small),Yes,"693,980",1.11
+BMA,Banco Macro SA,$86.59,$5B (Small),Yes,"273,210",1.54
+BMRN,BioMarin Pharmaceutical Inc,$59.87,$12B (Mid),Yes,"2,232,430",0.25
+BMY,Bristol-Myers Squibb Co,$60.74,$124B (Large),Yes,"14,615,160",0.27
+BN,Brookfield Corp,$47.79,$117B (Large),Yes,"6,960,050",1.57
+BNS,Bank of Nova Scotia,$75.70,$93B (Large),Yes,"1,715,520",1.08
+BOH,Bank of Hawaii Corp,$78.20,$3B (Small),Yes,"519,380",0.71
+BP,BP PLC,$37.66,$99B (Large),Yes,"11,492,900",0.31
+BRKR,Bruker Corp,$36.51,$6B (Small),Yes,"2,784,760",1.21
+BRO,Brown & Brown Inc,$68.47,$23B (Mid),Yes,"4,453,090",0.8
+BROS,Dutch Bros Inc,$53.20,$9B (Mid),Yes,"7,464,700",2.55
+BRX,Brixmor Property Group Inc,$29.29,$9B (Mid),Yes,"3,610,030",1.05
+BSAC,Banco Santander Chile,$35.65,$17B (Mid),Yes,"262,310",0.6
+BSX,Boston Scientific Corp,$74.73,$111B (Large),Yes,"27,986,050",0.7
+BSY,Bentley Systems Inc,$34.10,$10B (Mid),Yes,"3,836,940",1.2
+BTI,British American Tobacco plc,$59.50,$129B (Large),Yes,"5,652,990",0.32
+BTU,Peabody Energy Corp,$34.45,$4B (Small),Yes,"3,397,970",0.52
+BUD,Anheuser-Busch Inbev SA,$80.39,$139B (Large),Yes,"3,297,640",0.52
+BUSE,First Busey Corp,$26.55,$2B (Small),Yes,"761,740",0.74
+BVN,Compania de Minas Buenaventura SAA,$37.96,$10B (Mid),Yes,"1,408,690",0.3
+BWA,Borgwarner Inc,$62.80,$13B (Mid),Yes,"5,205,910",1.01
+BXP,BXP Inc,$61.49,$10B (Mid),Yes,"3,048,550",1.02
+BYD,Boyd Gaming Corp,$81.99,$6B (Small),Yes,"1,176,500",1.21
+BZH,Beazer Homes USA Inc,$27.71,$818M (Micro),Yes,"629,530",2.14
+CAAP,Corporacion America Airports SA,$27.96,$5B (Small),Yes,"361,600",0.78
+CAE,CAE Inc,$30.22,$10B (Mid),Yes,"849,470",1.11
+CAKE,Cheesecake Factory Inc,$58.67,$3B (Small),Yes,"1,290,790",0.98
+CALM,Cal-Maine Foods Inc,$83.44,$4B (Small),Yes,"1,129,970",0.25
+CALX,Calix Inc,$53.32,$4B (Small),Yes,"1,695,290",1.47
+CARG,CarGurus Inc,$27.34,$3B (Small),Yes,"1,320,360",1.4
+CARR,Carrier Global Corp,$65.40,$55B (Large),Yes,"9,821,660",1.31
+CASH,Pathward Financial Inc,$92.45,$2B (Micro),Yes,"309,340",0.74
+CATY,Cathay General Bancorp,$53.33,$4B (Small),Yes,"402,550",0.84
+CBRL,Cracker Barrel Old Country Store Inc,$31.40,$701M (Micro),Yes,"1,159,320",1.24
+CBSH,Commerce Bancshares Inc,$53.60,$8B (Mid),Yes,"1,381,700",0.59
+CBT,Cabot Corp,$76.19,$4B (Small),Yes,"634,280",0.85
+CBU,Community Financial System Inc,$66.34,$3B (Small),Yes,"254,330",0.79
+CBZ,CBIZ Inc,$27.84,$2B (Micro),Yes,"1,297,880",0.96
+CCEP,Coca-Cola Europacific Partners PLC,$99.51,$45B (Large),Yes,"2,014,810",0.49
+CCI,Crown Castle Inc,$90.38,$39B (Mid),Yes,"5,067,640",0.97
+CCL,Carnival Corp,$31.77,$39B (Mid),Yes,"22,605,410",2.42
+CCOI,Cogent Communications Holdings Inc,$26.46,$1B (Micro),Yes,"983,140",0.75
+CCS,Century Communities Inc,$74.84,$2B (Small),Yes,"345,570",1.5
+CCSI,Consensus Cloud Solutions Inc,$29.61,$561M (Micro),Yes,"432,760",1.84
+CDP,COPT Defense Properties,$31.54,$4B (Small),Yes,"1,484,040",0.87
+CE,Celanese Corp,$58.85,$6B (Small),Yes,"2,716,810",1.01
+CECO,CECO Environmental Corp,$79.14,$3B (Small),Yes,"302,160",1.33
+CELH,Celsius Holdings Inc,$44.68,$12B (Mid),Yes,"4,565,690",0.92
+CENX,Century Aluminum Co,$46.04,$4B (Small),Yes,"2,417,220",2.19
+CF,CF Industries Holdings Inc,$94.66,$15B (Mid),Yes,"1,898,070",0.69
+CFG,Citizens Financial Group Inc,$65.10,$28B (Mid),Yes,"5,567,160",1.06
+CFLT,Confluent Inc,$30.56,$11B (Mid),Yes,"29,930,840",0.95
+CG,Carlyle Group Inc,$54.49,$20B (Mid),Yes,"4,447,650",2.05
+CGNX,Cognex Corp,$58.79,$10B (Mid),Yes,"3,541,590",1.41
+CHDN,Churchill Downs Inc,$89.24,$6B (Small),Yes,"763,640",0.66
+CHEF,Chefs' Warehouse Inc,$68.44,$3B (Small),Yes,"433,580",1.26
+CIB,Grupo Cibest SA,$77.00,$9B (Mid),Yes,"412,210",0.9
+CL,Colgate-Palmolive Co,$96.67,$78B (Large),Yes,"7,476,130",0.27
+CLMT,Calumet Inc,$28.61,$2B (Small),Yes,"1,593,870",1.15
+CM,Canadian Imperial Bank of Commerce,$95.82,$89B (Large),Yes,"895,100",1.02
+CMC,Commercial Metals Co,$79.64,$9B (Mid),Yes,"1,154,060",1.45
+CMCL,Caledonia Mining Corporation PLC,$30.00,$579M (Micro),Yes,"404,210",0.47
+CMCSA,Comcast Corp,$31.57,$114B (Large),Yes,"31,719,150",0.78
+CMG,Chipotle Mexican Grill Inc,$36.30,$47B (Large),Yes,"24,933,160",1.01
+CMS,CMS Energy Corp,$76.74,$24B (Mid),Yes,"3,560,640",0.46
+CNA,CNA Financial Corp,$48.69,$13B (Mid),Yes,"484,840",0.34
+CNC,Centene Corp,$40.58,$20B (Mid),Yes,"7,872,230",0.5
+CNM,Core & Main Inc,$58.18,$11B (Mid),Yes,"2,169,780",0.96
+CNMD,Conmed Corp,$41.80,$1B (Micro),Yes,"552,580",0.93
+CNO,CNO Financial Group Inc,$43.06,$4B (Small),Yes,"792,320",0.84
+CNOB,ConnectOne Bancorp Inc,$27.75,$1B (Micro),Yes,"307,540",1.11
+CNP,CenterPoint Energy Inc,$42.52,$28B (Mid),Yes,"6,039,560",0.58
+CNQ,Canadian Natural Resources Ltd,$40.68,$85B (Large),Yes,"10,238,080",0.65
+CNR,Core Natural Resources Inc,$91.51,$5B (Small),Yes,"841,110",0.32
+CNS,Cohen & Steers Inc,$66.66,$3B (Small),Yes,"315,280",1.24
+CNX,CNX Resources Corp,$40.60,$6B (Small),Yes,"2,433,020",0.66
+CNXC,Concentrix Corp,$30.39,$2B (Micro),Yes,"1,556,770",0.51
+COCO,Vita Coco Company Inc,$56.58,$3B (Small),Yes,"800,840",0.36
+COGT,Cogent Biosciences Inc,$36.53,$6B (Small),Yes,"1,283,190",0.48
+COHU,Cohu Inc,$30.60,$1B (Micro),Yes,"1,273,990",1.26
+COLB,Columbia Banking System Inc,$31.49,$9B (Mid),Yes,"2,910,470",0.55
+COLL,Collegium Pharmaceutical Inc,$45.79,$1B (Micro),Yes,"305,720",0.65
+COLM,Columbia Sportswear Co,$63.29,$3B (Small),Yes,"1,350,630",0.84
+COO,Cooper Companies Inc,$82.99,$16B (Mid),Yes,"1,829,620",1.02
+CORT,Corcept Therapeutics Inc,$39.97,$4B (Small),Yes,"1,210,320",0.27
+CPRT,Copart Inc,$37.49,$36B (Mid),Yes,"9,218,090",1.1
+CPS,Cooper-Standard Holdings Inc,$45.20,$797M (Micro),Yes,"270,430",1.82
+CRBG,Corebridge Financial Inc,$31.07,$15B (Mid),Yes,"5,039,510",1.05
+CRC,California Resources Corp,$56.92,$5B (Small),Yes,"716,690",1.11
+CRI,Carter's Inc,$40.05,$1B (Micro),Yes,"1,104,950",1.02
+CRNX,Crinetics Pharmaceuticals Inc,$42.70,$4B (Small),Yes,"1,141,050",0.23
+CROX,Crocs Inc,$96.88,$5B (Small),Yes,"1,739,210",1.51
+CRSP,CRISPR Therapeutics AG,$53.07,$5B (Small),Yes,"1,731,280",1.73
+CRVL,CorVel Corp,$49.20,$3B (Small),Yes,"367,880",1.12
+CSCO,Cisco Systems Inc,$76.85,$304B (Large),Yes,"35,160,260",0.87
+CSGP,CoStar Group Inc,$44.99,$19B (Mid),Yes,"8,081,780",0.91
+CSGS,Csg Systems International Inc,$79.66,$2B (Small),Yes,"458,130",0.88
+CSTL,Castle Biosciences Inc,$33.15,$968M (Micro),Yes,"444,620",1.08
+CSX,CSX Corp,$40.87,$76B (Large),Yes,"14,122,900",1.27
+CTRA,Coterra Energy Inc,$31.37,$24B (Mid),Yes,"14,982,300",0.35
+CTRE,CareTrust REIT Inc,$40.01,$9B (Mid),Yes,"2,162,060",0.76
+CTSH,Cognizant Technology Solutions Corp,$66.55,$32B (Mid),Yes,"9,297,130",1.0
+CTVA,Corteva Inc,$75.03,$50B (Large),Yes,"4,763,740",0.73
+CUBE,CubeSmart,$38.93,$9B (Mid),Yes,"2,456,640",1.11
+CUBI,Customers Bancorp Inc,$72.73,$2B (Small),Yes,"489,110",1.66
+CUK,Carnival PLC,$31.56,$5B (Small),Yes,"3,251,140",2.45
+CVGW,Calavo Growers Inc,$26.07,$466M (Micro),Yes,"331,380",0.39
+CVLT,Commvault Systems Inc,$87.63,$4B (Small),Yes,"1,112,080",0.58
+CVS,CVS Health Corp,$78.48,$100B (Large),Yes,"9,397,280",0.49
+CWT,California Water Service Group,$46.56,$3B (Small),Yes,"346,180",0.62
+CXT,Crane NXT Co,$52.76,$3B (Small),Yes,"920,650",1.16
+CYTK,Cytokinetics Inc,$66.26,$8B (Mid),Yes,"1,746,280",0.55
+D,Dominion Energy Inc,$66.51,$57B (Large),Yes,"5,397,440",0.68
+DAKT,Daktronics Inc,$27.49,$1B (Micro),Yes,"749,250",1.68
+DAL,Delta Air Lines Inc,$69.00,$45B (Large),Yes,"9,028,550",1.32
+DAN,Dana Inc,$33.39,$4B (Small),Yes,"1,339,230",2.06
+DAR,Darling Ingredients Inc,$50.96,$8B (Mid),Yes,"2,903,970",1.25
+DB,Deutsche Bank AG,$35.28,$67B (Large),Yes,"3,516,640",0.95
+DD,Dupont De Nemours Inc,$50.22,$21B (Mid),Yes,"6,212,030",1.06
+DEO,Diageo PLC,$99.17,$55B (Large),Yes,"1,444,460",0.44
+DFIN,Donnelley Financial Solutions Inc,$39.12,$1B (Micro),Yes,"366,820",0.91
+DGII,Digi International Inc,$48.26,$2B (Micro),Yes,"375,920",0.79
+DIN,Dine Brands Global Inc,$31.73,$458M (Micro),Yes,"410,130",0.97
+DINO,HF Sinclair Corp,$58.53,$11B (Mid),Yes,"2,207,020",0.78
+DIOD,Diodes Inc,$71.07,$3B (Small),Yes,"517,540",1.59
+DK,Delek US Holdings Inc,$34.46,$2B (Micro),Yes,"1,595,770",0.75
+DLB,Dolby Laboratories Inc,$66.02,$6B (Small),Yes,"938,210",0.84
+DLX,Deluxe Corp,$26.21,$1B (Micro),Yes,"626,700",1.36
+DNTH,Dianthus Therapeutics Inc,$47.40,$2B (Micro),Yes,"630,670",1.59
+DOCN,DigitalOcean Holdings Inc,$68.16,$6B (Small),Yes,"3,569,090",1.71
+DOCS,Doximity Inc,$25.02,$5B (Small),Yes,"7,354,560",1.45
+DOCU,DocuSign Inc,$44.82,$9B (Mid),Yes,"5,667,870",1.03
+DOW,Dow Inc,$32.49,$23B (Mid),Yes,"15,243,260",0.71
+DOX,Amdocs Ltd,$69.23,$7B (Small),Yes,"2,124,140",0.44
+DRD,DRDGOLD Ltd,$35.65,$3B (Small),Yes,"350,280",0.42
+DRS,Leonardo DRS Inc,$38.13,$10B (Mid),Yes,"1,085,290",0.44
+DSGX,Descartes Systems Group Inc,$65.74,$6B (Small),Yes,"1,022,050",0.78
+DT,Dynatrace Inc,$37.20,$11B (Mid),Yes,"8,917,930",0.81
+DVN,Devon Energy Corp,$44.66,$28B (Mid),Yes,"13,436,430",0.6
+DXCM,Dexcom Inc,$70.02,$27B (Mid),Yes,"6,038,140",1.49
+E,Eni SpA,$43.45,$64B (Large),Yes,"274,680",0.59
+EBAY,eBay Inc,$82.38,$37B (Mid),Yes,"6,057,000",1.4
+EDU,New Oriental Education & Technology Group Inc,$58.70,$10B (Mid),Yes,"1,465,500",0.27
+EE,Excelerate Energy Inc,$41.84,$5B (Small),Yes,"338,670",1.32
+EEFT,Euronet Worldwide Inc,$67.96,$3B (Small),Yes,"988,340",0.8
+EGBN,Eagle Bancorp Inc,$26.26,$798M (Micro),Yes,"328,580",1.02
+EGO,Eldorado Gold Corp,$47.37,$10B (Mid),Yes,"3,694,840",0.5
+EIX,Edison International,$71.46,$27B (Mid),Yes,"3,424,390",0.79
+ELAN,Elanco Animal Health Inc,$25.13,$12B (Mid),Yes,"4,571,050",1.84
+ELF,elf Beauty Inc,$81.50,$5B (Small),Yes,"3,133,290",1.69
+ELS,Equity LifeStyle Properties Inc,$67.82,$13B (Mid),Yes,"2,125,470",0.75
+ELVN,Enliven Therapeutics Inc,$26.72,$2B (Micro),Yes,"730,500",0.35
+EMBJ,Embraer SA,$71.04,$13B (Mid),Yes,"916,400",1.56
+EMN,Eastman Chemical Co,$80.08,$9B (Mid),Yes,"2,100,240",1.19
+ENPH,Enphase Energy Inc,$43.49,$6B (Small),Yes,"12,684,830",1.32
+EPAC,Enerpac Tool Group Corp,$43.02,$2B (Small),Yes,"336,300",0.95
+EPD,Enterprise Products Partners LP,$37.21,$80B (Large),Yes,"7,005,800",0.56
+EPR,EPR Properties,$58.49,$4B (Small),Yes,"768,340",0.95
+EPRT,Essential Properties Realty Trust Inc,$32.09,$7B (Small),Yes,"1,495,680",0.98
+EQH,Equitable Holdings Inc,$44.39,$13B (Mid),Yes,"3,382,130",1.1
+EQNR,Equinor ASA,$28.10,$71B (Large),Yes,"5,888,850",0.31
+EQR,Equity Residential,$63.86,$24B (Mid),Yes,"3,564,900",0.75
+EQT,EQT Corp,$58.70,$37B (Mid),Yes,"8,103,770",0.73
+ES,Eversource Energy,$73.36,$28B (Mid),Yes,"2,998,570",0.77
+ESI,Element Solutions Inc,$32.36,$8B (Mid),Yes,"2,832,290",1.25
+ESNT,Essent Group Ltd,$61.42,$6B (Small),Yes,"667,590",0.9
+ESTA,Establishment Labs Holdings Inc,$74.60,$2B (Small),Yes,"458,810",0.92
+ESTC,Elastic NV,$61.57,$6B (Small),Yes,"2,190,610",0.96
+ETSY,ETSY Inc,$45.73,$5B (Small),Yes,"4,416,420",1.78
+EVRG,Evergy Inc,$82.69,$19B (Mid),Yes,"2,122,020",0.62
+EVTC,Evertec Inc,$26.36,$2B (Micro),Yes,"542,190",0.87
+EW,Edwards Lifesciences Corp,$75.87,$44B (Large),Yes,"6,178,360",0.95
+EWTX,Edgewise Therapeutics Inc,$30.01,$3B (Small),Yes,"836,550",0.26
+EXC,Exelon Corp,$48.48,$50B (Large),Yes,"10,593,750",0.43
+EXEL,Exelixis Inc,$43.92,$11B (Mid),Yes,"2,889,860",0.41
+EXLS,Exlservice Holdings Inc,$30.04,$5B (Small),Yes,"3,399,230",0.93
+EXPO,Exponent Inc,$66.79,$3B (Small),Yes,"631,790",0.79
+EYE,National Vision Holdings Inc,$28.22,$2B (Small),Yes,"1,077,110",1.37
+FAF,First American Financial Corp,$67.22,$7B (Small),Yes,"1,108,600",1.27
+FAST,Fastenal Co,$46.41,$53B (Large),Yes,"10,202,420",0.87
+FBIN,Fortune Brands Innovations Inc,$51.32,$6B (Small),Yes,"3,956,110",1.42
+FCX,Freeport-McMoRan Inc,$62.84,$90B (Large),Yes,"20,644,670",1.42
+FE,FirstEnergy Corp,$50.10,$29B (Mid),Yes,"5,837,650",0.61
+FFBC,First Financial Bancorp,$30.31,$3B (Small),Yes,"850,760",0.96
+FFIN,First Financial Bankshares Inc,$33.48,$5B (Small),Yes,"765,280",0.82
+FHB,First Hawaiian Inc,$26.30,$3B (Small),Yes,"1,521,640",0.69
+FHI,Federated Hermes Inc,$55.44,$4B (Small),Yes,"757,330",0.72
+FIBK,First Interstate Bancsystem Inc,$37.66,$4B (Small),Yes,"1,129,820",0.73
+FIS,Fidelity National Information Services Inc,$46.80,$24B (Mid),Yes,"6,673,930",0.93
+FISV,Fiserv Inc,$59.36,$32B (Mid),Yes,"11,418,260",0.77
+FITB,Fifth Third Bancorp,$52.86,$48B (Large),Yes,"14,557,190",0.96
+FIZZ,National Beverage Corp,$36.35,$3B (Small),Yes,"263,820",0.75
+FLEX,Flex Ltd,$64.24,$24B (Mid),Yes,"5,366,320",1.24
+FLNG,FLEX LNG Ltd,$25.99,$1B (Micro),Yes,"449,540",0.3
+FLR,Fluor Corp,$45.48,$7B (Small),Yes,"2,731,590",1.38
+FLS,Flowserve Corp,$89.69,$11B (Mid),Yes,"2,125,210",1.27
+FND,Floor & Decor Holdings Inc,$70.20,$8B (Small),Yes,"2,466,470",1.72
+FNF,Fidelity National Financial Inc,$56.74,$15B (Mid),Yes,"1,368,640",0.99
+FORM,FormFactor Inc,$96.73,$7B (Small),Yes,"1,838,200",1.02
+FOUR,Shift4 Payments Inc,$55.01,$5B (Small),Yes,"2,520,930",1.62
+FOXA,Fox Corp,$56.35,$11B (Mid),Yes,"5,750,150",0.56
+FR,First Industrial Realty Trust Inc,$58.92,$8B (Mid),Yes,"1,352,000",1.13
+FRME,First Merchants Corp,$42.05,$3B (Small),Yes,"441,970",0.91
+FRO,Frontline Plc,$30.92,$7B (Small),Yes,"2,706,210",0.04
+FROG,Jfrog Ltd,$51.68,$6B (Small),Yes,"4,063,930",1.16
+FRPT,Freshpet Inc,$67.72,$3B (Small),Yes,"1,041,490",1.7
+FTDR,Frontdoor Inc,$56.64,$4B (Small),Yes,"459,840",1.35
+FTI,TechnipFMC PLC,$61.36,$25B (Mid),Yes,"4,056,580",0.71
+FTNT,Fortinet Inc,$85.56,$64B (Large),Yes,"9,183,550",1.03
+FTV,Fortive Corp,$56.90,$18B (Mid),Yes,"6,817,460",1.09
+FUL,H.B. Fuller Company,$67.49,$4B (Small),Yes,"394,420",1.05
+FWRD,Forward Air Corp (Delaware),$26.81,$838M (Micro),Yes,"688,230",1.32
+G,Genpact Ltd,$37.36,$6B (Small),Yes,"3,950,420",0.77
+GAP,Gap Inc,$27.67,$10B (Mid),Yes,"5,410,810",2.27
+GBCI,Glacier Bancorp Inc,$51.29,$7B (Small),Yes,"1,230,460",0.73
+GBX,Greenbrier Companies Inc,$57.24,$2B (Micro),Yes,"333,740",1.59
+GCT,GigaCloud Technology Inc,$35.23,$1B (Micro),Yes,"499,290",2.32
+GDDY,GoDaddy Inc,$89.12,$12B (Mid),Yes,"2,102,960",0.96
+GDS,GDS Holdings Ltd,$46.12,$9B (Mid),Yes,"2,429,890",0.36
+GFF,Griffon Corp,$93.60,$4B (Small),Yes,"504,620",1.29
+GFI,Gold Fields Ltd,$54.60,$49B (Large),Yes,"3,382,370",0.7
+GFS,GlobalFoundries Inc,$48.99,$27B (Mid),Yes,"4,597,920",1.45
+GGAL,Grupo Financiero Galicia SA,$45.98,$6B (Small),Yes,"1,550,750",1.51
+GGG,Graco Inc,$94.67,$16B (Mid),Yes,"1,294,180",1.06
+GIB,CGI Inc,$74.53,$16B (Mid),Yes,"684,600",0.63
+GIII,G-III Apparel Group Ltd,$30.15,$1B (Micro),Yes,"388,660",1.29
+GIL,Gildan Activewear Inc,$72.58,$13B (Mid),Yes,"1,274,840",1.02
+GLBE,Global-E Online Ltd,$31.66,$5B (Small),Yes,"2,417,540",1.27
+GLNG,Golar LNG Ltd,$43.44,$4B (Small),Yes,"1,384,420",0.17
+GLOB,Globant SA,$49.40,$2B (Small),Yes,"1,782,480",1.22
+GLPI,Gaming and Leisure Properties Inc,$46.40,$13B (Mid),Yes,"2,243,740",0.67
+GM,General Motors Co,$81.08,$73B (Large),Yes,"7,991,040",1.37
+GMAB,Genmab A/S,$30.03,$18B (Mid),Yes,"1,289,120",0.94
+GMED,Globus Medical Inc,$88.09,$12B (Mid),Yes,"1,186,120",1.06
+GOLD,Gold.com Inc,$60.91,$2B (Micro),Yes,"1,135,380",0.38
+GOLF,Acushnet Holdings Corp,$99.56,$6B (Small),Yes,"364,400",0.89
+GPN,Global Payments Inc,$68.48,$19B (Mid),Yes,"3,843,630",0.75
+GSAT,Globalstar Inc,$60.06,$8B (Mid),Yes,"544,180",1.43
+GSHD,Goosehead Insurance Inc,$48.69,$2B (Micro),Yes,"685,610",1.59
+GSK,GSK plc,$58.93,$120B (Large),Yes,"7,954,000",0.46
+GSL,Global Ship Lease Inc,$38.15,$1B (Micro),Yes,"298,170",0.87
+GTES,Gates Industrial Corporation PLC,$27.97,$7B (Small),Yes,"3,738,840",1.21
+GTLB,GitLab Inc,$29.55,$5B (Small),Yes,"5,430,890",0.78
+GTY,Getty Realty Corp,$33.24,$2B (Micro),Yes,"366,100",0.83
+GXO,GXO Logistics Inc,$65.51,$8B (Small),Yes,"2,074,410",1.67
+HAE,Haemonetics Corp,$57.76,$3B (Small),Yes,"1,265,630",0.3
+HAFC,Hanmi Financial Corp,$26.85,$803M (Micro),Yes,"267,550",0.72
+HAL,Halliburton Co,$33.96,$28B (Mid),Yes,"12,820,370",0.75
+HALO,Halozyme Therapeutics Inc,$79.44,$9B (Mid),Yes,"2,165,130",0.95
+HASI,HA Sustainable Infrastructure Capital Inc,$39.70,$5B (Small),Yes,"1,359,210",1.42
+HCC,Warrior Met Coal Inc,$86.28,$5B (Small),Yes,"1,152,350",0.69
+HDB,HDFC Bank Ltd,$32.52,$167B (Large),Yes,"7,675,200",0.54
+HESM,Hess Midstream LP,$36.68,$8B (Mid),Yes,"1,635,850",0.59
+HFWA,Heritage Financial Corp,$28.09,$1B (Micro),Yes,"271,840",0.49
+HGV,Hilton Grand Vacations Inc,$46.22,$4B (Small),Yes,"1,000,190",1.43
+HHH,Howard Hughes Holdings Inc,$82.15,$5B (Small),Yes,"379,480",1.22
+HLIO,Helios Technologies Inc,$75.65,$3B (Small),Yes,"308,540",1.24
+HMC,Honda Motor Co Ltd,$31.78,$41B (Mid),Yes,"1,393,250",0.37
+HMN,Horace Mann Educators Corp,$42.57,$2B (Micro),Yes,"289,470",0.08
+HNI,HNI Corp,$50.03,$2B (Small),Yes,"539,930",0.9
+HOLX,Hologic Inc,$75.04,$17B (Mid),Yes,"2,784,700",0.73
+HOMB,Home BancShares Inc,$29.35,$6B (Small),Yes,"1,179,810",0.77
+HOOD,Robinhood Markets Inc,$75.97,$68B (Large),Yes,"52,282,230",2.49
+HP,Helmerich and Payne Inc,$33.20,$3B (Small),Yes,"2,490,720",0.55
+HQY,Healthequity Inc,$73.88,$6B (Small),Yes,"1,186,430",0.28
+HRB,H & R Block Inc,$31.05,$4B (Small),Yes,"3,878,130",0.4
+HRMY,Harmony Biosciences Holdings Inc,$36.01,$2B (Micro),Yes,"526,420",0.84
+HROW,Harrow Inc,$47.69,$2B (Micro),Yes,"563,460",0.07
+HSBC,HSBC Holdings PLC,$85.15,$292B (Large),Yes,"3,225,260",0.49
+HSIC,Henry Schein Inc,$78.19,$9B (Mid),Yes,"1,364,680",0.88
+HTH,Hilltop Holdings Inc,$39.27,$2B (Small),Yes,"520,270",0.91
+HTHT,H World Group Ltd,$52.53,$16B (Mid),Yes,"2,241,650",0.1
+HUBG,Hub Group Inc,$39.66,$2B (Small),Yes,"1,942,130",1.16
+HUT,Hut 8 Corp,$53.87,$6B (Small),Yes,"5,827,320",4.18
+HWC,Hancock Whitney Corp,$71.16,$6B (Small),Yes,"843,380",1.04
+HXL,Hexcel Corp,$89.79,$7B (Small),Yes,"1,217,560",1.01
+HYMC,Hycroft Mining Holding Corporation,$35.55,$3B (Small),Yes,"4,155,650",2.66
+HZO,MarineMax Inc,$29.02,$639M (Micro),Yes,"726,220",1.66
+IAC,IAC Inc,$34.31,$3B (Small),Yes,"1,616,710",1.11
+IBKR,Interactive Brokers Group Inc,$74.75,$127B (Large),Yes,"5,848,920",1.22
+IBN,ICICI Bank Ltd,$30.62,$110B (Large),Yes,"6,496,750",0.38
+IBOC,International Bancshares Corp,$72.07,$4B (Small),Yes,"300,540",0.72
+ICHR,Ichor Holdings Ltd,$46.77,$2B (Micro),Yes,"1,667,360",1.74
+ICLR,ICON PLC,$93.00,$7B (Small),Yes,"5,110,630",1.39
+IDR,Idaho Strategic Resources Inc,$38.85,$606M (Micro),Yes,"360,670",0.9
+IDYA,IDEAYA Biosciences Inc,$30.27,$3B (Small),Yes,"883,040",0.1
+IFF,International Flavors & Fragrances Inc,$83.00,$21B (Mid),Yes,"2,236,170",0.99
+IIPR,Innovative Industrial Properties Inc,$45.93,$1B (Micro),Yes,"252,600",1.49
+IMAX,Imax Corp,$36.08,$2B (Micro),Yes,"897,760",0.36
+IMCR,Immunocore Holdings PLC,$32.28,$2B (Micro),Yes,"392,280",0.78
+IMVT,Immunovant Inc,$25.75,$5B (Small),Yes,"1,688,740",0.63
+INDB,Independent Bank Corp (Massachusetts),$83.68,$4B (Small),Yes,"322,530",0.79
+INDV,Indivior Pharmaceuticals Inc,$34.58,$4B (Small),Yes,"1,342,820",1.15
+ING,ING Groep NV,$28.30,$82B (Large),Yes,"4,061,430",0.83
+INOD,Innodata Inc,$44.39,$1B (Micro),Yes,"1,599,730",2.47
+INSP,Inspire Medical Systems Inc,$59.76,$2B (Micro),Yes,"1,670,580",0.77
+INTC,Intel Corp,$46.79,$234B (Large),Yes,"104,264,710",1.37
+INVH,Invitation Homes Inc,$26.99,$17B (Mid),Yes,"6,588,710",0.83
+IONQ,IONQ Inc,$34.11,$12B (Mid),Yes,"22,574,170",2.63
+IONS,Ionis Pharmaceuticals Inc,$80.60,$13B (Mid),Yes,"1,882,520",0.32
+IOT,Samsara Inc,$27.32,$16B (Mid),Yes,"11,677,290",1.61
+IP,International Paper Co,$49.10,$26B (Mid),Yes,"8,701,070",1.04
+IR,Ingersoll Rand Inc,$98.52,$39B (Mid),Yes,"7,149,200",1.27
+IREN,IREN Ltd,$42.22,$14B (Mid),Yes,"47,443,510",4.32
+IRON,Disc Medicine Inc,$55.95,$2B (Micro),Yes,"887,620",0.91
+ITGR,Integer Holdings Corp,$85.92,$3B (Small),Yes,"997,350",0.74
+ITRI,Itron Inc,$89.36,$4B (Small),Yes,"814,560",1.45
+IVZ,Invesco Ltd,$26.52,$12B (Mid),Yes,"7,059,890",1.66
+JD,JD.com Inc,$27.14,$43B (Large),Yes,"9,613,560",0.42
+JEF,Jefferies Financial Group Inc,$53.72,$11B (Mid),Yes,"2,852,310",1.5
+JHG,Janus Henderson Group PLC,$49.05,$8B (Small),Yes,"2,267,250",1.53
+JHX,James Hardie Industries PLC,$25.88,$15B (Mid),Yes,"8,042,600",1.77
+JJSF,J&J Snack Foods Corp,$86.30,$2B (Micro),Yes,"414,240",0.35
+JKS,JinkoSolar Holding Co Ltd,$26.56,$3B (Small),Yes,"775,440",0.49
+JOYY,JOYY Inc,$61.18,$3B (Small),Yes,"398,100",0.39
+KBH,KB Home,$66.36,$4B (Small),Yes,"1,152,830",1.45
+KBR,KBR Inc,$41.30,$5B (Small),Yes,"1,358,560",0.51
+KDP,Keurig Dr Pepper Inc,$29.69,$40B (Mid),Yes,"10,532,800",0.33
+KFRC,Kforce Inc,$28.95,$525M (Micro),Yes,"253,970",0.58
+KFY,Korn Ferry,$61.23,$3B (Small),Yes,"571,040",1.33
+KGC,Kinross Gold Corp,$34.40,$42B (Large),Yes,"12,698,490",0.74
+KLIC,Kulicke and Soffa Industries Inc,$71.62,$4B (Small),Yes,"1,254,820",1.56
+KMI,Kinder Morgan Inc,$32.32,$72B (Large),Yes,"14,180,950",0.68
+KMPR,Kemper Corp,$32.05,$2B (Micro),Yes,"1,285,060",1.16
+KMT,Kennametal Inc,$39.59,$3B (Small),Yes,"2,413,750",1.46
+KMX,Carmax Inc,$41.43,$6B (Small),Yes,"3,270,900",1.36
+KN,Knowles Corp,$27.29,$2B (Small),Yes,"972,930",1.48
+KNSA,Kiniksa Pharmaceuticals International PLC,$45.37,$3B (Small),Yes,"395,350",0.05
+KNTK,Kinetik Holdings Inc,$41.54,$7B (Small),Yes,"1,232,700",0.72
+KNX,Knight-Swift Transportation Holdings Inc,$59.55,$10B (Mid),Yes,"3,791,160",1.13
+KO,Coca-Cola Co,$78.68,$338B (Large),Yes,"23,273,060",0.35
+KR,Kroger Co,$71.25,$45B (Large),Yes,"7,807,410",0.6
+KRC,Kilroy Realty Corp,$31.75,$4B (Small),Yes,"2,485,460",1.11
+KRG,Kite Realty Group Trust,$25.03,$5B (Small),Yes,"1,792,850",0.86
+KSPI,Kaspi.kz AO,$73.30,$14B (Mid),Yes,"482,010",0.02
+KTB,Kontoor Brands Inc,$67.46,$4B (Small),Yes,"732,610",1.16
+KTOS,Kratos Defense and Security Solutions Inc,$89.06,$15B (Mid),Yes,"3,155,530",1.13
+KYMR,Kymera Therapeutics Inc,$82.34,$7B (Small),Yes,"835,380",2.22
+LASR,nLIGHT Inc,$52.28,$3B (Small),Yes,"1,822,010",2.27
+LAUR,Laureate Education Inc,$34.77,$5B (Small),Yes,"898,080",0.58
+LAZ,Lazard Inc,$52.31,$5B (Small),Yes,"984,910",1.38
+LBRT,Liberty Energy Inc,$25.90,$4B (Small),Yes,"6,601,140",0.5
+LGIH,LGI Homes Inc,$60.83,$1B (Micro),Yes,"366,840",1.84
+LINC,Lincoln Educational Services Corp,$28.90,$914M (Micro),Yes,"380,700",0.96
+LIVN,LivaNova PLC,$65.80,$4B (Small),Yes,"684,880",0.93
+LKQ,LKQ Corp,$34.10,$9B (Mid),Yes,"2,168,950",0.87
+LMND,Lemonade Inc,$63.76,$5B (Small),Yes,"2,837,430",2.1
+LNC,Lincoln National Corp,$40.88,$8B (Mid),Yes,"2,337,800",1.27
+LNT,Alliant Energy Corp,$71.19,$18B (Mid),Yes,"2,952,320",0.65
+LOB,Live Oak Bancshares Inc,$40.54,$2B (Micro),Yes,"331,250",1.95
+LOGI,Logitech International SA,$89.41,$13B (Mid),Yes,"1,489,080",1.09
+LPG,Dorian LPG Ltd,$33.46,$1B (Micro),Yes,"617,340",0.64
+LPX,Louisiana-Pacific Corp,$93.62,$7B (Small),Yes,"1,434,830",1.75
+LQDA,Liquidia Corp,$38.20,$3B (Small),Yes,"1,383,930",0.51
+LRN,Stride Inc,$84.89,$4B (Small),Yes,"1,455,280",0.12
+LSCC,Lattice Semiconductor Corp,$97.63,$13B (Mid),Yes,"2,776,510",1.62
+LTC,LTC Properties Inc,$39.39,$2B (Micro),Yes,"421,950",0.59
+LTH,Life Time Group Holdings Inc,$29.06,$6B (Small),Yes,"2,096,230",1.68
+LTM,LATAM Airlines Group SA,$59.71,$17B (Mid),Yes,"2,641,420",3.92
+LUV,Southwest Airlines Co,$51.11,$25B (Mid),Yes,"10,863,950",1.08
+LVS,Las Vegas Sands Corp,$57.15,$38B (Mid),Yes,"5,985,650",0.86
+LW,Lamb Weston Holdings Inc,$49.82,$7B (Small),Yes,"2,593,790",0.4
+LXP,LXP Industrial Trust,$47.66,$3B (Small),Yes,"666,000",1.11
+LYB,LyondellBasell Industries NV,$57.61,$19B (Mid),Yes,"7,009,440",0.63
+LZB,La-Z-Boy Inc,$38.34,$2B (Micro),Yes,"342,970",1.25
+MAIN,Main Street Capital Corp,$59.44,$5B (Small),Yes,"637,810",0.79
+MAN,ManpowerGroup Inc,$28.66,$1B (Micro),Yes,"1,733,990",0.9
+MAS,Masco Corp,$76.19,$16B (Mid),Yes,"3,854,350",1.24
+MBIN,Merchants Bancorp,$47.63,$2B (Small),Yes,"937,000",1.22
+MBUU,Malibu Boats Inc,$31.52,$586M (Micro),Yes,"272,620",1.21
+MC,Moelis & Co,$65.94,$5B (Small),Yes,"1,377,910",1.88
+MCHP,Microchip Technology Inc,$78.56,$43B (Large),Yes,"12,105,200",1.42
+MCY,Mercury General Corp,$93.47,$5B (Small),Yes,"267,420",0.92
+MDLZ,Mondelez International Inc,$62.59,$80B (Large),Yes,"13,319,290",0.38
+MDT,Medtronic PLC,$99.49,$128B (Large),Yes,"9,509,620",0.72
+MEOH,Methanex Corp,$48.75,$4B (Small),Yes,"620,410",0.67
+MET,MetLife Inc,$77.31,$51B (Large),Yes,"4,731,500",0.74
+MGM,MGM Resorts International,$34.14,$9B (Mid),Yes,"6,276,860",1.39
+MGY,Magnolia Oil & Gas Corp,$26.78,$5B (Small),Yes,"3,737,400",0.9
+MKC,McCormick & Company Inc,$71.49,$18B (Mid),Yes,"4,026,310",0.57
+MMI,Marcus & Millichap Inc,$25.85,$1B (Micro),Yes,"293,000",1.33
+MMS,Maximus Inc,$74.69,$4B (Small),Yes,"1,160,040",0.6
+MMSI,Merit Medical Systems Inc,$81.66,$5B (Small),Yes,"613,180",0.61
+MMYT,MakeMyTrip Ltd,$56.25,$5B (Small),Yes,"3,363,580",0.64
+MNDY,monday.com Ltd,$72.38,$4B (Small),Yes,"5,465,400",1.32
+MNST,Monster Beverage Corp,$81.48,$80B (Large),Yes,"7,231,570",0.45
+MO,Altria Group Inc,$67.25,$113B (Large),Yes,"10,654,160",0.48
+MOS,Mosaic Co,$29.65,$9B (Mid),Yes,"5,950,880",0.94
+MP,MP Materials Corp,$58.03,$10B (Mid),Yes,"7,246,870",1.56
+MPLX,MPLX LP,$56.83,$58B (Large),Yes,"2,623,700",0.55
+MRCY,Mercury Systems Inc,$82.36,$5B (Small),Yes,"915,520",0.8
+MRNA,Moderna Inc,$42.23,$16B (Mid),Yes,"11,050,220",1.34
+MRVL,Marvell Technology Inc,$78.61,$69B (Large),Yes,"15,359,960",1.97
+MSM,MSC Industrial Direct Co Inc,$94.04,$5B (Small),Yes,"829,300",0.79
+MT,ArcelorMittal SA,$61.51,$47B (Large),Yes,"2,207,810",1.47
+MTCH,Match Group Inc,$30.50,$7B (Small),Yes,"6,573,330",1.31
+MTDR,Matador Resources Co,$47.80,$6B (Small),Yes,"1,708,770",1.08
+MTG,MGIC Investment Corp,$26.66,$6B (Small),Yes,"2,769,990",0.82
+MTH,Meritage Homes Corp,$80.60,$5B (Small),Yes,"1,155,930",1.44
+MUR,Murphy Oil Corp,$33.62,$5B (Small),Yes,"2,002,360",0.71
+MUX,McEwen Inc,$25.71,$2B (Micro),Yes,"1,073,450",1.13
+MWA,Mueller Water Products Inc,$30.13,$5B (Small),Yes,"1,593,760",1.14
+NAMS,NewAmsterdam Pharma Company NV,$34.63,$4B (Small),Yes,"659,100",0.05
+NBHC,National Bank Holdings Corp,$41.84,$2B (Micro),Yes,"488,850",0.77
+NBR,Nabors Industries Ltd,$68.10,$992M (Micro),Yes,"406,870",0.93
+NDAQ,Nasdaq Inc,$79.47,$45B (Large),Yes,"8,375,360",1.06
+NE,Noble Corporation PLC,$45.82,$7B (Small),Yes,"3,120,370",1.05
+NEE,Nextera Energy Inc,$93.80,$195B (Large),Yes,"8,986,280",0.74
+NFG,National Fuel Gas Co,$87.34,$8B (Mid),Yes,"730,220",0.59
+NFLX,Netflix Inc,$76.87,$325B (Large),Yes,"48,360,170",1.72
+NGG,National Grid PLC,$92.40,$92B (Large),Yes,"1,321,110",0.76
+NGVC,Natural Grocers by Vitamin Cottage Inc,$26.84,$618M (Micro),Yes,"254,930",1.37
+NGVT,Ingevity Corp,$76.57,$3B (Small),Yes,"308,380",1.29
+NHI,National Health Investors Inc,$89.31,$4B (Small),Yes,"294,260",0.65
+NI,NiSource Inc,$46.36,$22B (Mid),Yes,"5,615,300",0.64
+NJR,New Jersey Resources Corp,$54.23,$5B (Small),Yes,"701,850",0.58
+NKE,Nike Inc,$63.13,$93B (Large),Yes,"14,897,330",1.27
+NKTR,Nektar Therapeutics,$71.33,$2B (Micro),Yes,"2,334,650",1.12
+NMIH,NMI Holdings Inc,$39.65,$3B (Small),Yes,"603,310",0.63
+NNN,NNN REIT Inc,$44.34,$8B (Mid),Yes,"1,788,030",0.81
+NOG,Northern Oil and Gas Inc,$25.96,$3B (Small),Yes,"1,813,490",0.98
+NSA,National Storage Affiliates Trust,$33.47,$3B (Small),Yes,"1,389,670",1.19
+NSIT,Insight Enterprises Inc,$85.11,$3B (Small),Yes,"502,560",0.91
+NSP,Insperity Inc,$25.68,$969M (Micro),Yes,"1,388,590",0.55
+NSSC,NAPCO Security Technologies Inc,$44.15,$2B (Micro),Yes,"700,320",1.44
+NTCT,Netscout Systems Inc,$29.79,$2B (Small),Yes,"580,690",0.62
+NTNX,Nutanix Inc,$41.76,$11B (Mid),Yes,"5,148,240",0.47
+NVO,Novo Nordisk A/S,$49.57,$167B (Large),Yes,"30,479,800",0.7
+NVST,Envista Holdings Corp,$28.97,$5B (Small),Yes,"4,999,090",0.94
+NWE,NorthWestern Energy Group Inc,$69.68,$4B (Small),Yes,"712,130",0.34
+NYT,New York Times Co,$72.94,$12B (Mid),Yes,"4,192,910",1.1
+O,Realty Income Corp,$65.66,$60B (Large),Yes,"7,039,520",0.77
+OBK,Origin Bancorp Inc,$43.74,$1B (Micro),Yes,"270,340",0.75
+OFG,OFG Bancorp,$41.91,$2B (Micro),Yes,"383,760",0.74
+OGE,OGE Energy Corp,$46.98,$10B (Mid),Yes,"1,635,960",0.6
+OGS,ONE Gas Inc,$86.04,$5B (Small),Yes,"480,020",0.79
+OHI,Omega Healthcare Investors Inc,$47.40,$14B (Mid),Yes,"2,683,430",0.53
+OII,Oceaneering International Inc,$33.15,$3B (Small),Yes,"1,159,850",1.19
+OKE,ONEOK Inc,$86.11,$54B (Large),Yes,"4,497,620",0.9
+OKLO,Oklo Inc,$65.69,$10B (Mid),Yes,"10,495,810",0.83
+OKTA,Okta Inc,$87.26,$15B (Mid),Yes,"2,827,380",0.75
+OLN,Olin Corp,$25.88,$3B (Small),Yes,"3,725,410",1.53
+OMC,Omnicom Group Inc,$69.00,$22B (Mid),Yes,"5,262,180",0.77
+OMCL,Omnicell Inc,$36.50,$2B (Micro),Yes,"1,233,440",0.82
+OMF,OneMain Holdings Inc,$56.91,$7B (Small),Yes,"2,156,840",1.32
+ON,ON Semiconductor Corp,$72.21,$28B (Mid),Yes,"12,436,260",1.49
+ONON,On Holding Ltd,$45.29,$15B (Mid),Yes,"4,870,360",2.15
+OPCH,Option Care Health Inc,$35.42,$6B (Small),Yes,"1,568,040",0.83
+OPLN,Openlane Inc,$28.30,$3B (Small),Yes,"811,820",1.29
+ORI,Old Republic International Corp,$42.57,$11B (Mid),Yes,"1,707,450",0.73
+ORLY,O'Reilly Automotive Inc,$96.66,$81B (Large),Yes,"7,468,360",0.62
+OTIS,Otis Worldwide Corp,$89.83,$35B (Mid),Yes,"4,566,250",1.0
+OTTR,Otter Tail Corp,$88.16,$4B (Small),Yes,"272,250",0.55
+OUT,OUTFRONT Media Inc,$25.04,$4B (Small),Yes,"1,499,550",1.53
+OVV,Ovintiv Inc,$46.93,$13B (Mid),Yes,"5,919,800",0.71
+OXM,Oxford Industries Inc,$38.22,$569M (Micro),Yes,"270,890",1.05
+OXY,Occidental Petroleum Corp,$46.07,$45B (Large),Yes,"11,098,870",0.37
+OZK,Bank Ozk,$49.48,$6B (Small),Yes,"1,084,180",0.91
+PAAS,Pan American Silver Corp,$57.93,$24B (Mid),Yes,"9,097,600",0.64
+PAHC,Phibro Animal Health Corp,$52.26,$2B (Micro),Yes,"412,000",0.73
+PARR,Par Pacific Holdings Inc,$42.86,$2B (Small),Yes,"851,510",1.16
+PAYX,Paychex Inc,$94.38,$34B (Mid),Yes,"4,714,390",0.9
+PB,Prosperity Bancshares Inc,$72.63,$7B (Small),Yes,"1,755,780",0.66
+PBF,PBF Energy Inc,$34.54,$4B (Small),Yes,"3,116,330",0.4
+PBH,Prestige Consumer Healthcare Inc,$66.79,$3B (Small),Yes,"440,420",0.41
+PCOR,Procore Technologies Inc,$52.34,$8B (Mid),Yes,"4,415,670",0.91
+PCVX,Vaxcyte Inc,$54.10,$8B (Mid),Yes,"1,777,390",1.34
+PDFS,PDF Solutions Inc,$33.69,$1B (Micro),Yes,"358,250",1.54
+PEBO,Peoples Bancorp Inc,$33.56,$1B (Micro),Yes,"289,300",0.65
+PECO,Phillips Edison & Co Inc,$38.20,$5B (Small),Yes,"1,095,320",0.51
+PEG,Public Service Enterprise Group Inc,$86.37,$43B (Large),Yes,"2,686,590",0.6
+PEGA,Pegasystems Inc,$43.85,$7B (Small),Yes,"3,703,060",1.06
+PFE,Pfizer Inc,$27.58,$157B (Large),Yes,"58,100,250",0.43
+PFG,Principal Financial Group Inc,$90.39,$20B (Mid),Yes,"1,760,430",0.89
+PFGC,Performance Food Group Co,$98.00,$15B (Mid),Yes,"4,695,040",0.9
+PFSI,PennyMac Financial Services Inc,$92.01,$5B (Small),Yes,"1,550,170",1.56
+PHG,Koninklijke Philips NV,$31.25,$30B (Mid),Yes,"1,749,670",0.76
+PII,Polaris Inc,$65.82,$4B (Small),Yes,"849,200",1.18
+PLAB,Photronics Inc,$38.80,$2B (Small),Yes,"1,035,920",1.49
+PLNT,Planet Fitness Inc,$90.70,$8B (Small),Yes,"1,579,660",1.23
+PNFP,Pinnacle Financial Partners Inc,$96.13,$15B (Mid),Yes,"1,586,870",1.0
+PNTG,Pennant Group Inc,$31.97,$1B (Micro),Yes,"274,040",1.23
+PNW,Pinnacle West Capital Corp,$99.39,$12B (Mid),Yes,"1,200,290",0.53
+POR,Portland General Electric Co,$54.00,$6B (Small),Yes,"1,150,640",0.67
+POWI,Power Integrations Inc,$47.21,$3B (Small),Yes,"1,047,340",1.34
+PPC,Pilgrims Pride Corp,$43.32,$10B (Mid),Yes,"1,035,740",0.41
+PPL,PPL Corp,$37.82,$28B (Mid),Yes,"11,700,020",0.71
+PRCT,Procept Biorobotics Corp,$27.79,$2B (Micro),Yes,"1,182,190",0.99
+PRDO,Perdoceo Education Corp,$31.43,$2B (Micro),Yes,"408,480",0.89
+PRG,PROG Holdings Inc,$33.37,$1B (Micro),Yes,"429,280",1.71
+PRGS,Progress Software Corp,$36.53,$2B (Micro),Yes,"1,013,290",0.6
+PRKS,United Parks & Resorts Inc,$33.96,$2B (Micro),Yes,"1,522,570",1.19
+PRLB,Proto Labs Inc,$67.52,$2B (Micro),Yes,"303,740",1.21
+PRM,Perimeter Solutions Inc,$26.22,$4B (Small),Yes,"853,560",1.96
+PSIX,Power Solutions International Inc,$98.77,$2B (Small),Yes,"583,640",1.98
+PSN,Parsons Corp,$63.38,$7B (Small),Yes,"1,519,990",0.69
+PSTG,Pure Storage Inc,$73.85,$24B (Mid),Yes,"3,539,370",1.26
+PTCT,PTC Therapeutics Inc,$69.45,$6B (Small),Yes,"1,084,190",0.51
+PTGX,Protagonist Therapeutics Inc,$81.49,$5B (Small),Yes,"642,770",2.25
+PUK,Prudential PLC,$29.53,$37B (Mid),Yes,"1,168,270",0.75
+PVH,PVH Corp,$68.71,$3B (Small),Yes,"896,450",1.66
+PYPL,PayPal Holdings Inc,$40.29,$37B (Mid),Yes,"42,838,410",1.46
+PZZA,Papa John's International Inc,$31.79,$1B (Micro),Yes,"1,163,870",1.22
+QGEN,Qiagen NV,$50.41,$10B (Mid),Yes,"2,567,910",0.7
+QRVO,Qorvo Inc,$84.44,$8B (Mid),Yes,"1,435,510",1.34
+QSR,Restaurant Brands International Inc,$66.14,$23B (Mid),Yes,"3,602,800",0.59
+QTWO,Q2 Holdings Inc,$53.23,$3B (Small),Yes,"1,494,370",1.39
+QXO,QXO Inc,$27.07,$19B (Mid),Yes,"8,804,820",2.45
+RAPT,RAPT Therapeutics Inc,$57.72,$2B (Micro),Yes,"7,030,750",0.5
+RBLX,Roblox Corp,$63.17,$45B (Large),Yes,"16,721,990",1.64
+RCI,Rogers Communications Inc,$38.80,$17B (Mid),Yes,"1,214,500",0.75
+RDN,Radian Group Inc,$32.82,$4B (Small),Yes,"1,426,210",0.8
+RDNT,RadNet Inc,$69.54,$5B (Small),Yes,"790,310",1.49
+RDWR,Radware Ltd,$27.92,$1B (Micro),Yes,"309,130",0.93
+REG,Regency Centers Corp,$76.18,$14B (Mid),Yes,"1,580,970",0.93
+RELX,RELX PLC,$31.06,$56B (Large),Yes,"6,255,630",0.8
+REPX,Riley Exploration Permian Inc,$27.76,$610M (Micro),Yes,"269,300",1.22
+REXR,Rexford Industrial Realty Inc,$37.20,$9B (Mid),Yes,"3,302,380",1.26
+REZI,Resideo Technologies Inc,$35.83,$5B (Small),Yes,"1,347,730",1.72
+RF,Regions Financial Corp,$29.74,$26B (Mid),Yes,"14,112,310",1.01
+RIGL,Rigel Pharmaceuticals Inc,$34.32,$623M (Micro),Yes,"268,690",1.1
+RIO,Rio Tinto PLC,$98.07,$123B (Large),Yes,"4,156,100",0.53
+RKLB,Rocket Lab Corp,$67.44,$36B (Mid),Yes,"18,650,470",2.22
+RLI,RLI Corp,$61.62,$6B (Small),Yes,"720,650",0.5
+RNA,Avidity Biosciences Inc,$72.87,$11B (Mid),Yes,"2,881,930",0.93
+RNG,RingCentral Inc,$30.19,$3B (Small),Yes,"4,070,030",1.18
+RNST,Renasant Corp,$40.73,$4B (Small),Yes,"819,850",0.96
+ROIV,Roivant Sciences Ltd,$26.45,$19B (Mid),Yes,"9,313,800",1.18
+ROKU,Roku Inc,$90.06,$13B (Mid),Yes,"5,751,870",1.99
+ROL,Rollins Inc,$58.06,$28B (Mid),Yes,"4,508,410",0.81
+ROOT,Root Inc,$58.68,$910M (Micro),Yes,"310,480",2.82
+RPRX,Royalty Pharma PLC,$45.19,$26B (Mid),Yes,"4,483,110",0.4
+RRC,Range Resources Corp,$37.57,$9B (Mid),Yes,"3,296,220",0.59
+RRR,Red Rock Resorts Inc,$61.60,$7B (Small),Yes,"829,750",1.47
+RTO,Rentokil Initial PLC,$30.45,$15B (Mid),Yes,"2,070,290",1.07
+RUSHA,Rush Enterprises Inc,$71.61,$4B (Small),Yes,"494,670",0.9
+RVLV,Revolve Group Inc,$25.09,$2B (Micro),Yes,"1,089,710",1.78
+RVMD,Revolution Medicines Inc,$96.31,$19B (Mid),Yes,"2,001,890",1.0
+RVTY,Revvity Inc,$96.03,$11B (Mid),Yes,"1,768,650",1.11
+RYAAY,Ryanair Holdings PLC,$65.49,$34B (Mid),Yes,"1,408,990",1.22
+RYAN,Ryan Specialty Holdings Inc,$38.71,$10B (Mid),Yes,"2,686,650",0.66
+RYI,Ryerson Holding Corp,$27.03,$871M (Micro),Yes,"492,330",1.59
+RYTM,Rhythm Pharmaceuticals Inc,$98.07,$7B (Small),Yes,"769,930",2.05
+SA,Seabridge Gold Inc,$34.01,$4B (Small),Yes,"1,125,240",0.78
+SAIC,Science Applications International Corp,$86.61,$4B (Small),Yes,"870,550",0.33
+SBCF,Seacoast Banking Corporation of Florida,$33.23,$3B (Small),Yes,"886,000",0.91
+SBS,Companhia de Saneamento Basico do Estado de Sao Paulo - SABESP,$29.30,$21B (Mid),Yes,"1,403,490",0.79
+SBUX,Starbucks Corp,$93.79,$107B (Large),Yes,"8,208,670",0.93
+SCHL,Scholastic Corp,$34.09,$867M (Micro),Yes,"348,430",1.18
+SCHW,Charles Schwab Corp,$93.72,$167B (Large),Yes,"16,454,340",0.93
+SCI,Service Corporation International,$79.66,$11B (Mid),Yes,"1,442,550",1.01
+SCSC,Scansource Inc,$35.72,$767M (Micro),Yes,"336,620",1.3
+SDRL,Seadrill Ltd,$42.66,$3B (Small),Yes,"1,340,100",1.9
+SEDG,Solaredge Technologies Inc,$35.53,$2B (Micro),Yes,"3,004,660",1.61
+SEE,Sealed Air Corp,$41.93,$6B (Small),Yes,"3,331,600",1.35
+SEI,Solaris Energy Infrastructure Inc,$56.63,$4B (Small),Yes,"3,396,570",1.12
+SEIC,SEI Investments Co,$78.63,$10B (Mid),Yes,"911,740",0.97
+SFBS,ServisFirst Bancshares Inc,$86.14,$5B (Small),Yes,"309,550",0.9
+SFM,Sprouts Farmers Market Inc,$68.96,$7B (Small),Yes,"3,031,430",0.77
+SGI,Somnigroup International Inc,$96.04,$20B (Mid),Yes,"2,356,150",1.26
+SHAK,Shake Shack Inc,$88.15,$4B (Small),Yes,"1,316,520",1.75
+SHEL,Shell PLC,$78.77,$224B (Large),Yes,"7,331,610",0.14
+SHG,Shinhan Financial Group Co Ltd,$69.83,$34B (Mid),Yes,"325,490",0.95
+SHOO,Steven Madden Ltd,$39.19,$3B (Small),Yes,"2,413,230",1.13
+SIG,Signet Jewelers Ltd,$90.09,$4B (Small),Yes,"854,950",1.26
+SIGI,Selective Insurance Group Inc,$86.42,$5B (Small),Yes,"641,260",0.22
+SKM,SK Telecom Co Ltd,$32.56,$12B (Mid),Yes,"2,353,200",0.47
+SKT,Tanger Inc,$33.82,$4B (Small),Yes,"1,354,910",1.15
+SKY,Champion Homes Inc,$96.14,$5B (Small),Yes,"1,099,610",1.0
+SKYT,Skywater Technology Inc,$29.23,$1B (Micro),Yes,"1,945,050",3.52
+SLB,Slb NV,$50.39,$75B (Large),Yes,"20,253,240",0.69
+SLF,Sun Life Financial Inc,$68.95,$38B (Mid),Yes,"880,320",0.84
+SLG,SL Green Realty Corp,$40.55,$3B (Small),Yes,"1,521,530",1.64
+SLGN,Silgan Holdings Inc,$48.65,$5B (Small),Yes,"1,412,950",0.68
+SLVM,Sylvamo Corp,$51.37,$2B (Micro),Yes,"381,480",0.82
+SMCI,Super Micro Computer Inc,$30.54,$18B (Mid),Yes,"42,324,810",1.52
+SMG,Scotts Miracle-Gro Co,$68.35,$4B (Small),Yes,"870,390",1.95
+SMTC,Semtech Corp,$87.12,$8B (Mid),Yes,"1,803,990",1.99
+SNDR,Schneider National Inc,$28.73,$5B (Small),Yes,"1,155,710",1.06
+SNN,Smith & Nephew PLC,$36.18,$15B (Mid),Yes,"910,460",0.65
+SNY,Sanofi SA,$46.01,$112B (Large),Yes,"5,787,620",0.44
+SO,Southern Co,$94.95,$105B (Large),Yes,"6,990,850",0.43
+SON,Sonoco Products Co,$51.67,$5B (Small),Yes,"1,014,600",0.51
+SPB,Spectrum Brands Holdings Inc,$76.14,$2B (Micro),Yes,"483,780",0.63
+SPSC,SPS Commerce Inc,$61.92,$2B (Small),Yes,"1,062,520",0.62
+SQM,Sociedad Quimica y Minera de Chile SA,$70.91,$10B (Mid),Yes,"1,760,540",1.04
+SR,Spire Inc,$91.84,$5B (Small),Yes,"438,100",0.65
+SRE,Sempra,$94.78,$62B (Large),Yes,"4,542,430",0.73
+SRRK,Scholar Rock Holding Corp,$45.98,$5B (Small),Yes,"944,960",0.7
+SSNC,SS&C Technologies Holdings Inc,$72.09,$18B (Mid),Yes,"3,522,180",1.19
+ST,Sensata Technologies Holding PLC,$36.88,$5B (Small),Yes,"2,838,340",1.13
+STAG,STAG Industrial Inc,$38.06,$7B (Small),Yes,"1,764,970",1.04
+STC,Stewart Information Services Corp,$69.39,$2B (Micro),Yes,"266,580",1.02
+STEP,StepStone Group Inc,$56.76,$7B (Small),Yes,"1,548,470",1.36
+STM,STMicroelectronics NV,$33.61,$30B (Mid),Yes,"11,634,000",1.54
+STN,Stantec Inc,$87.03,$10B (Mid),Yes,"383,900",1.14
+STOK,Stoke Therapeutics Inc,$31.91,$2B (Micro),Yes,"593,090",1.09
+SU,Suncor Energy Inc,$55.99,$67B (Large),Yes,"5,944,950",0.43
+SUN,Sunoco LP,$59.51,$11B (Mid),Yes,"405,690",0.51
+SUPN,Supernus Pharmaceuticals Inc,$50.84,$3B (Small),Yes,"713,050",0.71
+SW,Smurfit WestRock PLC,$51.56,$27B (Mid),Yes,"8,969,170",0.95
+SWK,Stanley Black & Decker Inc,$91.06,$14B (Mid),Yes,"2,588,070",1.16
+SWKS,Skyworks Solutions Inc,$62.10,$9B (Mid),Yes,"4,423,050",1.28
+SWX,Southwest Gas Holdings Inc,$87.98,$6B (Small),Yes,"1,235,340",0.62
+SXT,Sensient Technologies Corp,$93.03,$4B (Small),Yes,"479,300",0.55
+SYF,Synchrony Financial,$71.38,$25B (Mid),Yes,"5,335,160",1.4
+SYM,Symbotic Inc,$54.95,$33B (Mid),Yes,"2,883,160",2.13
+SYNA,Synaptics Inc,$90.81,$4B (Small),Yes,"986,500",1.65
+SYRE,Spyre Therapeutics Inc,$36.63,$3B (Small),Yes,"670,240",3.12
+SYY,Sysco Corp,$90.56,$43B (Large),Yes,"4,684,330",0.58
+T,AT&T Inc,$28.69,$201B (Large),Yes,"50,764,300",0.36
+TAP,Molson Coors Beverage Co,$53.22,$10B (Mid),Yes,"3,070,760",0.46
+TARS,Tarsus Pharmaceuticals Inc,$60.78,$3B (Small),Yes,"563,700",0.6
+TBBK,Bancorp Inc,$58.57,$3B (Small),Yes,"798,160",1.29
+TD,Toronto-Dominion Bank,$95.32,$160B (Large),Yes,"2,810,700",0.65
+TDC,Teradata Corp,$33.56,$3B (Small),Yes,"3,307,290",0.5
+TDS,Telephone and Data Systems Inc,$47.59,$5B (Small),Yes,"823,610",0.33
+TDW,Tidewater Inc,$69.93,$3B (Small),Yes,"722,360",0.59
+TEAM,Atlassian Corp,$84.38,$22B (Mid),Yes,"8,392,890",0.94
+TECH,Bio-Techne Corp,$59.93,$9B (Mid),Yes,"2,906,730",1.48
+TEVA,Teva Pharmaceutical Industries Ltd,$33.98,$40B (Mid),Yes,"10,104,690",0.72
+TEX,Terex Corp,$69.23,$8B (Mid),Yes,"4,148,000",1.61
+TFC,Truist Financial Corp,$51.90,$66B (Large),Yes,"10,603,280",0.85
+TGTX,TG Therapeutics Inc,$28.50,$5B (Small),Yes,"1,563,100",1.87
+THR,Thermon Group Holdings Inc,$51.69,$2B (Micro),Yes,"546,960",0.69
+THRM,Gentherm Inc,$32.21,$982M (Micro),Yes,"355,870",1.31
+TIGO,Millicom International Cellular SA,$65.71,$11B (Mid),Yes,"1,312,320",0.91
+TILE,Interface Inc,$33.40,$2B (Micro),Yes,"393,850",1.86
+TIMB,Tim SA,$26.12,$12B (Mid),Yes,"485,830",0.48
+TMHC,Taylor Morrison Home Corp,$68.86,$7B (Small),Yes,"1,414,710",1.56
+TNET,TriNet Group Inc,$39.82,$2B (Micro),Yes,"748,490",0.87
+TNL,Travel + Leisure Co,$70.84,$5B (Small),Yes,"640,210",1.34
+TOST,Toast Inc,$27.33,$16B (Mid),Yes,"19,084,470",1.95
+TOWN,TowneBank,$36.21,$3B (Small),Yes,"561,680",0.75
+TPC,Tutor Perini Corp,$82.74,$4B (Small),Yes,"659,400",2.21
+TPG,TPG Inc,$49.53,$19B (Mid),Yes,"5,940,020",1.52
+TPH,Tri Pointe Homes Inc (Delaware),$46.37,$4B (Small),Yes,"3,033,890",1.31
+TREE,Lendingtree Inc,$39.75,$543M (Micro),Yes,"536,610",2.23
+TREX,Trex Company Inc,$42.80,$5B (Small),Yes,"1,586,300",1.57
+TRI,Thomson Reuters Corp,$86.89,$39B (Mid),Yes,"4,756,670",0.85
+TRMB,Trimble Inc,$66.40,$16B (Mid),Yes,"2,976,190",1.57
+TRMK,Trustmark Corp,$44.73,$3B (Small),Yes,"333,740",0.66
+TRN,Trinity Industries Inc,$35.08,$3B (Small),Yes,"879,000",1.39
+TRNO,Terreno Realty Corp,$66.10,$7B (Small),Yes,"905,250",1.13
+TROW,T Rowe Price Group Inc,$93.76,$20B (Mid),Yes,"3,131,980",1.56
+TRP,TC Energy Corp,$63.54,$66B (Large),Yes,"2,518,450",0.73
+TRS,TriMas Corp,$36.27,$1B (Micro),Yes,"346,110",0.55
+TRU,TransUnion,$73.92,$14B (Mid),Yes,"4,528,120",1.71
+TRUP,Trupanion Inc,$27.96,$1B (Micro),Yes,"668,960",1.62
+TS,Tenaris SA,$48.59,$25B (Mid),Yes,"1,326,950",0.85
+TSCO,Tractor Supply Co,$55.03,$29B (Mid),Yes,"6,129,180",0.71
+TSN,Tyson Foods Inc,$63.94,$23B (Mid),Yes,"2,797,400",0.47
+TTD,Trade Desk Inc,$25.81,$12B (Mid),Yes,"16,044,540",1.12
+TTEK,Tetra Tech Inc,$36.70,$10B (Mid),Yes,"4,411,760",0.9
+TTMI,TTM Technologies Inc,$91.80,$9B (Mid),Yes,"2,684,680",1.76
+TVTX,Travere Therapeutics Inc,$27.82,$2B (Small),Yes,"1,432,150",0.83
+TWST,Twist Bioscience Corp,$49.11,$3B (Small),Yes,"1,811,430",2.21
+TX,Ternium SA,$43.65,$9B (Mid),Yes,"328,010",1.24
+TXNM,TXNM Energy Inc,$59.28,$6B (Small),Yes,"1,132,440",0.17
+TXT,Textron Inc,$98.09,$17B (Mid),Yes,"2,194,450",0.95
+TYRA,Tyra Biosciences Inc,$27.99,$1B (Micro),Yes,"764,480",1.1
+UBER,Uber Technologies Inc,$69.99,$145B (Large),Yes,"29,358,300",1.23
+UBSI,United Bankshares Inc,$44.12,$6B (Small),Yes,"817,910",0.76
+UCB,United Community Banks Inc,$34.56,$4B (Small),Yes,"767,760",0.84
+UCTT,Ultra Clean Holdings Inc,$55.39,$3B (Small),Yes,"1,221,670",1.93
+UDR,UDR Inc,$38.09,$13B (Mid),Yes,"5,281,680",0.7
+UGI,UGI Corp,$38.76,$8B (Mid),Yes,"2,305,200",1.09
+UL,Unilever PLC,$74.59,$163B (Large),Yes,"4,065,320",0.34
+UNFI,United Natural Foods Inc,$40.30,$2B (Small),Yes,"694,810",0.99
+UNM,Unum Group,$71.64,$12B (Mid),Yes,"2,020,760",0.19
+UPST,Upstart Holdings Inc,$30.68,$3B (Small),Yes,"7,474,520",2.43
+URBN,Urban Outfitters Inc,$70.18,$6B (Small),Yes,"1,106,080",1.21
+USB,US Bancorp,$57.69,$90B (Large),Yes,"12,725,110",1.05
+USFD,US Foods Holding Corp,$99.93,$22B (Mid),Yes,"4,309,090",0.96
+UTI,Universal Technical Institute Inc,$30.35,$2B (Micro),Yes,"901,680",1.35
+UVV,Universal Corp,$53.46,$1B (Micro),Yes,"277,960",0.65
+VAC,Marriott Vacations Worldwide Corp,$53.95,$2B (Micro),Yes,"491,530",1.28
+VAL,Valaris Ltd,$95.96,$7B (Small),Yes,"3,666,240",1.03
+VCEL,Vericel Corp,$35.96,$2B (Micro),Yes,"411,610",1.22
+VCTR,Victory Capital Holdings Inc,$74.74,$5B (Small),Yes,"542,190",1.03
+VCYT,Veracyte Inc,$35.77,$3B (Small),Yes,"937,820",1.92
+VECO,Veeco Instruments Inc,$33.61,$2B (Micro),Yes,"832,060",1.14
+VERA,Vera Therapeutics Inc,$42.22,$3B (Small),Yes,"988,260",1.17
+VIAV,Viavi Solutions Inc,$26.29,$6B (Small),Yes,"4,967,080",0.94
+VICI,VICI Properties Inc,$29.30,$31B (Mid),Yes,"9,955,160",0.69
+VIRT,Virtu Financial Inc,$38.34,$6B (Small),Yes,"1,364,330",0.63
+VIST,Vista Energy SAB de CV,$54.11,$6B (Small),Yes,"1,691,190",0.86
+VITL,Vital Farms Inc,$28.41,$1B (Micro),Yes,"1,401,460",1.09
+VKTX,Viking Therapeutics Inc,$29.00,$3B (Small),Yes,"3,827,070",0.78
+VNO,Vornado Realty Trust,$29.89,$6B (Small),Yes,"2,853,100",1.52
+VNOM,Viper Energy Inc,$44.25,$16B (Mid),Yes,"2,412,520",0.47
+VNT,Vontier Corp,$41.79,$6B (Small),Yes,"1,883,550",1.25
+VOYA,Voya Financial Inc,$74.51,$7B (Small),Yes,"1,403,510",0.88
+VPG,Vishay Precision Group Inc,$44.20,$587M (Micro),Yes,"549,900",0.87
+VRDN,Viridian Therapeutics Inc,$27.90,$3B (Small),Yes,"1,417,640",1.01
+VRNS,Varonis Systems Inc,$25.36,$3B (Small),Yes,"7,223,530",0.6
+VSAT,Viasat Inc,$48.85,$7B (Small),Yes,"2,217,880",1.43
+VSCO,Victoria's Secret & Co,$58.54,$5B (Small),Yes,"1,557,750",2.27
+VTR,Ventas Inc,$85.24,$40B (Mid),Yes,"3,595,590",0.75
+VVV,Valvoline Inc,$38.53,$5B (Small),Yes,"2,909,530",1.15
+VVX,V2X Inc,$65.56,$2B (Micro),Yes,"392,530",0.13
+VZ,Verizon Communications Inc,$49.01,$207B (Large),Yes,"44,617,720",0.29
+W,Wayfair Inc,$82.39,$11B (Mid),Yes,"4,437,340",3.4
+WAFD,WaFd Inc,$32.88,$2B (Small),Yes,"599,010",0.83
+WAL,Western Alliance Bancorp,$93.20,$10B (Mid),Yes,"1,214,660",1.31
+WBD,Warner Bros Discovery Inc,$27.99,$69B (Large),Yes,"24,129,290",1.6
+WBS,Webster Financial Corp,$71.13,$11B (Mid),Yes,"7,743,340",1.02
+WERN,Werner Enterprises Inc,$33.21,$2B (Micro),Yes,"1,909,530",1.07
+WES,Western Midstream Partners LP,$43.43,$18B (Mid),Yes,"1,046,480",0.72
+WFC,Wells Fargo & Co,$86.98,$269B (Large),Yes,"15,560,220",1.07
+WGO,Winnebago Industries Inc,$46.54,$1B (Micro),Yes,"470,060",1.12
+WGS,GeneDx Holdings Corp,$90.15,$3B (Small),Yes,"812,230",2.03
+WH,Wyndham Hotels & Resorts Inc,$77.76,$6B (Small),Yes,"1,224,520",0.74
+WHD,Cactus Inc,$56.93,$5B (Small),Yes,"955,940",1.25
+WHR,Whirlpool Corp,$88.69,$5B (Small),Yes,"1,592,990",1.18
+WIX,Wix.Com Ltd,$69.23,$4B (Small),Yes,"2,419,660",1.4
+WK,Workiva Inc,$61.93,$3B (Small),Yes,"1,060,820",0.65
+WKC,World Kinect Corp,$26.79,$1B (Micro),Yes,"724,700",1.13
+WLY,John Wiley & Sons Inc,$29.44,$1B (Micro),Yes,"555,410",0.96
+WMB,Williams Companies Inc,$72.28,$88B (Large),Yes,"10,097,290",0.65
+WMG,Warner Music Group Corp,$29.45,$15B (Mid),Yes,"3,840,460",1.24
+WPC,WP Carey Inc,$74.20,$16B (Mid),Yes,"1,378,270",0.78
+WRB,W R Berkley Corp,$69.70,$26B (Mid),Yes,"2,079,760",0.36
+WSBC,WesBanco Inc,$36.65,$4B (Small),Yes,"488,070",0.79
+WSFS,WSFS Financial Corp,$66.80,$4B (Small),Yes,"569,550",0.75
+WTRG,Essential Utilities Inc,$39.73,$11B (Mid),Yes,"2,181,550",0.81
+WY,Weyerhaeuser Co,$26.75,$19B (Mid),Yes,"7,307,200",1.01
+XEL,Xcel Energy Inc,$81.59,$48B (Large),Yes,"5,674,540",0.46
+XENE,Xenon Pharmaceuticals Inc,$41.48,$3B (Small),Yes,"738,090",0.92
+XMTR,Xometry Inc,$55.42,$3B (Small),Yes,"1,202,210",0.86
+XYZ,Block Inc,$49.80,$30B (Mid),Yes,"9,661,280",2.69
+YETI,Yeti Holdings Inc,$48.00,$4B (Small),Yes,"1,010,590",1.74
+YOU,Clear Secure Inc,$32.50,$4B (Small),Yes,"1,453,030",1.21
+YPF,YPF SA,$37.37,$15B (Mid),Yes,"1,372,530",1.43
+YUMC,Yum China Holdings Inc,$55.42,$20B (Mid),Yes,"2,283,560",0.09
+Z,Zillow Group Inc,$43.45,$8B (Mid),Yes,"7,669,690",2.11
+ZBH,Zimmer Biomet Holdings Inc,$96.45,$19B (Mid),Yes,"2,748,110",0.59
+ZD,Ziff Davis Inc,$30.50,$1B (Micro),Yes,"571,610",1.49
+ZION,Zions Bancorporation NA,$61.26,$9B (Mid),Yes,"2,293,390",0.81
+ZM,Zoom Communications Inc,$92.60,$27B (Mid),Yes,"4,391,060",0.89
+ZWS,Zurn Elkay Water Solutions Corp,$51.30,$9B (Mid),Yes,"1,450,760",1.08
+AAL,American Airlines Group Inc,$13.88,$9B (Mid),Yes,"45,841,780",1.21
+AAT,American Assets Trust Inc,$18.56,$1B (Micro),Yes,"542,530",0.97
+ABEO,Abeona Therapeutics Inc,$5.01,$271M (Micro),Yes,"969,790",1.12
+ABR,Arbor Realty Trust Inc,$7.72,$2B (Micro),Yes,"4,795,620",1.32
+ACAD,ACADIA Pharmaceuticals Inc,$22.03,$4B (Small),Yes,"1,422,110",0.69
+ACDC,ProFrac Holding Corp,$5.47,$989M (Micro),Yes,"1,143,180",1.67
+ACEL,Accel Entertainment Inc,$10.83,$901M (Micro),Yes,"322,340",1.06
+ACHC,Acadia Healthcare Company Inc,$16.77,$2B (Micro),Yes,"4,531,100",0.81
+ACHR,Archer Aviation Inc,$6.77,$4B (Small),Yes,"35,342,250",3.11
+ACI,Albertsons Companies Inc,$18.57,$10B (Mid),Yes,"6,453,760",0.46
+ACRE,Ares Commercial Real Estate Corp,$5.17,$286M (Micro),Yes,"781,460",1.26
+ACVA,ACV Auctions Inc,$6.61,$1B (Micro),Yes,"3,621,630",1.65
+ADAM,Adamas Trust Inc,$8.16,$737M (Micro),Yes,"522,910",1.15
+ADEA,Adeia Inc,$18.80,$2B (Micro),Yes,"771,340",2.32
+ADMA,ADMA Biologics Inc,$16.09,$4B (Small),Yes,"1,806,160",0.51
+ADPT,Adaptive Biotechnologies Corp,$16.04,$2B (Small),Yes,"2,186,950",2.2
+ADT,ADT Inc,$7.74,$6B (Small),Yes,"24,239,430",1.01
+ADTN,ADTRAN Holdings Inc,$10.13,$812M (Micro),Yes,"1,092,830",1.38
+AEG,Aegon Ltd,$7.58,$12B (Mid),Yes,"6,562,940",0.79
+AES,AES Corp,$16.28,$12B (Mid),Yes,"10,826,460",0.94
+AEVA,Aeva Technologies Inc,$13.58,$816M (Micro),Yes,"2,038,680",2.08
+AGNC,AGNC Investment Corp,$11.36,$13B (Mid),Yes,"20,665,630",1.35
+AGRO,Adecoagro SA,$8.65,$1B (Micro),Yes,"448,670",0.42
+AHCO,Adapthealth Corp,$10.20,$1B (Micro),Yes,"942,120",1.74
+AHH,Armada Hoffler Properties Inc,$6.89,$714M (Micro),Yes,"704,560",1.03
+AI,C3.ai Inc,$10.78,$2B (Micro),Yes,"7,324,430",1.99
+AIP,Arteris Inc,$14.62,$665M (Micro),Yes,"511,600",1.48
+AIV,Apartment Investment and Management Co,$5.82,$839M (Micro),Yes,"1,697,020",1.35
+AKR,Acadia Realty Trust,$20.59,$3B (Small),Yes,"1,246,320",1.1
+ALDX,Aldeyra Therapeutics Inc,$5.28,$318M (Micro),Yes,"719,370",0.97
+ALEX,Alexander & Baldwin Inc (Hawaii),$20.77,$2B (Micro),Yes,"741,540",0.92
+ALHC,Alignment Healthcare Inc,$20.19,$4B (Small),Yes,"2,244,490",1.19
+ALKT,Alkami Technology Inc,$16.27,$2B (Micro),Yes,"2,245,830",0.58
+ALLT,Allot Ltd,$10.26,$497M (Micro),Yes,"337,190",1.55
+AM,Antero Midstream Corp,$21.45,$10B (Mid),Yes,"3,722,480",0.74
+AMCX,Amc Networks Inc (Nevada),$7.55,$322M (Micro),Yes,"592,650",1.07
+AMN,AMN Healthcare Services Inc,$16.25,$624M (Micro),Yes,"1,381,600",0.28
+AMPL,Amplitude Inc,$6.34,$848M (Micro),Yes,"2,759,260",1.55
+AMPX,Amprius Technologies Inc,$9.97,$1B (Micro),Yes,"9,160,960",3.1
+AMRX,Amneal Pharmaceuticals Inc,$14.82,$5B (Small),Yes,"2,078,340",1.33
+AMTB,Amerant Bancorp Inc,$22.44,$911M (Micro),Yes,"310,540",0.99
+AMX,America Movil SAB de CV,$23.83,$72B (Large),Yes,"2,379,320",0.74
+ANGI,Angi Inc,$8.10,$350M (Micro),Yes,"1,608,970",1.8
+ANGO,AngioDynamics Inc,$10.97,$452M (Micro),Yes,"465,480",0.48
+AOSL,Alpha and Omega Semiconductor Ltd,$22.65,$674M (Micro),Yes,"575,600",1.97
+AP,Ampco-Pittsburgh Corp,$7.79,$158M (Micro),Yes,"385,620",0.73
+APLE,Apple Hospitality REIT Inc,$12.27,$3B (Small),Yes,"1,915,110",0.81
+APLS,Apellis Pharmaceuticals Inc,$21.70,$3B (Small),Yes,"2,218,080",0.25
+APPN,Appian Corp,$22.87,$2B (Micro),Yes,"1,302,300",0.96
+ARCC,Ares Capital Corp,$19.37,$14B (Mid),Yes,"8,739,220",0.62
+ARCO,Arcos Dorados Holdings Inc,$8.36,$2B (Micro),Yes,"2,028,960",0.46
+ARCT,Arcturus Therapeutics Holdings Inc,$7.21,$205M (Micro),Yes,"445,070",2.42
+ARDX,Ardelyx Inc,$6.87,$2B (Micro),Yes,"3,100,830",0.61
+ARHS,Arhaus Inc,$9.25,$1B (Micro),Yes,"1,172,380",2.52
+ARI,Apollo Commercial Real Estate Finance Inc,$10.62,$1B (Micro),Yes,"1,285,690",1.56
+ARKO,Arko Corp.,$6.33,$705M (Micro),Yes,"545,620",0.82
+ARLO,Arlo Technologies Inc,$11.42,$1B (Micro),Yes,"1,547,650",1.71
+ARQQ,Arqit Quantum Inc,$17.00,$266M (Micro),Yes,"293,670",2.43
+ARR,ARMOUR Residential REIT Inc,$18.30,$2B (Micro),Yes,"3,517,660",1.41
+ARRY,Array Technologies Inc,$11.16,$2B (Micro),Yes,"4,959,200",1.69
+ARVN,Arvinas Inc,$11.65,$748M (Micro),Yes,"743,660",1.9
+ASAN,Asana Inc,$7.56,$2B (Micro),Yes,"6,905,160",1.01
+ASIX,AdvanSix Inc,$18.65,$501M (Micro),Yes,"301,270",1.63
+ASTH,Astrana Health Inc,$18.78,$942M (Micro),Yes,"611,570",0.93
+ASX,ASE Technology Holding Co Ltd,$23.40,$52B (Large),Yes,"11,224,260",1.43
+ASYS,Amtech Systems Inc,$11.42,$165M (Micro),Yes,"637,730",1.7
+ATEC,Alphatec Holdings Inc,$13.36,$2B (Micro),Yes,"2,793,190",1.03
+ATEN,A10 Networks Inc,$20.70,$1B (Micro),Yes,"1,212,650",1.19
+ATHM,Autohome Inc,$21.00,$2B (Small),Yes,"525,410",0.1
+AUDC,AudioCodes Ltd,$7.33,$196M (Micro),Yes,"266,700",1.1
+AUPH,Aurinia Pharmaceuticals Inc,$14.23,$2B (Micro),Yes,"804,860",1.54
+AVAH,Aveanna Healthcare Holdings Inc,$7.93,$2B (Micro),Yes,"767,290",2.06
+AVNS,Avanos Medical Inc,$14.90,$692M (Micro),Yes,"586,200",1.05
+AVO,Mission Produce Inc,$14.37,$1B (Micro),Yes,"653,990",0.59
+AVPT,AvePoint Inc,$10.56,$2B (Small),Yes,"2,407,370",1.13
+AVTR,Avantor Inc,$9.20,$6B (Small),Yes,"17,223,830",0.98
+AVTX,Avalo Therapeutics Inc,$14.26,$259M (Micro),Yes,"385,970",0.89
+AXTI,AXT Inc,$24.24,$1B (Micro),Yes,"7,610,490",1.86
+AZ,A2Z Cust2Mate Solutions Corp,$6.05,$254M (Micro),Yes,"608,270",1.47
+BANC,Banc of California Inc,$20.00,$3B (Small),Yes,"3,841,160",0.72
+BAND,Bandwidth Inc,$12.96,$396M (Micro),Yes,"279,290",2.16
+BAX,Baxter International Inc,$19.79,$10B (Mid),Yes,"12,378,130",0.58
+BBAR,Banco BBVA Argentina SA,$16.18,$3B (Small),Yes,"739,690",1.14
+BBDC,Barings BDC Inc,$9.09,$956M (Micro),Yes,"888,530",0.64
+BBVA,Banco Bilbao Vizcaya Argentaria SA,$22.73,$128B (Large),Yes,"3,220,510",0.86
+BBWI,Bath & Body Works Inc,$24.07,$5B (Small),Yes,"4,481,470",1.46
+BCRX,BioCryst Pharmaceuticals Inc,$6.76,$2B (Micro),Yes,"4,044,970",0.78
+BCSF,Bain Capital Specialty Finance Inc,$13.56,$880M (Micro),Yes,"671,360",0.62
+BCYC,Bicycle Therapeutics PLC,$5.24,$363M (Micro),Yes,"544,420",1.67
+BGC,Bgc Group Inc,$9.21,$4B (Small),Yes,"3,153,940",1.01
+BGS,B&G Foods Inc,$5.23,$418M (Micro),Yes,"2,488,840",0.48
+BHC,Bausch Health Companies Inc,$5.99,$2B (Small),Yes,"1,829,300",0.37
+BHVN,Biohaven Ltd,$11.36,$2B (Micro),Yes,"2,541,920",3.52
+BKD,Brookdale Senior Living Inc,$16.51,$4B (Small),Yes,"6,810,540",0.66
+BKKT,Bakkt Holdings Inc,$10.77,$275M (Micro),Yes,"1,184,420",5.97
+BKSY,Blacksky Technology Inc,$21.48,$773M (Micro),Yes,"1,565,480",2.41
+BLCO,Bausch + Lomb Corp,$17.03,$6B (Small),Yes,"349,540",0.6
+BLFS,BioLife Solutions Inc,$22.23,$1B (Micro),Yes,"451,000",1.91
+BLFY,Blue Foundry Bancorp,$14.13,$293M (Micro),Yes,"261,650",0.53
+BLMN,Bloomin' Brands Inc,$6.25,$533M (Micro),Yes,"2,698,130",1.1
+BMNR,Bitmine Immersion Technologies Inc,$20.96,$10B (Mid),Yes,"51,744,300",1.28
+BNED,Barnes & Noble Education Inc,$7.70,$264M (Micro),Yes,"300,890",1.47
+BNL,Broadstone Net Lease Inc,$19.64,$4B (Small),Yes,"1,696,460",1.0
+BORR,Borr Drilling Ltd,$5.64,$2B (Micro),Yes,"8,263,500",1.0
+BOX,Box Inc,$23.19,$3B (Small),Yes,"3,290,810",0.81
+BRBR,Bellring Brands Inc,$17.87,$2B (Micro),Yes,"5,376,100",0.7
+BRSL,Brightstar Lottery PLC,$13.45,$3B (Small),Yes,"1,487,390",1.06
+BRSP,Brightspire Capital Inc,$5.73,$743M (Micro),Yes,"793,480",1.46
+BRZE,Braze Inc,$17.60,$2B (Micro),Yes,"4,361,420",1.09
+BSBR,Banco Santander Brasil SA,$6.59,$25B (Mid),Yes,"1,112,550",0.62
+BSM,Black Stone Minerals LP,$15.20,$3B (Small),Yes,"360,250",0.16
+BTDR,Bitdeer Technologies Group,$10.08,$2B (Micro),Yes,"5,442,360",2.38
+BV,Brightview Holdings Inc,$13.67,$1B (Micro),Yes,"854,450",1.26
+BVS,Bioventus Inc,$8.27,$684M (Micro),Yes,"321,670",0.79
+BW,Babcock & Wilcox Enterprises Inc,$9.75,$1B (Micro),Yes,"3,018,330",1.53
+BWIN,Baldwin Insurance Group Inc,$16.50,$2B (Small),Yes,"1,898,750",1.37
+BXMT,Blackstone Mortgage Trust Inc,$19.54,$3B (Small),Yes,"1,738,280",1.07
+BXSL,Blackstone Secured Lending Fund,$24.62,$6B (Small),Yes,"2,891,630",0.45
+BYRN,Byrna Technologies Inc,$12.51,$284M (Micro),Yes,"840,030",2.3
+BZ,Kanzhun Ltd,$17.32,$8B (Mid),Yes,"3,765,450",0.43
+CAL,Caleres Inc,$11.81,$400M (Micro),Yes,"519,210",0.65
+CALY,Callaway Golf Co,$12.59,$2B (Small),Yes,"3,827,270",0.99
+CAPR,Capricor Therapeutics Inc,$22.45,$1B (Micro),Yes,"915,630",0.42
+CARS,Cars.com Inc,$11.08,$663M (Micro),Yes,"886,250",1.46
+CC,Chemours Co,$20.52,$3B (Small),Yes,"3,832,500",1.55
+CCRN,Cross Country Healthcare Inc,$8.08,$265M (Micro),Yes,"422,730",0.44
+CDE,Coeur Mining Inc,$22.42,$14B (Mid),Yes,"24,942,990",1.2
+CDNA,CareDx Inc,$19.63,$1B (Micro),Yes,"730,260",2.51
+CEPU,Central Puerto SA,$15.55,$2B (Small),Yes,"294,600",1.14
+CERT,Certara Inc,$6.62,$1B (Micro),Yes,"3,416,930",1.52
+CEVA,CEVA Inc,$22.67,$612M (Micro),Yes,"355,250",1.47
+CFFN,Capitol Federal Financial Inc,$7.64,$992M (Micro),Yes,"949,170",0.65
+CGBD,Carlyle Secured Lending Inc,$11.92,$869M (Micro),Yes,"651,690",0.72
+CGNT,Cognyte Software Ltd,$7.06,$516M (Micro),Yes,"514,850",1.65
+CHCT,Community Healthcare Trust Inc,$17.64,$502M (Micro),Yes,"280,890",0.71
+CHPT,ChargePoint Holdings Inc,$5.90,$140M (Micro),Yes,"546,110",1.41
+CHWY,Chewy Inc,$24.23,$10B (Mid),Yes,"8,723,080",1.62
+CIFR,Cipher Mining Inc,$16.42,$6B (Small),Yes,"37,361,580",2.96
+CIM,Chimera Investment Corp,$14.08,$1B (Micro),Yes,"1,175,950",1.85
+CION,Cion Investment Corp,$8.64,$446M (Micro),Yes,"478,590",1.05
+CLB,Core Laboratories Inc,$18.56,$864M (Micro),Yes,"449,490",1.09
+CLBK,Columbia Financial Inc,$18.41,$2B (Micro),Yes,"432,850",0.19
+CLBT,Cellebrite DI Ltd,$14.64,$4B (Small),Yes,"2,637,390",1.28
+CLDX,Celldex Therapeutics Inc,$23.00,$2B (Micro),Yes,"699,170",1.22
+CLF,Cleveland-Cliffs Inc,$10.38,$6B (Small),Yes,"26,884,880",2.01
+CLPT,Clearpoint Neuro Inc,$13.55,$403M (Micro),Yes,"591,550",1.01
+CLSK,CleanSpark Inc,$9.85,$3B (Small),Yes,"32,586,330",3.52
+CLW,Clearwater Paper Corp,$17.59,$282M (Micro),Yes,"254,520",0.2
+CMCO,Columbus McKinnon Corp,$20.33,$584M (Micro),Yes,"625,020",1.3
+CMP,Compass Minerals International Inc,$23.99,$1B (Micro),Yes,"642,190",1.17
+CMPS,Compass Pathways PLC,$5.81,$558M (Micro),Yes,"1,280,830",1.94
+CMPX,Compass Therapeutics Inc.,$6.28,$1B (Micro),Yes,"2,003,110",1.27
+CMRE,Costamare Inc,$16.94,$2B (Micro),Yes,"532,910",1.23
+CMTL,Comtech Telecommunications Corp,$5.86,$174M (Micro),Yes,"312,760",1.01
+CNH,CNH Industrial NV,$12.75,$16B (Mid),Yes,"14,874,240",1.23
+CNK,Cinemark Holdings Inc,$24.88,$3B (Small),Yes,"2,622,590",1.1
+CNNE,Cannae Holdings Inc,$13.29,$655M (Micro),Yes,"503,800",1.11
+CNTA,Centessa Pharmaceuticals PLC,$24.71,$4B (Small),Yes,"1,270,850",1.57
+CODI,Compass Diversified Holdings,$6.39,$481M (Micro),Yes,"1,094,980",1.06
+COLD,Americold Realty Trust Inc,$12.36,$4B (Small),Yes,"4,407,110",0.91
+COMP,Compass Inc,$10.41,$8B (Small),Yes,"22,809,150",2.57
+COUR,Coursera Inc,$5.92,$994M (Micro),Yes,"7,759,260",1.37
+CPNG,Coupang Inc,$16.98,$31B (Mid),Yes,"28,947,170",1.22
+CPRI,Capri Holdings Ltd,$20.42,$2B (Small),Yes,"4,934,580",1.45
+CPRX,Catalyst Pharmaceuticals Inc,$24.33,$3B (Small),Yes,"1,284,390",0.73
+CRGY,Crescent Energy Co,$10.23,$3B (Small),Yes,"5,206,120",1.19
+CRK,Comstock Resources Inc,$19.02,$6B (Small),Yes,"3,121,850",0.42
+CRMD,CorMedix Inc,$7.34,$578M (Micro),Yes,"1,972,650",1.31
+CRML,Critical Metals Corp,$9.24,$1B (Micro),Yes,"15,097,840",1.5
+CRNC,Cerence Inc,$8.26,$372M (Micro),Yes,"2,062,900",2.64
+CRSR,Corsair Gaming Inc,$6.79,$724M (Micro),Yes,"6,363,890",1.46
+CRTO,Criteo SA,$17.81,$911M (Micro),Yes,"683,460",0.39
+CRVS,Corvus Pharmaceuticals Inc,$18.66,$2B (Micro),Yes,"1,537,520",0.79
+CSIQ,Canadian Solar Inc,$19.39,$1B (Micro),Yes,"2,255,380",1.29
+CSTM,Constellium SE,$23.29,$3B (Small),Yes,"1,840,390",1.49
+CSWC,Capital Southwest Corp,$22.81,$1B (Micro),Yes,"668,450",0.78
+CTLP,Cantaloupe Inc,$10.22,$753M (Micro),Yes,"2,397,940",1.1
+CTMX,CytomX Therapeutics Inc,$5.32,$901M (Micro),Yes,"3,675,770",2.44
+CTO,CTO Realty Growth Inc,$18.93,$613M (Micro),Yes,"255,260",0.62
+CTOS,Custom Truck One Source Inc,$7.26,$2B (Micro),Yes,"960,740",1.13
+CUZ,Cousins Properties Inc,$22.46,$4B (Small),Yes,"3,225,070",1.21
+CVBF,CVB Financial Corp,$20.55,$3B (Small),Yes,"1,249,780",0.67
+CVE,Cenovus Energy Inc,$21.96,$41B (Mid),Yes,"14,461,990",0.44
+CVI,CVR Energy Inc,$23.17,$2B (Small),Yes,"954,840",1.12
+CWAN,Clearwater Analytics Holdings Inc,$23.15,$7B (Small),Yes,"15,593,060",0.67
+CWH,Camping World Holdings Inc,$11.48,$1B (Micro),Yes,"2,247,630",2.14
+CWK,Cushman & Wakefield Ltd,$12.89,$3B (Small),Yes,"3,409,930",1.51
+CX,Cemex SAB de CV,$12.57,$18B (Mid),Yes,"8,091,080",1.6
+CXM,Sprinklr Inc,$5.49,$1B (Micro),Yes,"3,366,050",0.79
+CXW,CoreCivic Inc,$18.92,$2B (Micro),Yes,"1,166,450",0.71
+CYRX,Cryoport Inc,$8.35,$418M (Micro),Yes,"373,610",1.7
+CZR,Caesars Entertainment Inc,$18.14,$4B (Small),Yes,"7,721,350",2.0
+DAVA,Endava PLC,$5.10,$277M (Micro),Yes,"524,120",1.28
+DBI,Designer Brands Inc,$7.19,$357M (Micro),Yes,"916,560",1.05
+DBRG,DigitalBridge Group Inc,$15.41,$3B (Small),Yes,"4,183,000",1.68
+DBX,Dropbox Inc,$24.53,$6B (Small),Yes,"4,910,530",0.64
+DC,Dakota Gold Corp,$5.84,$750M (Micro),Yes,"2,266,650",1.09
+DCH,Dauch Corp,$7.25,$2B (Micro),Yes,"16,036,190",1.6
+DCTH,Delcath Systems Inc,$9.31,$329M (Micro),Yes,"579,940",0.37
+DEA,Easterly Government Properties Inc,$23.96,$1B (Micro),Yes,"358,370",0.92
+DEI,Douglas Emmett Inc,$10.11,$2B (Micro),Yes,"3,230,090",1.13
+DFH,Dream Finders Homes Inc,$21.05,$2B (Micro),Yes,"473,450",1.82
+DFTX,Definium Therapeutics Inc,$15.75,$2B (Micro),Yes,"1,456,230",2.62
+DHC,Diversified Healthcare Trust,$6.55,$2B (Micro),Yes,"1,856,110",2.37
+DJT,Trump Media & Technology Group Corp,$10.98,$3B (Small),Yes,"3,667,550",4.65
+DKNG,Draftkings Inc,$21.76,$11B (Mid),Yes,"22,008,710",1.69
+DLO,Dlocal Ltd,$11.97,$4B (Small),Yes,"1,565,610",1.14
+DNA,Ginkgo Bioworks Holdings Inc,$9.29,$535M (Micro),Yes,"1,505,920",1.54
+DNLI,Denali Therapeutics Inc,$18.77,$3B (Small),Yes,"1,588,560",1.04
+DNOW,DNOW Inc,$16.43,$3B (Small),Yes,"1,964,310",0.74
+DOC,Healthpeak Properties Inc,$16.70,$12B (Mid),Yes,"12,083,470",1.11
+DOLE,Dole PLC,$15.91,$2B (Micro),Yes,"757,600",0.65
+DQ,Daqo New Energy Corp,$24.88,$2B (Micro),Yes,"722,730",0.67
+DRH,Diamondrock Hospitality Co,$9.87,$2B (Micro),Yes,"3,542,390",0.99
+DRTS,Alpha Tau Medical Ltd,$7.21,$615M (Micro),Yes,"301,470",1.04
+DRVN,Driven Brands Holdings Inc,$16.84,$3B (Small),Yes,"1,001,680",1.02
+DUOT,Duos Technologies Group Inc,$8.99,$184M (Micro),Yes,"265,110",1.0
+DV,DoubleVerify Holdings Inc,$9.45,$2B (Micro),Yes,"3,212,030",1.0
+DX,Dynex Capital Inc,$14.05,$3B (Small),Yes,"5,710,560",0.95
+DXC,DXC Technology Co,$13.39,$2B (Small),Yes,"3,466,720",1.09
+DYN,Dyne Therapeutics Inc,$15.54,$3B (Small),Yes,"1,678,100",1.34
+EAF,GrafTech International Ltd,$6.67,$172M (Micro),Yes,"913,710",1.72
+EBC,Eastern Bankshares Inc,$21.61,$5B (Small),Yes,"2,360,180",0.78
+EBS,Emergent BioSolutions Inc,$10.83,$569M (Micro),Yes,"649,270",2.37
+EC,Ecopetrol SA,$11.90,$24B (Mid),Yes,"2,808,790",0.79
+ECVT,Ecovyst Inc,$11.62,$1B (Micro),Yes,"1,310,050",1.16
+EFC,Ellington Financial Inc,$12.94,$2B (Micro),Yes,"2,255,580",0.93
+EGAN,eGain Corp,$9.99,$274M (Micro),Yes,"308,130",0.8
+EH,EHang Holdings Ltd,$11.58,$834M (Micro),Yes,"641,690",0.97
+EHAB,Enhabit Inc,$11.16,$565M (Micro),Yes,"590,970",1.24
+EMBC,Embecta Corp,$10.17,$602M (Micro),Yes,"1,146,560",1.07
+ENOV,Enovis Corp,$21.77,$1B (Micro),Yes,"1,089,910",1.25
+ENR,Energizer Holdings Inc,$22.77,$2B (Micro),Yes,"1,623,940",0.62
+ENVX,Enovix Corp,$5.92,$1B (Micro),Yes,"7,595,790",2.13
+EOSE,Eos Energy Enterprises Inc,$11.10,$4B (Small),Yes,"20,444,240",2.21
+EPC,Edgewell Personal Care Co,$21.89,$1B (Micro),Yes,"889,070",0.6
+EQX,Equinox Gold Corp,$15.80,$12B (Mid),Yes,"11,811,330",1.24
+ERAS,Erasca Inc,$12.00,$4B (Small),Yes,"4,540,150",1.19
+ERIC,Telefonaktiebolaget LM Ericsson,$11.07,$34B (Mid),Yes,"7,066,450",0.96
+ERII,Energy Recovery Inc,$15.60,$826M (Micro),Yes,"282,490",1.03
+ESRT,Empire State Realty Trust Inc,$6.27,$1B (Micro),Yes,"1,366,540",1.36
+ET,Energy Transfer LP,$18.75,$64B (Large),Yes,"17,383,040",0.64
+ETD,Ethan Allen Interiors Inc,$23.85,$607M (Micro),Yes,"397,970",1.17
+ETON,Eton Pharmaceuticals Inc,$17.07,$458M (Micro),Yes,"268,750",1.18
+EVER,EverQuote Inc,$14.66,$527M (Micro),Yes,"1,409,490",0.57
+EVLV,Evolv Technologies Holdings Inc,$5.68,$992M (Micro),Yes,"3,090,630",1.87
+EWCZ,European Wax Center Inc,$5.71,$311M (Micro),Yes,"2,240,460",1.35
+EXK,Endeavour Silver Corp,$11.75,$3B (Small),Yes,"12,885,220",1.2
+EXPI,eXp World Holdings Inc,$7.55,$1B (Micro),Yes,"971,680",2.12
+EXTR,Extreme Networks Inc,$14.46,$2B (Micro),Yes,"1,869,770",1.66
+EYPT,EyePoint Inc,$12.94,$1B (Micro),Yes,"1,228,490",1.8
+EZPW,EZCORP Inc,$24.31,$1B (Micro),Yes,"1,521,970",0.5
+F,Ford Motor Co,$14.12,$56B (Large),Yes,"82,751,090",1.65
+FA,First Advantage Corp,$9.49,$2B (Micro),Yes,"1,405,040",1.23
+FBP,First BanCorp,$22.43,$4B (Small),Yes,"1,136,890",0.85
+FBRT,Franklin BSP Realty Trust Inc,$8.85,$722M (Micro),Yes,"1,320,340",1.16
+FCEL,Fuelcell Energy Inc,$7.22,$345M (Micro),Yes,"1,763,350",1.35
+FCF,First Commonwealth Financial Corp,$18.37,$2B (Micro),Yes,"847,920",0.78
+FCPT,Four Corners Property Trust Inc,$24.37,$3B (Small),Yes,"890,880",0.84
+FDMT,4D Molecular Therapeutics Inc,$9.35,$477M (Micro),Yes,"752,030",2.98
+FDUS,Fidus Investment Corp,$18.85,$687M (Micro),Yes,"262,030",0.74
+FFIC,Flushing Financial Corp,$16.67,$563M (Micro),Yes,"362,490",0.81
+FFWM,First Foundation Inc,$6.24,$517M (Micro),Yes,"763,960",0.91
+FHN,First Horizon Corp,$24.56,$12B (Mid),Yes,"7,653,780",0.62
+FIGS,Figs Inc,$10.25,$2B (Micro),Yes,"2,792,230",1.3
+FINV,FinVolution Group,$5.54,$1B (Micro),Yes,"1,305,090",0.34
+FIP,Ftai Infrastructure Inc,$6.00,$698M (Micro),Yes,"1,066,020",1.97
+FIVN,Five9 Inc,$16.75,$1B (Micro),Yes,"2,652,010",1.3
+FLG,Flagstar Bank NA,$14.18,$6B (Small),Yes,"5,682,440",1.06
+FLNC,Fluence Energy Inc,$18.46,$3B (Small),Yes,"9,126,150",2.99
+FLO,Flowers Foods Inc,$10.36,$2B (Small),Yes,"5,519,430",0.34
+FLYW,Flywire Corp,$10.97,$1B (Micro),Yes,"1,676,580",1.3
+FMC,FMC Corp,$14.34,$2B (Micro),Yes,"7,266,300",0.68
+FMNB,Farmers National Banc Corp,$13.44,$506M (Micro),Yes,"589,270",0.85
+FNB,FNB Corp,$18.07,$6B (Small),Yes,"6,342,470",0.91
+FOLD,Amicus Therapeutics Inc,$14.31,$4B (Small),Yes,"8,011,050",0.43
+FOXF,Fox Factory Holding Corp,$19.31,$807M (Micro),Yes,"535,600",1.47
+FPI,Farmland Partners Inc,$11.98,$516M (Micro),Yes,"615,310",0.76
+FRSH,Freshworks Inc,$7.24,$2B (Micro),Yes,"10,295,560",0.95
+FSK,FS KKR Capital Corp,$13.32,$4B (Small),Yes,"3,303,810",0.87
+FSLY,Fastly Inc,$18.26,$3B (Small),Yes,"21,432,570",0.85
+FTK,Flotek Industries Inc,$17.29,$520M (Micro),Yes,"289,670",1.43
+FULC,Fulcrum Therapeutics Inc,$10.63,$701M (Micro),Yes,"483,950",3.18
+FULT,Fulton Financial Corp,$22.03,$4B (Small),Yes,"2,075,640",0.85
+FUN,Six Flags Entertainment Corp,$15.90,$2B (Micro),Yes,"2,217,380",0.37
+FVRR,Fiverr International Ltd,$14.34,$530M (Micro),Yes,"1,585,660",1.29
+FWRG,First Watch Restaurant Group Inc,$15.37,$938M (Micro),Yes,"1,556,730",0.89
+GBDC,Golub Capital BDC Inc,$12.63,$3B (Small),Yes,"3,498,900",0.45
+GBTG,Global Business Travel Group Inc,$5.04,$3B (Small),Yes,"1,895,900",0.79
+GCMG,GCM Grosvenor Inc,$12.04,$2B (Small),Yes,"883,690",0.79
+GDOT,Green Dot Corp,$11.91,$662M (Micro),Yes,"810,270",0.82
+GDYN,Grid Dynamics Holdings Inc,$6.58,$558M (Micro),Yes,"1,807,790",0.85
+GEL,Genesis Energy LP,$17.54,$2B (Small),Yes,"314,510",0.78
+GEN,Gen Digital Inc,$23.72,$14B (Mid),Yes,"9,037,540",1.1
+GENI,Genius Sports Ltd,$5.79,$1B (Micro),Yes,"12,579,980",1.93
+GEO,Geo Group Inc,$14.21,$2B (Micro),Yes,"2,194,800",0.78
+GEOS,Geospace Technologies Corp,$9.69,$125M (Micro),Yes,"425,490",0.53
+GLAD,Gladstone Capital Corp,$18.54,$419M (Micro),Yes,"259,560",0.95
+GLDD,Great Lakes Dredge & Dock Corp,$16.89,$1B (Micro),Yes,"2,739,230",1.37
+GLUE,Monte Rosa Therapeutics Inc,$17.92,$1B (Micro),Yes,"1,023,230",1.64
+GLXY,Galaxy Digital Inc,$21.66,$8B (Mid),Yes,"10,468,490",3.8
+GME,GameStop Corp,$23.57,$11B (Mid),Yes,"9,923,960",2.11
+GNK,Genco Shipping & Trading Ltd,$22.21,$960M (Micro),Yes,"352,890",1.12
+GNL,Global Net Lease Inc,$9.85,$2B (Small),Yes,"1,755,650",1.07
+GNTX,Gentex Corp,$24.89,$5B (Small),Yes,"2,806,330",0.74
+GNW,Genworth Financial Inc,$8.92,$4B (Small),Yes,"3,639,040",0.99
+GO,Grocery Outlet Holding Corp,$10.28,$1B (Micro),Yes,"1,886,670",0.49
+GOOD,Gladstone Commercial Corp,$11.67,$565M (Micro),Yes,"488,170",1.1
+GPGI,GPGI Inc,$24.63,$7B (Small),Yes,"2,181,380",0.99
+GPK,Graphic Packaging Holding Co,$12.42,$4B (Small),Yes,"11,270,480",0.66
+GPRE,Green Plains Inc,$13.70,$957M (Micro),Yes,"2,395,210",1.46
+GPRK,GeoPark Ltd,$8.24,$423M (Micro),Yes,"660,280",0.42
+GRFS,Grifols SA,$9.32,$2B (Small),Yes,"462,710",0.66
+GRND,Grindr Inc,$10.08,$2B (Micro),Yes,"2,004,990",0.26
+GRNT,Granite Ridge Resources Inc,$5.05,$663M (Micro),Yes,"579,580",0.31
+GSBD,Goldman Sachs BDC Inc,$9.23,$1B (Micro),Yes,"1,730,850",0.66
+GSIT,GSI Technology Inc,$6.14,$222M (Micro),Yes,"969,010",1.49
+GSM,Ferroglobe PLC,$5.28,$989M (Micro),Yes,"1,284,340",0.92
+GT,Goodyear Tire & Rubber Co,$9.44,$3B (Small),Yes,"10,056,460",1.1
+GTE,Gran Tierra Energy Inc,$5.57,$197M (Micro),Yes,"570,550",0.37
+GTM,Zoominfo Technologies Inc,$6.36,$2B (Micro),Yes,"16,080,730",1.09
+GTX,Garrett Motion Inc,$21.25,$4B (Small),Yes,"2,467,220",0.29
+HAYW,Hayward Holdings Inc,$16.71,$4B (Small),Yes,"1,937,780",1.12
+HBAN,Huntington Bancshares Inc,$17.26,$35B (Mid),Yes,"39,660,680",0.96
+HBNC,Horizon Bancorp Inc,$18.01,$918M (Micro),Yes,"329,180",0.8
+HCSG,Healthcare Services Group Inc,$21.59,$2B (Micro),Yes,"980,030",0.73
+HE,Hawaiian Electric Industries Inc,$16.82,$3B (Small),Yes,"3,083,630",0.62
+HELE,Helen of Troy Ltd,$17.64,$407M (Micro),Yes,"708,510",0.79
+HIMS,Hims & Hers Health Inc,$16.30,$4B (Small),Yes,"47,181,720",2.55
+HIMX,Himax Technologies Inc,$7.72,$1B (Micro),Yes,"1,278,990",1.87
+HIW,Highwoods Properties Inc,$23.12,$3B (Small),Yes,"1,697,910",1.09
+HL,Hecla Mining Co,$22.60,$15B (Mid),Yes,"23,188,880",1.24
+HLF,Herbalife Ltd,$15.90,$2B (Micro),Yes,"1,352,110",0.88
+HLIT,Harmonic Inc,$10.68,$1B (Micro),Yes,"818,730",1.03
+HLMN,Hillman Solutions Corp,$10.06,$2B (Micro),Yes,"1,857,100",1.63
+HLN,Haleon PLC,$11.20,$50B (Large),Yes,"7,413,800",0.16
+HLX,Helix Energy Solutions Group Inc,$8.60,$1B (Micro),Yes,"2,505,330",1.22
+HMY,Harmony Gold Mining Company Ltd,$20.99,$13B (Mid),Yes,"5,557,350",0.97
+HNRG,Hallador Energy Co,$20.09,$943M (Micro),Yes,"615,470",0.2
+HOG,Harley-Davidson Inc,$20.42,$2B (Small),Yes,"4,630,840",1.4
+HOPE,Hope Bancorp Inc,$12.14,$2B (Micro),Yes,"927,150",0.82
+HPE,Hewlett Packard Enterprise Co,$22.69,$30B (Mid),Yes,"19,479,500",1.3
+HPK,Highpeak Energy Inc,$5.09,$639M (Micro),Yes,"780,810",0.64
+HPP,Hudson Pacific Properties Inc,$6.58,$357M (Micro),Yes,"2,042,650",1.54
+HPQ,HP Inc,$19.26,$18B (Mid),Yes,"22,700,160",1.19
+HR,Healthcare Realty Trust Inc,$17.96,$6B (Small),Yes,"5,319,820",0.93
+HRL,Hormel Foods Corp,$23.78,$13B (Mid),Yes,"4,273,150",0.33
+HRTG,Heritage Insurance Holdings Inc,$24.82,$767M (Micro),Yes,"271,910",0.97
+HRZN,Horizon Technology Finance Corp,$6.67,$309M (Micro),Yes,"1,002,680",0.94
+HST,Host Hotels & Resorts Inc,$19.89,$14B (Mid),Yes,"7,704,780",1.13
+HSTM,HealthStream Inc,$20.31,$603M (Micro),Yes,"430,020",0.46
+HTBK,Heritage Commerce Corp,$13.30,$816M (Micro),Yes,"637,440",0.76
+HTGC,Hercules Capital Inc,$15.58,$3B (Small),Yes,"3,702,660",0.81
+HTLD,Heartland Express Inc,$11.28,$874M (Micro),Yes,"788,890",1.11
+HTZ,Hertz Global Holdings Inc,$5.04,$2B (Micro),Yes,"5,042,010",2.11
+HUN,Huntsman Corp,$13.21,$2B (Small),Yes,"7,621,570",0.65
+IAG,IAMGOLD Corp,$21.63,$13B (Mid),Yes,"9,385,740",1.35
+IART,Integra Lifesciences Holdings Corp,$11.32,$882M (Micro),Yes,"713,840",1.02
+IE,Ivanhoe Electric Inc,$15.79,$2B (Small),Yes,"2,050,150",1.01
+IEP,Icahn Enterprises LP,$8.06,$5B (Small),Yes,"757,610",0.72
+IHS,IHS Holding Ltd,$8.29,$3B (Small),Yes,"1,235,900",0.84
+IIIV,I3 Verticals Inc,$22.20,$677M (Micro),Yes,"622,250",0.97
+ILPT,Industrial Logistics Properties Trust,$5.46,$364M (Micro),Yes,"260,330",2.47
+IMMR,Immersion Corp,$6.16,$203M (Micro),Yes,"336,130",0.89
+IMMX,Immix Biopharma Inc,$7.33,$382M (Micro),Yes,"956,130",0.26
+IMNM,Immunome Inc,$22.16,$2B (Small),Yes,"1,317,580",2.12
+IMTX,Immatics NV,$9.84,$1B (Micro),Yes,"413,340",1.35
+INFY,Infosys Ltd,$14.72,$60B (Large),Yes,"18,925,970",1.0
+INGN,Inogen Inc,$5.76,$156M (Micro),Yes,"268,860",1.78
+INMD,Inmode Ltd,$14.30,$906M (Micro),Yes,"1,639,410",2.18
+INNV,InnovAge Holding Corp,$8.36,$1B (Micro),Yes,"558,590",0.45
+INTA,Intapp Inc,$23.23,$2B (Micro),Yes,"2,938,200",0.74
+INTR,Inter & Co Inc,$8.73,$4B (Small),Yes,"4,336,160",1.2
+INVA,Innoviva Inc,$22.70,$2B (Micro),Yes,"935,570",0.42
+INVX,Innovex International Inc,$24.76,$2B (Micro),Yes,"364,920",0.73
+IRDM,Iridium Communications Inc,$23.17,$2B (Small),Yes,"2,918,460",0.6
+IRT,Independence Realty Trust Inc,$16.35,$4B (Small),Yes,"3,398,820",1.0
+ISSC,Innovative Solutions and Support Inc,$19.83,$353M (Micro),Yes,"393,550",0.63
+ITUB,Itau Unibanco Holding SA,$9.16,$50B (Large),Yes,"29,751,070",0.62
+IVR,Invesco Mortgage Capital Inc,$8.71,$665M (Micro),Yes,"2,651,940",1.7
+JACK,Jack in the Box Inc,$20.73,$392M (Micro),Yes,"479,130",1.15
+JANX,Janux Therapeutics Inc,$13.14,$790M (Micro),Yes,"1,391,360",2.88
+JBGS,JBG SMITH Properties,$15.94,$943M (Micro),Yes,"537,380",1.12
+JBI,Janus International Group Inc,$7.10,$986M (Micro),Yes,"1,204,050",1.47
+JBLU,JetBlue Airways Corp,$5.91,$2B (Small),Yes,"21,495,910",1.69
+JMIA,Jumia Technologies AG,$9.32,$1B (Micro),Yes,"3,856,930",2.44
+JOBY,Joby Aviation Inc,$9.90,$10B (Mid),Yes,"29,587,610",2.59
+KC,Kingsoft Cloud Holdings Ltd,$14.48,$4B (Small),Yes,"1,680,870",2.02
+KD,Kyndryl Holdings Inc,$12.24,$3B (Small),Yes,"14,984,280",2.02
+KELYA,Kelly Services Inc,$9.79,$303M (Micro),Yes,"856,930",0.79
+KEP,Korea Electric Power Corp,$21.52,$28B (Mid),Yes,"511,250",0.86
+KEY,KeyCorp,$21.70,$24B (Mid),Yes,"15,236,600",1.06
+KHC,Kraft Heinz Co,$24.80,$29B (Mid),Yes,"17,795,800",0.04
+KIM,Kimco Realty Corp,$22.71,$15B (Mid),Yes,"5,692,630",1.05
+KOD,Kodiak Sciences Inc,$22.07,$1B (Micro),Yes,"615,010",2.65
+KODK,Eastman Kodak Co,$7.67,$739M (Micro),Yes,"632,250",1.47
+KPTI,Karyopharm Therapeutics Inc,$8.58,$157M (Micro),Yes,"862,710",0.14
+KREF,KKR Real Estate Finance Trust Inc,$7.01,$451M (Micro),Yes,"1,296,620",0.93
+KRNT,Kornit Digital Ltd,$15.97,$734M (Micro),Yes,"412,840",1.77
+KRNY,Kearny Financial Corp,$8.08,$523M (Micro),Yes,"409,290",0.65
+KRO,Kronos Worldwide Inc,$6.33,$728M (Micro),Yes,"328,600",1.05
+KROS,Keros Therapeutics Inc,$16.58,$505M (Micro),Yes,"272,620",0.86
+KRP,Kimbell Royalty Partners LP,$14.08,$2B (Micro),Yes,"543,250",0.27
+KSS,Kohls Corp,$19.85,$2B (Small),Yes,"3,720,840",1.4
+KT,KT Corp,$23.56,$11B (Mid),Yes,"1,857,430",0.61
+KURA,Kura Oncology Inc,$8.31,$723M (Micro),Yes,"1,383,610",0.23
+KW,Kennedy-Wilson Holdings Inc,$9.89,$1B (Micro),Yes,"674,490",1.01
+LADR,Ladder Capital Corp,$10.38,$1B (Micro),Yes,"981,980",1.03
+LAND,Gladstone Land Corp,$11.19,$417M (Micro),Yes,"792,990",1.19
+LAR,Lithium Argentina AG,$6.91,$1B (Micro),Yes,"2,616,010",1.24
+LBTYA,Liberty Global Ltd,$10.89,$2B (Micro),Yes,"3,410,820",1.12
+LC,LendingClub Corp,$15.59,$2B (Micro),Yes,"2,442,340",2.11
+LCID,Lucid Group Inc,$10.28,$3B (Small),Yes,"7,342,380",1.12
+LEG,Leggett & Platt Inc,$11.73,$2B (Micro),Yes,"2,350,580",0.72
+LEGN,Legend Biotech Corp,$17.58,$3B (Small),Yes,"2,583,590",0.09
+LENZ,LENZ Therapeutics Inc,$12.88,$403M (Micro),Yes,"911,680",0.62
+LEVI,Levi Strauss & Co,$21.91,$9B (Mid),Yes,"3,169,090",1.28
+LFST,LifeStance Health Group Inc,$7.03,$3B (Small),Yes,"1,829,600",1.11
+LFVN,LifeVantage Corp,$5.03,$64M (Micro),Yes,"378,580",0.35
+LI,Li Auto Inc,$18.46,$20B (Mid),Yes,"4,576,880",0.57
+LILA,Liberty Latin America Ltd,$7.72,$301M (Micro),Yes,"290,240",1.0
+LIND,Lindblad Expeditions Holdings Inc,$20.07,$1B (Micro),Yes,"928,140",2.18
+LOMA,Loma Negra Compania Industrial Argentina SA,$11.47,$1B (Micro),Yes,"345,950",0.75
+LPTH,LightPath Technologies Inc,$11.52,$665M (Micro),Yes,"3,116,050",0.96
+LTBR,Lightbridge Corp,$13.04,$422M (Micro),Yes,"941,680",2.01
+LTRX,Lantronix Inc,$5.48,$218M (Micro),Yes,"1,383,540",1.55
+LUCK,Lucky Strike Entertainment Corp,$7.83,$1B (Micro),Yes,"584,570",0.71
+LUMN,Lumen Technologies Inc,$8.39,$9B (Mid),Yes,"20,494,750",1.55
+LUNR,Intuitive Machines Inc,$16.13,$3B (Small),Yes,"9,157,790",1.42
+LUXE,LuxExperience BV,$10.51,$1B (Micro),Yes,"604,010",1.05
+LXU,LSB Industries Inc,$9.85,$709M (Micro),Yes,"433,810",0.69
+LYFT,Lyft Inc,$13.27,$5B (Small),Yes,"26,478,270",1.94
+LYG,Lloyds Banking Group PLC,$5.61,$83B (Large),Yes,"30,121,420",0.91
+LZ,LegalZoom.com Inc,$6.87,$1B (Micro),Yes,"4,810,710",1.26
+M,Macy's Inc,$21.63,$6B (Small),Yes,"6,718,050",1.5
+MAC,Macerich Co,$18.52,$5B (Small),Yes,"2,438,080",2.18
+MAGN,Magnera Corp,$13.82,$496M (Micro),Yes,"543,450",1.69
+MAMA,Mama's Creations Inc,$15.53,$631M (Micro),Yes,"477,350",0.8
+MANU,Manchester United PLC,$17.44,$3B (Small),Yes,"333,730",0.51
+MARA,MARA Holdings Inc,$7.92,$3B (Small),Yes,"57,105,540",5.54
+MASS,908 Devices Inc,$6.49,$235M (Micro),Yes,"338,520",0.48
+MAT,Mattel Inc,$16.47,$5B (Small),Yes,"10,332,450",0.73
+MATV,Mativ Holdings Inc,$14.78,$808M (Micro),Yes,"323,370",0.72
+MAX,Mediaalpha Inc,$7.17,$467M (Micro),Yes,"1,162,000",1.36
+MBI,MBIA Inc,$6.04,$305M (Micro),Yes,"369,160",1.89
+MBLY,Mobileye Global Inc,$9.19,$8B (Mid),Yes,"7,379,010",0.53
+MCHB,Mechanics Bancorp,$15.37,$4B (Small),Yes,"426,030",1.53
+MCW,Mister Car Wash Inc,$5.97,$2B (Micro),Yes,"1,096,260",1.44
+MD,Pediatrix Medical Group Inc,$21.52,$2B (Micro),Yes,"497,300",0.77
+MDU,MDU Resources Group Inc,$20.80,$4B (Small),Yes,"2,218,400",0.81
+MDXG,MiMedx Group Inc,$5.12,$758M (Micro),Yes,"943,630",1.58
+MEG,Montrose Environmental Group Inc,$20.49,$724M (Micro),Yes,"298,080",1.98
+MEI,Methode Electronics Inc,$9.07,$321M (Micro),Yes,"419,730",1.04
+METC,Ramaco Resources Inc,$16.48,$909M (Micro),Yes,"2,454,390",1.42
+MFA,MFA Financial Inc,$9.89,$1B (Micro),Yes,"1,347,540",1.63
+MFG,Mizuho Financial Group Inc,$9.90,$122B (Large),Yes,"5,417,540",0.36
+MFIC,MidCap Financial Investment Corp,$11.11,$1B (Micro),Yes,"767,220",0.79
+MGNI,Magnite Inc,$11.70,$2B (Micro),Yes,"3,023,850",2.36
+MGTX,MeiraGTx Holdings PLC,$7.45,$600M (Micro),Yes,"373,320",1.38
+MIR,Mirion Technologies Inc,$22.51,$6B (Small),Yes,"4,529,980",0.99
+MITK,Mitek Systems Inc,$13.40,$607M (Micro),Yes,"1,105,030",1.0
+MLCO,Melco Resorts & Entertainment Ltd,$5.53,$2B (Small),Yes,"3,254,040",0.59
+MLKN,MillerKnoll Inc,$21.78,$1B (Micro),Yes,"500,520",1.28
+MLTX,MoonLake Immunotherapeutics,$15.77,$1B (Micro),Yes,"1,073,340",1.21
+MNKD,MannKind Corp,$5.66,$2B (Micro),Yes,"3,007,090",0.76
+MNRO,Monro Inc,$23.81,$715M (Micro),Yes,"795,860",0.95
+MNSO,MINISO Group Holding Ltd,$19.27,$6B (Small),Yes,"934,940",0.14
+MOMO,Hello Group Inc,$6.48,$1B (Micro),Yes,"911,340",0.33
+MPT,Medical Properties Trust Inc,$5.44,$3B (Small),Yes,"5,732,420",1.43
+MRAM,Everspin Technologies Inc,$11.03,$252M (Micro),Yes,"872,600",0.86
+MRTN,Marten Transport Ltd,$13.24,$1B (Micro),Yes,"800,320",0.84
+MTRX,Matrix Service Co,$11.46,$322M (Micro),Yes,"364,650",0.98
+MTUS,Metallus Inc,$20.70,$862M (Micro),Yes,"358,120",1.4
+MTW,Manitowoc Company Inc,$14.30,$507M (Micro),Yes,"445,760",1.83
+MUFG,Mitsubishi UFJ Financial Group Inc,$19.73,$223B (Large),Yes,"3,842,960",0.35
+MXL,Maxlinear Inc,$19.53,$2B (Micro),Yes,"1,156,890",1.67
+MYE,Myers Industries Inc,$22.08,$826M (Micro),Yes,"283,830",1.07
+NABL,N-Able Inc,$5.35,$997M (Micro),Yes,"1,759,980",0.62
+NAGE,Niagen Bioscience Inc,$5.14,$410M (Micro),Yes,"914,270",2.11
+NAVI,Navient Corp,$9.34,$897M (Micro),Yes,"1,129,140",1.32
+NCLH,Norwegian Cruise Line Holdings Ltd,$21.49,$10B (Mid),Yes,"23,739,770",2.03
+NCNO,nCino Inc,$16.14,$2B (Micro),Yes,"2,798,330",0.61
+NEO,Neogenomics Inc,$11.38,$1B (Micro),Yes,"1,667,340",1.59
+NEOG,Neogen Corp,$10.94,$2B (Small),Yes,"3,363,940",1.95
+NEXA,Nexa Resources SA,$11.93,$2B (Micro),Yes,"529,640",0.53
+NEXN,Nexxen International Ltd,$6.10,$346M (Micro),Yes,"364,250",1.71
+NEXT,NextDecade Corp,$5.20,$1B (Micro),Yes,"2,912,870",2.03
+NFBK,Northfield Bancorp Inc,$13.59,$568M (Micro),Yes,"705,700",0.79
+NG,NovaGold Resources Inc,$10.75,$5B (Small),Yes,"5,055,480",0.78
+NGD,New Gold Inc,$11.06,$9B (Mid),Yes,"22,874,430",0.61
+NGL,NGL Energy Partners LP,$12.00,$1B (Micro),Yes,"544,990",0.34
+NLY,Annaly Capital Management Inc,$23.07,$17B (Mid),Yes,"8,022,670",1.29
+NMFC,New Mountain Finance Corp,$8.32,$858M (Micro),Yes,"1,583,920",0.61
+NMR,Nomura Holdings Inc,$9.54,$28B (Mid),Yes,"1,610,960",0.67
+NMRK,Newmark Group Inc,$14.82,$3B (Small),Yes,"1,988,950",1.88
+NN,NextNav Inc,$16.09,$2B (Small),Yes,"1,098,310",0.96
+NOK,Nokia Oyj,$7.03,$39B (Mid),Yes,"30,639,470",0.81
+NOMD,Nomad Foods Ltd,$12.90,$2B (Micro),Yes,"1,318,400",0.7
+NOV,Nov Inc,$19.20,$7B (Small),Yes,"5,991,920",0.9
+NPKI,NPK International Inc,$14.44,$1B (Micro),Yes,"710,750",1.23
+NRDS,NerdWallet Inc,$9.41,$684M (Micro),Yes,"1,154,020",1.48
+NRIX,Nurix Therapeutics Inc,$15.60,$2B (Micro),Yes,"870,140",1.97
+NTGR,NETGEAR Inc,$21.94,$623M (Micro),Yes,"837,040",1.14
+NTLA,Intellia Therapeutics Inc,$11.87,$1B (Micro),Yes,"3,845,680",2.12
+NTST,Netstreit Corp,$20.20,$2B (Micro),Yes,"2,073,070",0.86
+NU,Nu Holdings Ltd,$16.82,$82B (Large),Yes,"49,272,840",1.1
+NUS,NU Skin Enterprises Inc,$8.36,$403M (Micro),Yes,"573,210",1.05
+NUVB,Nuvation Bio Inc,$5.77,$2B (Micro),Yes,"4,992,100",1.5
+NVAX,Novavax Inc,$8.70,$1B (Micro),Yes,"3,810,820",2.57
+NVCR,Novocure Ltd,$10.99,$1B (Micro),Yes,"3,727,310",0.75
+NVGS,Navigator Holdings Ltd,$19.30,$1B (Micro),Yes,"252,120",0.39
+NVRI,Enviri Corp,$18.92,$2B (Micro),Yes,"1,411,070",1.77
+NVTS,Navitas Semiconductor Corp,$8.30,$2B (Micro),Yes,"19,367,300",3.17
+NWBI,Northwest Bancshares Inc,$12.99,$2B (Micro),Yes,"1,103,890",0.66
+NWSA,News Corp,$22.72,$8B (Mid),Yes,"6,024,170",1.0
+NX,Quanex Building Products Corp,$22.04,$1B (Micro),Yes,"612,850",0.89
+OBDC,Blue Owl Capital Corp,$11.47,$6B (Small),Yes,"8,589,790",0.7
+OCFC,OceanFirst Financial Corp,$19.58,$1B (Micro),Yes,"646,250",1.02
+OCSL,Oaktree Specialty Lending Corp,$12.14,$1B (Micro),Yes,"971,150",0.55
+OCUL,Ocular Therapeutix Inc,$8.88,$2B (Micro),Yes,"5,028,400",0.9
+OEC,Orion SA,$7.11,$399M (Micro),Yes,"626,120",1.0
+OGN,Organon & Co,$7.39,$2B (Micro),Yes,"5,311,140",0.57
+OI,O-I Glass Inc,$14.79,$2B (Small),Yes,"1,923,230",0.8
+OIS,Oil States International Inc,$9.40,$562M (Micro),Yes,"915,910",1.24
+OLMA,Olema Pharmaceuticals Inc,$22.59,$2B (Micro),Yes,"1,599,010",1.95
+OMER,Omeros Corp,$11.69,$829M (Micro),Yes,"1,021,190",2.45
+ONB,Old National Bancorp,$24.77,$10B (Mid),Yes,"3,186,870",0.82
+ONDS,Ondas Inc,$9.31,$4B (Small),Yes,"83,741,590",2.49
+ONTF,ON24 Inc,$7.92,$336M (Micro),Yes,"476,300",0.6
+OPFI,OppFi Inc,$8.91,$769M (Micro),Yes,"472,290",1.72
+OPRA,Opera Ltd,$12.38,$1B (Micro),Yes,"866,600",1.16
+OPRX,OptimizeRx Corp,$8.75,$163M (Micro),Yes,"492,550",1.19
+ORC,Orchid Island Capital Inc,$7.53,$1B (Micro),Yes,"7,268,880",1.67
+ORIC,Oric Pharmaceuticals Inc,$9.99,$973M (Micro),Yes,"1,174,280",1.33
+ORN,Orion Group Holdings Inc,$13.84,$555M (Micro),Yes,"486,890",1.14
+OSBC,Old Second Bancorp Inc,$20.57,$1B (Micro),Yes,"328,390",0.78
+OSCR,Oscar Health Inc,$13.42,$4B (Small),Yes,"11,624,350",1.9
+OSG,Octave Specialty Group Inc,$5.76,$252M (Micro),Yes,"482,650",0.82
+OSPN,OneSpan Inc,$11.24,$427M (Micro),Yes,"1,038,280",1.53
+OSS,One Stop Systems Inc,$8.70,$213M (Micro),Yes,"1,755,240",0.91
+OSW,Onespaworld Holdings Ltd,$22.70,$2B (Small),Yes,"3,025,840",0.97
+OTEX,Open Text Corp,$24.59,$6B (Small),Yes,"3,854,690",1.09
+OUST,Ouster Inc,$18.77,$1B (Micro),Yes,"1,883,180",2.91
+OWL,Blue Owl Capital Inc,$12.30,$19B (Mid),Yes,"38,514,870",1.13
+PAA,Plains All American Pipeline LP,$20.15,$14B (Mid),Yes,"3,951,830",0.56
+PACK,Ranpak Holdings Corp,$5.97,$504M (Micro),Yes,"618,610",2.77
+PAGP,Plains GP Holdings LP,$21.59,$4B (Small),Yes,"2,449,730",0.53
+PAGS,PagSeguro Digital Ltd,$10.55,$3B (Small),Yes,"4,412,740",1.37
+PANL,Pangaea Logistics Solutions Ltd,$8.48,$551M (Micro),Yes,"710,620",0.77
+PAR,PAR Technology Corp,$20.86,$847M (Micro),Yes,"1,783,840",1.33
+PATH,UiPath Inc,$11.32,$6B (Small),Yes,"33,290,810",1.08
+PAVM,PAVmed Inc,$10.45,$10M (Micro),Yes,"303,710",0.88
+PAX,Patria Investments Ltd,$13.91,$2B (Small),Yes,"1,353,610",0.69
+PAY,Paymentus Holdings Inc,$23.10,$3B (Small),Yes,"739,890",1.51
+PAYO,Payoneer Global Inc,$5.40,$2B (Micro),Yes,"4,493,280",1.07
+PBI,Pitney Bowes Inc,$10.25,$2B (Micro),Yes,"1,703,320",1.42
+PBR,Petroleo Brasileiro SA Petrobras,$15.19,$57B (Large),Yes,"24,760,050",0.57
+PBYI,Puma Biotechnology Inc,$6.82,$344M (Micro),Yes,"432,210",1.22
+PCG,PG&E Corp,$18.16,$40B (Mid),Yes,"24,102,490",0.33
+PCRX,Pacira Biosciences Inc,$21.77,$895M (Micro),Yes,"713,460",0.21
+PCT,Purecycle Technologies Inc,$8.69,$2B (Micro),Yes,"2,987,850",2.03
+PD,PagerDuty Inc,$6.94,$637M (Micro),Yes,"4,699,980",0.74
+PDM,Piedmont Realty Trust Inc,$8.25,$1B (Micro),Yes,"1,046,980",1.23
+PDYN,Palladyne AI Corp,$6.72,$300M (Micro),Yes,"3,506,270",3.78
+PEB,Pebblebrook Hotel Trust,$12.75,$1B (Micro),Yes,"2,071,520",1.47
+PENG,Penguin Solutions Inc,$19.37,$1B (Micro),Yes,"1,514,320",2.19
+PENN,PENN Entertainment Inc,$11.76,$2B (Micro),Yes,"4,551,500",1.38
+PEPG,PepGen Inc,$6.44,$443M (Micro),Yes,"915,940",1.84
+PERI,Perion Network Ltd,$8.54,$345M (Micro),Yes,"380,740",1.45
+PFLT,PennantPark Floating Rate Capital Ltd,$8.63,$856M (Micro),Yes,"1,454,950",0.76
+PFS,Provident Financial Services Inc,$22.96,$3B (Small),Yes,"900,010",0.84
+PGNY,Progyny Inc,$20.69,$2B (Micro),Yes,"1,388,970",1.0
+PGY,Pagaya Technologies Ltd,$12.43,$999M (Micro),Yes,"8,030,970",5.94
+PHAT,Phathom Pharmaceuticals Inc,$12.02,$937M (Micro),Yes,"800,140",0.52
+PHR,Phreesia Inc,$11.95,$720M (Micro),Yes,"2,511,660",0.68
+PINS,Pinterest Inc,$15.42,$10B (Mid),Yes,"22,088,190",0.95
+PK,Park Hotels & Resorts Inc,$11.20,$2B (Small),Yes,"3,965,880",1.39
+PKE,Park Aerospace Corp,$23.68,$472M (Micro),Yes,"260,310",0.33
+PL,Planet Labs PBC,$22.42,$8B (Mid),Yes,"10,380,880",1.97
+PLAY,Dave & Buster's Entertainment Inc,$14.85,$515M (Micro),Yes,"854,160",1.8
+PLSE,Pulse Biosciences Inc,$23.01,$2B (Micro),Yes,"739,120",1.64
+PMT,PennyMac Mortgage Investment Trust,$12.64,$1B (Micro),Yes,"1,352,770",1.23
+PNNT,Pennantpark Investment Corp,$5.16,$337M (Micro),Yes,"957,250",0.68
+POET,POET Technologies Inc,$5.58,$852M (Micro),Yes,"7,063,590",0.39
+PR,Permian Resources Corp,$17.29,$14B (Mid),Yes,"13,167,850",0.65
+PRA,ProAssurance Corp,$24.49,$1B (Micro),Yes,"714,460",0.05
+PRAA,PRA Group Inc,$10.86,$424M (Micro),Yes,"647,320",1.31
+PRCH,Porch Group Inc,$8.36,$1B (Micro),Yes,"2,457,660",3.02
+PRE,Prenetics Global Ltd,$21.97,$310M (Micro),Yes,"283,300",0.31
+PRGO,Perrigo Company PLC,$14.54,$2B (Micro),Yes,"1,992,110",0.39
+PRMB,Primo Brands Corp,$18.76,$7B (Small),Yes,"4,999,440",0.64
+PRTH,Priority Technology Holdings Inc,$5.39,$441M (Micro),Yes,"393,560",1.4
+PRVA,Privia Health Group Inc,$22.39,$3B (Small),Yes,"705,850",0.84
+PSFE,Paysafe Ltd,$6.11,$351M (Micro),Yes,"545,780",1.76
+PSKY,Paramount Skydance Corp,$10.32,$11B (Mid),Yes,"8,479,290",1.21
+PSNL,Personalis Inc,$8.21,$729M (Micro),Yes,"1,269,120",2.04
+PSNY,Polestar Automotive Holding UK PLC,$18.44,$2B (Micro),Yes,"423,560",1.27
+PSO,Pearson PLC,$12.56,$8B (Mid),Yes,"1,534,120",0.38
+PSTL,Postal Realty Trust Inc,$18.85,$492M (Micro),Yes,"365,320",0.73
+PTEN,Patterson-UTI Energy Inc,$8.10,$3B (Small),Yes,"12,107,730",0.71
+PTLO,Portillos Inc,$5.40,$407M (Micro),Yes,"1,520,550",1.75
+PUBM,PubMatic Inc,$6.54,$304M (Micro),Yes,"814,190",1.5
+PUMP,ProPetro Holding Corp,$12.02,$1B (Micro),Yes,"3,160,820",0.71
+PWP,Perella Weinberg Partners,$21.48,$2B (Micro),Yes,"1,351,550",1.66
+QBTS,D-Wave Quantum Inc,$19.67,$7B (Small),Yes,"28,530,970",1.6
+QDEL,QuidelOrtho Corp,$23.58,$2B (Micro),Yes,"1,420,510",0.74
+QFIN,Qfin Holdings Inc,$15.55,$2B (Micro),Yes,"1,489,850",0.53
+QNST,QuinStreet Inc,$11.25,$641M (Micro),Yes,"1,420,110",0.71
+QS,Quantumscape Corp,$7.73,$5B (Small),Yes,"18,313,940",2.51
+QTRX,Quanterix Corp,$5.74,$268M (Micro),Yes,"561,080",1.08
+QUBT,Quantum Computing Inc,$8.47,$2B (Micro),Yes,"14,215,050",3.51
+QURE,Uniqure NV,$20.50,$1B (Micro),Yes,"2,097,450",0.7
+RAMP,Liveramp Holdings Inc,$24.36,$2B (Micro),Yes,"925,470",1.14
+RARE,Ultragenyx Pharmaceutical Inc,$20.52,$2B (Micro),Yes,"2,572,370",0.18
+RCAT,Red Cat Holdings Inc,$11.37,$1B (Micro),Yes,"9,336,570",1.39
+RCUS,Arcus Biosciences Inc,$18.92,$2B (Small),Yes,"920,630",0.86
+RDW,Redwire Corp,$8.02,$1B (Micro),Yes,"24,344,830",2.54
+RDY,Dr Reddy's Laboratories Ltd,$14.14,$12B (Mid),Yes,"2,219,340",0.34
+REAL,RealReal Inc,$11.45,$1B (Micro),Yes,"3,174,390",2.7
+RELY,Remitly Global Inc,$12.76,$3B (Small),Yes,"3,208,940",0.11
+REPL,Replimune Group Inc,$7.97,$658M (Micro),Yes,"1,150,760",0.71
+RES,RPC Inc,$5.82,$1B (Micro),Yes,"3,438,150",0.69
+REYN,Reynolds Consumer Products Inc,$23.73,$5B (Small),Yes,"1,615,850",0.56
+RGNX,Regenxbio Inc,$7.99,$404M (Micro),Yes,"1,085,860",1.11
+RGTI,Rigetti Computing Inc,$16.09,$5B (Small),Yes,"31,061,840",1.74
+RHI,Robert Half Inc,$24.77,$3B (Small),Yes,"4,464,460",0.91
+RIG,Transocean Ltd,$6.54,$7B (Small),Yes,"84,770,200",1.38
+RILY,BRC Group Holdings Inc,$6.82,$209M (Micro),Yes,"676,030",1.26
+RIOT,Riot Platforms Inc,$15.22,$6B (Small),Yes,"21,087,690",3.58
+RITM,Rithm Capital Corp,$10.57,$6B (Small),Yes,"11,005,200",1.2
+RIVN,Rivian Automotive Inc,$17.73,$22B (Mid),Yes,"39,165,290",1.7
+RKT,Rocket Companies Inc,$18.68,$53B (Large),Yes,"34,019,310",2.29
+RLAY,Relay Therapeutics Inc,$8.93,$2B (Micro),Yes,"2,740,070",1.57
+RLGT,Radiant Logistics Inc,$7.33,$343M (Micro),Yes,"318,550",0.69
+RLJ,RLJ Lodging Trust,$8.29,$1B (Micro),Yes,"1,653,840",1.06
+RMR,RMR Group Inc,$17.04,$546M (Micro),Yes,"285,020",0.92
+RNW,Renew Energy Global PLC,$5.35,$2B (Micro),Yes,"749,730",0.9
+RPC,Ridgepost Capital Inc,$8.70,$957M (Micro),Yes,"737,920",0.5
+RPD,Rapid7 Inc,$7.18,$470M (Micro),Yes,"2,344,530",0.89
+RSI,Rush Street Interactive Inc,$16.03,$4B (Small),Yes,"2,338,980",1.59
+RUM,Rumble Inc,$5.96,$2B (Micro),Yes,"2,246,650",0.68
+RUN,Sunrun Inc,$19.09,$4B (Small),Yes,"8,401,050",2.37
+RWAY,Runway Growth Finance Corp,$8.59,$310M (Micro),Yes,"424,980",0.62
+RXO,RXO Inc,$13.51,$2B (Small),Yes,"4,609,660",1.62
+RXST,Rxsight Inc,$8.04,$331M (Micro),Yes,"1,149,630",1.14
+RYAM,Rayonier Advanced Materials Inc,$8.24,$552M (Micro),Yes,"713,630",2.16
+RYN,Rayonier Inc,$23.60,$7B (Small),Yes,"3,638,820",0.98
+S,SentinelOne Inc,$13.87,$5B (Small),Yes,"9,924,970",0.77
+SAFE,Safehold Inc,$15.66,$1B (Micro),Yes,"397,810",1.79
+SAN,Banco Santander SA,$11.86,$174B (Large),Yes,"25,539,340",0.73
+SB,Safe Bulkers Inc,$5.99,$613M (Micro),Yes,"706,850",1.05
+SBGI,Sinclair Inc,$14.96,$1B (Micro),Yes,"387,800",0.94
+SBH,Sally Beauty Holdings Inc,$16.32,$2B (Micro),Yes,"2,343,720",1.13
+SBLK,Star Bulk Carriers Corp,$23.80,$3B (Small),Yes,"1,029,430",0.76
+SBRA,Sabra Health Care REIT Inc,$20.17,$5B (Small),Yes,"3,394,960",0.63
+SBSW,Sibanye Stillwater Ltd,$17.23,$12B (Mid),Yes,"7,514,490",0.62
+SCM,Stellus Capital Investment Corp,$11.47,$332M (Micro),Yes,"294,510",0.66
+SCVL,Shoe Carnival Inc,$20.09,$550M (Micro),Yes,"332,390",1.33
+SD,SandRidge Energy Inc,$16.90,$621M (Micro),Yes,"332,360",0.54
+SDGR,Schrodinger Inc,$11.40,$840M (Micro),Yes,"1,978,610",1.58
+SEM,Select Medical Holdings Corp,$16.38,$2B (Micro),Yes,"844,960",1.19
+SEMR,SEMrush Holdings Inc,$11.83,$2B (Micro),Yes,"2,266,760",1.55
+SENS,Senseonics Holdings Inc,$7.51,$307M (Micro),Yes,"612,030",0.92
+SFL,SFL Corporation Ltd,$10.30,$1B (Micro),Yes,"2,193,230",0.44
+SFNC,Simmons First National Corp,$21.36,$3B (Small),Yes,"1,256,840",0.9
+SG,Sweetgreen Inc,$5.14,$608M (Micro),Yes,"4,019,180",1.95
+SGHC,SGHC Ltd,$8.96,$5B (Small),Yes,"3,383,600",1.09
+SGRY,Surgery Partners Inc,$15.46,$2B (Micro),Yes,"1,975,390",1.95
+SHBI,Shore Bancshares Inc,$19.79,$661M (Micro),Yes,"341,790",0.88
+SHC,Sotera Health Co,$17.12,$5B (Small),Yes,"1,627,330",1.83
+SHEN,Shenandoah Telecommunications Co,$12.94,$710M (Micro),Yes,"336,990",0.79
+SHLS,Shoals Technologies Group Inc,$10.24,$2B (Micro),Yes,"4,168,990",1.68
+SHO,Sunstone Hotel Investors Inc,$9.22,$2B (Micro),Yes,"2,732,390",0.97
+SIBN,SI-BONE Inc,$15.33,$665M (Micro),Yes,"401,580",0.7
+SIGA,SIGA Technologies Inc,$6.79,$486M (Micro),Yes,"373,480",0.96
+SIRI,Sirius XM Holdings Inc,$21.29,$7B (Small),Yes,"8,771,940",0.92
+SITC,Site Centers Corp,$6.46,$339M (Micro),Yes,"641,320",1.04
+SLDB,Solid Biosciences Inc,$6.19,$482M (Micro),Yes,"1,367,070",2.64
+SLM,SLM Corp,$24.04,$5B (Small),Yes,"3,091,630",1.16
+SLP,Simulations Plus Inc,$12.29,$248M (Micro),Yes,"526,420",1.19
+SLRC,SLR Investment Corp,$15.00,$818M (Micro),Yes,"312,120",0.68
+SM,SM Energy Co,$21.46,$5B (Small),Yes,"8,169,320",1.04
+SMFG,Sumitomo Mitsui Financial Group Inc,$23.81,$151B (Large),Yes,"2,601,240",0.35
+SMPL,Simply Good Foods Co,$15.95,$1B (Micro),Yes,"2,514,790",0.28
+SMR,Nuscale Power Corp,$14.31,$4B (Small),Yes,"25,437,800",2.2
+SNBR,Sleep Number Corp,$9.42,$215M (Micro),Yes,"571,380",1.89
+SNCR,Synchronoss Technologies Inc,$9.00,$104M (Micro),Yes,"293,880",1.41
+SNCY,Sun Country Airlines Holdings Inc,$21.19,$1B (Micro),Yes,"1,458,400",1.53
+SND,Smart Sand Inc,$5.36,$233M (Micro),Yes,"425,350",0.26
+SNDX,Syndax Pharmaceuticals Inc,$20.48,$2B (Micro),Yes,"1,254,030",0.43
+SOC,Sable Offshore Corp,$8.89,$1B (Micro),Yes,"5,509,740",0.42
+SOFI,SoFi Technologies Inc,$19.61,$25B (Mid),Yes,"67,594,600",2.2
+SONO,Sonos Inc,$15.51,$2B (Micro),Yes,"3,123,260",1.96
+SONY,Sony Group Corp,$23.19,$138B (Large),Yes,"8,378,290",0.95
+SOUN,SoundHound AI Inc,$7.46,$3B (Small),Yes,"27,847,560",2.92
+SPIR,Spire Global Inc,$9.51,$329M (Micro),Yes,"542,980",2.5
+SPNT,Siriuspoint Ltd,$20.51,$2B (Small),Yes,"654,630",0.66
+SPRY,ARS Pharmaceuticals Inc,$8.85,$875M (Micro),Yes,"1,226,130",0.79
+SPT,Sprout Social Inc,$7.15,$423M (Micro),Yes,"2,230,610",0.93
+SRAD,Sportradar Group AG,$16.47,$5B (Small),Yes,"2,784,530",2.02
+SRI,Stoneridge Inc,$8.82,$247M (Micro),Yes,"294,570",1.41
+SRPT,Sarepta Therapeutics Inc,$17.79,$2B (Micro),Yes,"2,392,960",0.41
+SSL,Sasol Ltd,$7.96,$5B (Small),Yes,"2,669,210",0.38
+SSTI,SoundThinking Inc,$7.58,$96M (Micro),Yes,"271,640",1.14
+SSTK,Shutterstock Inc,$17.27,$613M (Micro),Yes,"337,290",1.23
+SSYS,Stratasys Ltd,$10.97,$937M (Micro),Yes,"802,460",1.66
+STAA,STAAR Surgical Co,$16.10,$801M (Micro),Yes,"1,293,130",1.09
+STKL,Sunopta Inc,$6.44,$762M (Micro),Yes,"8,079,810",1.02
+STNE,StoneCo Ltd,$16.86,$5B (Small),Yes,"5,582,230",1.77
+STVN,Stevanato Group SpA,$16.01,$5B (Small),Yes,"974,610",0.57
+STWD,Starwood Property Trust Inc,$18.07,$7B (Small),Yes,"3,455,170",1.12
+SUPV,Grupo Supervielle SA,$10.52,$921M (Micro),Yes,"1,183,990",1.75
+SVM,Silvercorp Metals Inc,$10.98,$2B (Small),Yes,"6,646,970",0.96
+SVRA,Savara Inc,$5.60,$1B (Micro),Yes,"1,606,320",0.32
+SWBI,Smith & Wesson Brands Inc,$11.75,$523M (Micro),Yes,"492,890",1.05
+SWIM,Latham Group Inc,$6.60,$770M (Micro),Yes,"400,860",1.69
+SXC,SunCoke Energy Inc,$7.99,$676M (Micro),Yes,"1,031,340",0.93
+TAC,TransAlta Corp,$13.58,$4B (Small),Yes,"1,405,060",0.76
+TAK,Takeda Pharmaceutical Co Ltd,$18.46,$58B (Large),Yes,"2,923,200",0.04
+TAL,TAL Education Group,$11.25,$7B (Small),Yes,"3,991,690",0.09
+TALO,Talos Energy Inc,$13.12,$2B (Small),Yes,"1,851,910",0.52
+TARA,Protara Therapeutics Inc,$6.51,$336M (Micro),Yes,"541,600",1.4
+TASK,Taskus Inc,$10.02,$906M (Micro),Yes,"471,230",2.12
+TBCH,Turtle Beach Corp,$11.81,$228M (Micro),Yes,"264,550",2.23
+TBPH,Theravance Biopharma Inc,$19.53,$990M (Micro),Yes,"418,570",0.16
+TDAY,USA TODAY Co Inc,$5.96,$877M (Micro),Yes,"1,675,010",1.58
+TE,T1 Energy Inc,$6.12,$2B (Micro),Yes,"21,056,370",1.68
+TECX,Tectonic Therapeutic Inc,$22.28,$417M (Micro),Yes,"853,220",1.58
+TENB,Tenable Holdings Inc,$22.55,$3B (Small),Yes,"4,286,680",0.64
+TEO,Telecom Argentina SA,$11.42,$1B (Micro),Yes,"409,210",1.22
+TFSL,TFS Financial Corp,$14.93,$4B (Small),Yes,"798,280",0.72
+TGB,Taseko Mines Ltd,$8.29,$3B (Small),Yes,"7,375,500",1.19
+TGNA,Tegna Inc,$20.95,$3B (Small),Yes,"2,428,180",0.12
+TH,Target Hospitality Corp,$7.15,$713M (Micro),Yes,"363,030",1.37
+TIGR,UP Fintech Holding Ltd,$8.03,$1B (Micro),Yes,"2,638,630",0.43
+TK,Teekay Corp Ltd,$11.42,$974M (Micro),Yes,"588,970",0.04
+TKC,Turkcell Iletisim Hizmetleri AS,$7.05,$6B (Small),Yes,"999,370",0.91
+TLRY,Tilray Brands Inc,$7.51,$875M (Micro),Yes,"3,036,170",1.96
+TMC,TMC the metals company Inc,$6.09,$3B (Small),Yes,"7,518,780",1.88
+TME,Tencent Music Entertainment Group,$15.85,$25B (Mid),Yes,"6,467,290",0.53
+TNDM,Tandem Diabetes Care Inc,$18.95,$1B (Micro),Yes,"985,120",1.69
+TNGX,Tango Therapeutics Inc,$12.90,$2B (Micro),Yes,"2,939,390",1.73
+TNXP,Tonix Pharmaceuticals Holding Corp,$15.14,$194M (Micro),Yes,"315,080",1.87
+TPVG,Triplepoint Venture Growth BDC Corp,$5.65,$228M (Micro),Yes,"474,710",1.39
+TRIN,Trinity Capital Inc,$15.41,$1B (Micro),Yes,"1,548,970",0.6
+TRIP,Tripadvisor Inc,$9.61,$1B (Micro),Yes,"4,488,520",0.99
+TROX,Tronox Holdings PLC,$7.85,$1B (Micro),Yes,"4,278,510",1.06
+TRTX,TPG RE Finance Trust Inc,$8.85,$693M (Micro),Yes,"609,270",1.56
+TRVI,Trevi Therapeutics Inc,$10.40,$1B (Micro),Yes,"1,351,310",0.98
+TSLX,Sixth Street Specialty Lending Inc,$19.23,$2B (Micro),Yes,"1,122,180",0.75
+TSSI,TSS Inc,$8.14,$235M (Micro),Yes,"833,920",2.17
+TTI,Tetra Technologies Inc,$10.94,$1B (Micro),Yes,"1,580,440",1.17
+TU,Telus Corp,$13.48,$21B (Mid),Yes,"7,307,000",0.7
+TWI,Titan International Inc,$11.02,$705M (Micro),Yes,"746,970",1.44
+TWO,Two Harbors Investment Corp,$11.40,$1B (Micro),Yes,"2,979,630",1.19
+TXG,10X Genomics Inc,$18.12,$2B (Small),Yes,"3,132,170",2.24
+U,Unity Software Inc,$18.68,$8B (Mid),Yes,"36,372,130",2.15
+UAA,Under Armour Inc,$7.19,$2B (Micro),Yes,"14,524,210",1.75
+UAMY,United States Antimony Corp,$7.62,$1B (Micro),Yes,"14,533,790",0.02
+UE,Urban Edge Properties,$20.77,$3B (Small),Yes,"1,105,050",1.03
+UEC,Uranium Energy Corp,$15.52,$8B (Small),Yes,"10,340,760",1.22
+UGP,Ultrapar Participacoes SA,$5.13,$5B (Small),Yes,"2,224,260",0.85
+ULCC,Frontier Group Holdings Inc,$5.35,$1B (Micro),Yes,"4,356,480",2.5
+UMC,United Microelectronics Corp,$10.42,$26B (Mid),Yes,"10,580,370",1.03
+UMH,UMH Properties Inc,$16.09,$1B (Micro),Yes,"432,020",1.04
+UNCY,Unicycive Therapeutics Inc,$6.20,$133M (Micro),Yes,"540,470",1.83
+UNIT,Uniti Group Inc (Delaware),$8.36,$2B (Micro),Yes,"1,736,110",1.48
+UPBD,Upbound Group Inc,$20.31,$1B (Micro),Yes,"599,970",1.83
+UPWK,Upwork Inc,$13.23,$2B (Micro),Yes,"6,932,890",1.09
+URGN,Urogen Pharma Ltd,$20.10,$941M (Micro),Yes,"632,850",1.36
+USAU,US Gold Corp,$16.15,$263M (Micro),Yes,"343,780",0.8
+UTZ,UTZ Brands Inc,$9.35,$1B (Micro),Yes,"2,152,070",0.94
+UUUU,Energy Fuels Inc,$20.72,$5B (Small),Yes,"14,327,730",1.44
+VERX,Vertex Inc,$12.75,$2B (Micro),Yes,"4,259,350",0.66
+VFC,VF Corp,$20.30,$8B (Mid),Yes,"7,265,210",1.65
+VIPS,Vipshop Holdings Ltd,$17.54,$9B (Mid),Yes,"1,870,560",0.66
+VIR,Vir Biotechnology Inc,$7.47,$1B (Micro),Yes,"1,478,630",1.68
+VIV,Telefonica Brasil SA,$15.72,$25B (Mid),Yes,"998,140",0.64
+VLRS,Controladora Vuela Compania de Aviacion SAB de CV,$10.07,$1B (Micro),Yes,"649,540",1.83
+VLY,Valley National Bancorp,$13.49,$8B (Small),Yes,"9,895,000",1.07
+VNDA,Vanda Pharmaceuticals Inc,$6.09,$360M (Micro),Yes,"1,299,430",0.62
+VOD,Vodafone Group PLC,$15.57,$36B (Mid),Yes,"7,098,540",0.4
+VOR,Vor Biopharma Inc,$12.78,$531M (Micro),Yes,"785,180",2.03
+VRE,Veris Residential Inc,$16.63,$2B (Micro),Yes,"1,175,060",1.23
+VREX,Varex Imaging Corp,$13.52,$566M (Micro),Yes,"510,450",0.88
+VRRM,Verra Mobility Corp,$18.37,$3B (Small),Yes,"1,930,750",0.59
+VSH,Vishay Intertechnology Inc,$18.88,$3B (Small),Yes,"3,207,450",1.14
+VSTM,Verastem Inc,$5.82,$449M (Micro),Yes,"1,733,110",0.4
+VTRS,Viatris Inc,$15.77,$18B (Mid),Yes,"11,654,880",0.75
+VTYX,Ventyx Biosciences Inc,$13.97,$1B (Micro),Yes,"2,732,130",1.27
+VYX,NCR Voyix Corp,$9.49,$1B (Micro),Yes,"1,947,900",1.45
+WB,Weibo Corp,$10.01,$2B (Small),Yes,"1,354,970",0.14
+WDS,Woodside Energy Group Ltd,$18.62,$35B (Mid),Yes,"888,800",0.46
+WEAV,Weave Communications Inc,$5.60,$437M (Micro),Yes,"2,787,080",1.72
+WEN,Wendy's Co,$7.48,$1B (Micro),Yes,"10,957,730",0.38
+WEST,Westrock Coffee Co,$5.01,$485M (Micro),Yes,"305,550",0.47
+WNC,Wabash National Corp,$11.86,$480M (Micro),Yes,"851,000",1.62
+WPP,WPP PLC,$18.76,$4B (Small),Yes,"706,530",0.78
+WRBY,Warby Parker Inc,$22.46,$3B (Small),Yes,"3,077,840",2.08
+WSC,WillScot Holdings Corp,$21.62,$4B (Small),Yes,"1,652,400",1.08
+WT,WisdomTree Inc,$16.36,$2B (Small),Yes,"4,120,330",1.09
+WTTR,Select Water Solutions Inc,$12.82,$2B (Micro),Yes,"828,740",0.98
+WU,Western Union Co,$9.60,$3B (Small),Yes,"9,617,110",0.52
+WULF,Terawulf Inc,$16.26,$7B (Small),Yes,"47,841,770",3.67
+WWW,Wolverine World Wide Inc,$17.61,$1B (Micro),Yes,"983,010",1.89
+XERS,Xeris Biopharma Holdings Inc,$6.82,$1B (Micro),Yes,"1,264,110",0.65
+XHR,Xenia Hotels & Resorts Inc,$15.73,$1B (Micro),Yes,"582,670",1.17
+XIFR,XPLR Infrastructure LP,$10.79,$1B (Micro),Yes,"2,330,890",0.94
+XNCR,Xencor Inc,$11.59,$828M (Micro),Yes,"497,630",0.97
+XNET,Xunlei Ltd,$5.79,$364M (Micro),Yes,"250,450",1.05
+XP,XP Inc,$19.87,$10B (Mid),Yes,"6,940,700",1.21
+XPER,Xperi Inc,$5.46,$253M (Micro),Yes,"489,330",0.67
+XPEV,Xpeng Inc,$17.94,$17B (Mid),Yes,"7,038,920",1.19
+XPOF,Xponential Fitness Inc,$8.30,$406M (Micro),Yes,"433,810",1.4
+XPRO,Expro Group Holdings NV,$16.33,$2B (Micro),Yes,"756,790",0.92
+XRAY,DENTSPLY SIRONA Inc,$12.95,$3B (Small),Yes,"5,021,910",1.0
+YELP,Yelp Inc,$20.98,$1B (Micro),Yes,"1,969,570",0.58
+YEXT,Yext Inc,$5.57,$683M (Micro),Yes,"3,638,050",1.02
+YMM,Full Truck Alliance Co Ltd,$9.48,$10B (Mid),Yes,"6,583,690",0.23
+ZETA,Zeta Global Holdings Corp,$15.46,$4B (Small),Yes,"9,978,270",1.3
+ZGN,Ermenegildo Zegna NV,$11.04,$3B (Small),Yes,"719,180",0.77
+ZIM,ZIM Integrated Shipping Services Ltd,$22.20,$3B (Small),Yes,"2,334,300",1.54
+ZLAB,Zai Lab Ltd,$20.03,$2B (Small),Yes,"852,420",0.83
+ZURA,Zura Bio Ltd,$6.08,$448M (Micro),Yes,"393,990",0.19
+ZVRA,Zevra Therapeutics Inc,$8.50,$479M (Micro),Yes,"750,290",0.93
+ZYME,Zymeworks Inc,$22.60,$2B (Micro),Yes,"554,070",1.23
